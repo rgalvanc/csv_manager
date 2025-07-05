@@ -5,10 +5,10 @@ from view.main_window import MainWindow
 def main():
     csv_path = 'data/cyclo-xxx.csv'
     model = CSVModel(csv_path)
-    data = model.load_data()
+    model.load_data()
 
     app = QApplication(sys.argv)
-    window = MainWindow(data)
+    window = MainWindow(model)
     window.show()
     sys.exit(app.exec_())
 

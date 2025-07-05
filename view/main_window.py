@@ -1,33 +1,53 @@
 from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import QTableWidgetItem
+from PyQt5.QtGui import QColor
+from PyQt5.QtWidgets import QTableWidgetItem, QComboBox
+
 
 class MainWindow(QtWidgets.QMainWindow):
-    def __init__(self, data):
+    def __init__(self, model):
         super().__init__()
+
+        #estructura visual
         self.setWindowTitle("CSV Manager")
         self.resize(800, 600)
 
+        self.model = model #CSVModel pasado como objeto
+        self.headers = model.get_headers()
+
+
         central_widget = QtWidgets.QWidget(self)
-        layout = QtWidgets.QVBoxLayout()
+        main_layout = QtWidgets.QVBoxLayout()
+
+        #Topbar
+        self.filter_combo = QComboBox()
+        self.filter_combo.addItems(["Mostrar activos","Mostrar todos"])
+        self.filter_combo.currentIndexChanged.connect(self.update_table)
+        main_layout.addWidget(self.filter_combo)
+
+        #Tabla
         self.table = QtWidgets.QTableWidget()
-        layout.addWidget(self.table)
-        central_widget.setLayout(layout)
+        main_layout.addWidget(self.table)
+
+
+        central_widget.setLayout(main_layout)
         self.setCentralWidget(central_widget)
 
-        self.populate_table(data)
+        self.update_table()
 
-    def populate_table(self, data):
-        if not data:
-            return
+    #Toma los datos del modelo y los visualiza en el QTableWidget
+    def update_table(self):
+        mostrar_todos = self.filter_combo.currentText() == "Mostrar todos"
 
-        headers = data[0]
-        rows = data[1:]
+        rows = self.model.get_all_rows() if mostrar_todos  else self.model.get_active_rows()
 
-        self.table.setColumnCount(len(headers))
+        self.table.clearContents()
         self.table.setRowCount(len(rows))
-        self.table.setHorizontalHeaderLabels(headers)
+        self.table.setColumnCount(len(self.headers) )  # Ocultar columna de estado
+        self.table.setHorizontalHeaderLabels(self.headers)
 
         for row_idx, row in enumerate(rows):
-            for col_idx, cell in enumerate(row):
+            for col_idx, cell in enumerate(row[:-1]):
                 item = QTableWidgetItem(cell)
+                if mostrar_todos and row[-1] == "0":
+                    item.setBackground(QColor(220, 220, 220))  # sombrear inactiva
                 self.table.setItem(row_idx, col_idx, item)
