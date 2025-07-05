@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Qt Designer backup files
+*.bak
+*.autosave
+
+# Compiled UI and resource files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# CSV or other local data files (optional)
+#data/*.csv
+
+
