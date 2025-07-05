@@ -1,15 +1,18 @@
+import sys
+from PyQt5.QtWidgets import QApplication
 from model.csv_model import CSVModel
-
+from view.main_window import MainWindow
 def main():
-    csv_path = 'data/cyclo-xxx.csv' # TODO carga del archivo. Luego añadir un buscador
+    csv_path = 'data/cyclo-xxx.csv'
     model = CSVModel(csv_path)
+    data = model.load_data()
 
-    try:
-        data = model.load_data()
-        for row in data:
-            print(row) # TODO luego diferenciar los distintos atributos
-    except Exception as e:
-        print(e)
+    app = QApplication(sys.argv)
+    window = MainWindow(data)
+    window.show()
+    sys.exit(app.exec_())
+
+
 
 #inicialización
 if __name__ == '__main__':
