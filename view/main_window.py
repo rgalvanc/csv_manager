@@ -2,10 +2,15 @@ from PyQt5 import QtWidgets
 from PyQt5.QtGui import QColor
 from PyQt5.QtWidgets import (
     QTableWidgetItem, QComboBox, QLabel, QPushButton,
-    QHBoxLayout, QVBoxLayout, QTableWidget
+    QHBoxLayout, QVBoxLayout, QTableWidget, QStackedWidget
 )
+
+from controller.nav_controller import NavigationController
 from view.sidebar import Sidebar
 from view.table_widget import CSVTable
+from view.csv import CSV
+from view.settings import Settings
+from view.home import Home
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self, model):
         super().__init__()
@@ -16,7 +21,6 @@ class MainWindow(QtWidgets.QMainWindow):
 
         '''ESTRUCTURA INICIAL: de momento sin QTDesigner ya que tengo que familiarizarme con la aplicacion.
          Coloco los wigets "manualmente" y ya veré como mejorar la apariencia'''
-
 
 
         # --- Widget central ---  OJO : MainWindow solo admite un único widget central
@@ -31,30 +35,33 @@ class MainWindow(QtWidgets.QMainWindow):
         self.sidebar = Sidebar()
         main_layout.addWidget(self.sidebar)
 
-        # --- Contenido principal (derecha) ---
-        content_layout = QVBoxLayout()
+
+        self.stack = QStackedWidget()
+        main_layout.addWidget(self.stack)
+
+        #CONTROL DE NAVEGACION
+        self.navigator = NavigationController(self.stack)
+
+        #instancio paginas
+        self.csv_page = CSV(model)
+        self.home_page = Home()
+        self.settings_page = Settings()
+
+        self.navigator.add_page("CSV",self.csv_page)
+        self.navigator.add_page("Home",self.home_page)
+        self.navigator.add_page("Settings",self.settings_page)
+
+        #Vinculacion con los botones del sidebar
+        self.sidebar.buttons[0].clicked.connect(lambda: self.navigator.show_page("Home"))
+        self.sidebar.buttons[1].clicked.connect(lambda: self.navigator.show_page("CSV"))
+        self.sidebar.buttons[2].clicked.connect(lambda: self.navigator.show_page("Settings"))
+
+        #Pagina por defecto
+        self.navigator.show_page("Home")
 
 
-        #TODO : AÑADIR EL COMBOBOX FILTRO Y LA TABLA AL COMBO A LA DERECHA Y QUE SE ACTIVE AL DARLE AL BOTON DE CSV
 
-        # --- ComboBox filtro arriba ---
-        self.filter_combo = QComboBox()
-        self.filter_combo.addItems(["Mostrar activos", "Mostrar todos"])
-        self.filter_combo.currentIndexChanged.connect(self.update_table)
-        content_layout.addWidget(self.filter_combo)
 
-        # --- Tabla principal ---
-        self.table = CSVTable(model)
-        content_layout.addWidget(self.table)
-
-        main_layout.addLayout(content_layout)
-
-        self.update_table()
-
-    def update_table(self):
-        mostrar_todos = self.filter_combo.currentText() == "Mostrar todos"
-        rows = self.model.get_all_rows() if mostrar_todos else self.model.get_active_rows()
-        self.table.update_data(rows)
 
 
 
