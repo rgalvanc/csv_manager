@@ -1,5 +1,4 @@
 import os
-import csv
 
 class CSVModel:
 
