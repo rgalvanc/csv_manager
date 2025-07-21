@@ -1,27 +1,43 @@
-from dataclasses import field
-from os import close
+from PyQt5.QtCore import Qt, pyqtSignal
+from PyQt5.QtWidgets import QDialog, QVBoxLayout, QLabel, QFormLayout, QLineEdit, QPushButton, QCheckBox, QHBoxLayout
 
-from PyQt5.QtCore import Qt
-from PyQt5.QtWidgets import QDialog, QVBoxLayout, QLabel, QFormLayout, QLineEdit, QPushButton
 
 
 class DetailView(QDialog):
-    def __init__(self,row_data,headers,parent=None):
+    data_updated = pyqtSignal()
+    def __init__(self,row_data,headers,model, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Datos por CAS")
         self.setMinimumWidth(500)
 
+        self.row_data = row_data
+        self.headers = headers
+        self.model = model
+        self.index_in_model = model.data.index(row_data)
+
+        self.fields = []
+
         layout = QVBoxLayout()
         form_layout = QFormLayout()
-        for header,value in zip(headers,row_data):
+        for header,value in zip(headers,row_data[:-1]):
             label = QLabel(header)
             field = QLineEdit(value)
-            field.setReadOnly(True)
+           # field.setReadOnly(True)
             form_layout.addRow(label,field)
+            self.fields.append(field)
 
         layout.addLayout(form_layout)
 
-        close_btn = QPushButton("Close")
+        self.active_checkbox = QCheckBox("Fila activa")
+        self.active_checkbox.setChecked(row_data[-1]=="1")
+        layout.addWidget(self.active_checkbox)
+
+        button_layout = QHBoxLayout()
+        save_btn = QPushButton("Guardar cambios")
+        save_btn.clicked.connect(self.save_changes)
+        layout.addWidget(save_btn)
+
+        close_btn = QPushButton("Cerrar")
         close_btn.clicked.connect(self.accept)
         layout.addWidget(close_btn,alignment=Qt.AlignRight)
 
@@ -55,3 +71,11 @@ class DetailView(QDialog):
 
 
         self.setLayout(layout)
+
+    def save_changes(self):
+        new_row = [field.text() for field in self.fields] #fila con los datos editados
+        new_row.append("1" if self.active_checkbox.isChecked() else "0")
+        self.model.data[self.index_in_model] = new_row #actualizamos la fila que se ha seleccionado
+        self.model.save_data()
+        self.data_updated.emit()
+        self.accept()

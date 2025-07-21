@@ -52,7 +52,11 @@ class CSV(QWidget):
         if matching_rows:
             #print("Fila seleccionada por CAS:", matching_rows[0])
             headers = self.model.get_headers()
-            detail_window = DetailView(matching_rows[0], headers,self)
+            detail_window = DetailView(matching_rows[0], headers,self.model,self)
+
+           #conexion con la actualizacion cuando se le de a guardar cambios
+            detail_window.data_updated.connect(self.update_table)
+
             detail_window.exec_()
         else:
             print(f"No se encontró ninguna fila con CAS: {cas}")

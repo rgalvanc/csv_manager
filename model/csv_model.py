@@ -40,6 +40,19 @@ class CSVModel:
 
         return self.data
 
+    def save_data(self):
+        with open(self.filepath, 'w', newline='', encoding='utf-8') as csvfile:
+            csvfile.write(';'.join(self.get_headers())+'\n') #escribe la cabecera
+
+            for row in self.get_all_rows():
+                is_active = row[-1] == '1'
+                line = ';'.join(row[:-1])
+                if not is_active:
+                    line =f'#{line}'
+                csvfile.write(line+'\n')
+
+
+
     def get_headers(self):
         return self.data[0] if self.data else []
 
