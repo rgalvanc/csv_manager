@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QWidget, QVBoxLayout, QComboBox, QHBoxLayout, QLineEdit
+from PyQt5.QtWidgets import QWidget, QVBoxLayout, QComboBox, QHBoxLayout, QLineEdit, QMessageBox
 from view.table_widget import CSVTable
 from view.detail_view import DetailView
 
@@ -26,7 +26,7 @@ class CSV(QWidget):
         self.search_input.textChanged.connect(self.update_table)
         filter_row.addWidget(self.search_input)
 
-        self.table = CSVTable(model)
+        self.table = CSVTable(model,self)
 
         self.table.cellClicked.connect(self.handle_row_click)
 
@@ -79,4 +79,29 @@ class CSV(QWidget):
             ]
 
         self.table.update_data(rows)
+
+    def confirm_delete_row(self,row_index):
+        row_data = [self.table.item(row_index, col).text() for col in range(self.table.columnCount())]
+        cas_item = row_data[1]
+
+        msg = QMessageBox(self)
+        msg.setIcon(QMessageBox.Warning)
+        msg.setWindowTitle("Confirmar eliminación de fila")
+        msg.setText(f"¿Seguro que quieres eliminar la fila con CAS: {cas_item}?")
+        msg.setInformativeText("\n".join(f"{header}: {val}" for header, val in zip(self.model.get_headers(), row_data)))
+        msg.setStandardButtons(QMessageBox.Cancel | QMessageBox.Ok)
+
+
+        if msg.exec_() == QMessageBox.Ok:
+           for idx, data_row in enumerate(self.model.data[1:],start=1):
+               if data_row[:-1] == row_data:
+                   print(f"🗑 Eliminando fila: {data_row}")
+                   del self.model.data[idx]
+                   self.model.save_data() #sobreescribo sin esa fila
+                   self.update_table()
+                   return
+
+
+
+
 
