@@ -1,0 +1,58 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+#[BibTex]:ww
+ 16.1   28.40
+ 20.0   27.93
+ 41.0   25.53
+ 61.0   23.08
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2025-03-20
+#[by]:rodrigo
+13.5 27.84
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+273.15 0.02984
+293.15 0.02754
+313.15 0.02525
+333.15 0.02298
+353.15 0.02074
+373.15 0.01852
+393.15 0.01633
+413.15 0.01418
+433.15 0.01208
+453.15 0.01003
+473.15 0.00804
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+ 298.15    26.99
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+  273.15 0.02980
+  393.15 0.01640
+@m
+#[label]:Ivanov et al. (2011)
+#[Ref]:Ivanov, B. N., Shaikhutdinov, R. R., & Bilalov, M. I. (2011). Effect of hydrocarbons of different groups on the phase stability of ethanol-containing fuels. Chemistry and Technology of Fuels and Oils, 47(4), 254-262.
+#[BibTex]:
+273.15    31.02
+283.15    29.42
+293.15    27.91
+303.15    26.51
+323.15    23.97
+373.15    18.88
+@m
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+#[BibTex]:
+  298.15 27.0

@@ -1,0 +1,51 @@
+@cm
+#[label]:WW97-53A1
+#[Ref]:A.P.I.Res.Project 44 (1953)
+#[BibTeX]: 53A1
+#[date]: 2024-11-05
+#[by]:rodrigo
+ 5.0   24.47
+ 10.0  23.98
+ 20.0  23.01
+ 30.0  22.03
+ 40.0  21.06
+ 50.0  20.08
+ 60.0  19.10
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    22.52
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 293.15    23.02
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.02720
+273.15 0.02511
+293.15 0.02308
+313.15 0.02110
+333.15 0.01917
+353.15 0.01730
+373.15 0.01550
+393.15 0.01378
+413.15 0.01213
+433.15 0.01056
+453.15 0.00908
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02301

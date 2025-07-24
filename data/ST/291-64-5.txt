@@ -1,0 +1,99 @@
+#[Nombre]:CYCLOHEPTANE
+#[CASN]:291-64-5
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C7H14
+#[SMILES]:C1CCCCCC1
+#[Structure]:-(CH2)7-
+#[SYN]:SUBERANE
+#[MW]:98.1861;
+#[TC]:604.2;
+#[PC]:3.82e+06;
+#[VC]:0.353;
+#[ZC]:0.268;
+#[MP]:265.12;
+#[TPT]:265.12;
+#[TPP]:398.711;
+#[NBP]:391.94;
+#[HFOR]:-1.19035e+08;
+#[GFOR]:6.33876e+07;
+#[ENT]:342335;
+#[HSTD]:-1.5661e+08;
+#[GSTD]:5.5562e+07;
+#[SSTD]:242550;
+#[HFUS]:1.8828e+06;
+#[HCOM]:-4.28973e+09;
+#[ACEN]:0.240842;
+#[RG]:3.555e-10;
+#[DM]:0;
+#[VDWV]:0.07161;
+#[VDWA]:9.45e+08;
+#[RI]:1.4424;
+#[AIT]:503.15;
+#[PAR]:277.5;
+#[HSUB]:4.225e+07;
+#[LVOL]:0.121704;
+#[SOLP]:17220;
+#[DC]:2.0784;
+#[FLVL]:1.1;
+#[FLTL]:281;
+#[FLVU]:6.7;
+#[FLTU]:315;
+#[FP]:280.15;
+#[ACCW]:283963;
+#[SOLW]:3.52158e-06;
+#[HLC]:826668;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+273.15 0.0298
+283.15 0.0287
+293.15 0.0276
+298.15 0.0271
+303.15 0.0265
+313.15 0.0254
+323.15 0.0243
+333.15 0.0232
+343.15 0.022
+353.15 0.0209
+363.15 0.0198
+373.15 0.0187
+383.15 0.0176
+393.15 0.0164
+#[Ajuste]: 106
+#2
+#0.065676
+#1.3045
+#[Calidad]: 265.12 0.030913 604.2 0 1.9 287
+
+
+#[RefID]:2590
+#[Ref]:Godchot, M., Cauquil, G.Viscosity, Surface Tension and Parachors for Certain Cyclic Hydrocarbons, C. R. Hebd. Seances Acad. Sci., 192, 1931, 1560-1562
+#[Year]:1931
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+286.65 0.02784
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+289.25 0.0284
+314.15 0.02553
+334.15 0.02308

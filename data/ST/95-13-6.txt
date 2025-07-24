@@ -1,0 +1,79 @@
+#[Nombre]:INDENE
+#[CASN]:95-13-6
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDENES
+#[Formula]:C9H8
+#[SMILES]:c1(CC=C2)c2cccc1
+#[Structure]:C6H4(CH2CHCH)
+#[SYN]:INDONAPTHENE
+#[MW]:116.16;
+#[TC]:687;
+#[PC]:3.82e+06;
+#[VC]:0.368;
+#[ZC]:0.246;
+#[MP]:271.7;
+#[TPT]:271.7;
+#[TPP]:17.0209;
+#[NBP]:455.77;
+#[HFOR]:1.6328e+08;
+#[GFOR]:2.3396e+08;
+#[ENT]:336870;
+#[HSTD]:1.1042e+08;
+#[GSTD]:2.156e+08;
+#[SSTD]:221300;
+#[HFUS]:1.02e+07;
+#[HCOM]:-4.61948e+09;
+#[ACEN]:0.333766;
+#[RG]:3.839e-10;
+#[DM]:2.23e-30;
+#[VDWV]:0.06723;
+#[VDWA]:7.23e+08;
+#[RI]:1.574;
+#[AIT]:;
+#[PAR]:289.1;
+#[HSUB]:5.82e+07;
+#[LVOL]:0.116856;
+#[SOLP]:20730;
+#[FLVL]:1;
+#[FLTL]:329;
+#[FLVU]:6.4;
+#[FLTU]:368;
+#[FP]:331.15;
+#[DC]:2.871;
+#[RefID]:6008
+#[Ref]:Breitenbach, J.W., Bremer, G.Uber die Polymerisation des Indens und Ihre Beschleunigung durch Peroxyde, Ber. Dtsch. Chem. Ges., 76, 1943, 1124
+#[Year]:1943
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.0389
+333.15 0.0328
+#[Ajuste]: 106
+#2
+#0.080925
+#1.3379
+#[Calidad]: 271.7 0.041269 687 0 5.8 618
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+271.7 0.041583
+310.21 0.036172
+348.72 0.031134
+387.23 0.026436
+425.74 0.02204
+464.26 0.01791
+502.77 0.014024
+541.28 0.010382
+579.79 0.0070032
+618.3 0.0039472

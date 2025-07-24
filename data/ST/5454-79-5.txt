@@ -1,0 +1,78 @@
+#[Nombre]:cis-3-METHYLCYCLOHEXANOL
+#[CASN]:5454-79-5
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C7H14O
+#[SMILES]:C1[C@](O)([H])(C[C@](C)([H])(CC1))
+#[Structure]:HO(C6H10)CH3
+#[MW]:114.185;
+#[TC]:625;
+#[PC]:3.79e+06;
+#[VC]:0.374;
+#[ZC]:0.273;
+#[MP]:267.65;
+#[TPT]:267.65;
+#[TPP]:3.20454;
+#[NBP]:446.15;
+#[HFOR]:-3.509e+08;
+#[GFOR]:-1.507e+08;
+#[ENT]:385300;
+#[HSTD]:-4.161e+08;
+#[GSTD]:-1.736e+08;
+#[SSTD]:243500;
+#[HFUS]:1.2e+07;
+#[HCOM]:-4.0314e+09;
+#[ACEN]:0.694277;
+#[RG]:3.931e-10;
+#[DM]:5.91e-30;
+#[VDWV]:0.07505;
+#[VDWA]:9.55e+08;
+#[RI]:1.4555;
+#[AIT]:570;
+#[HSUB]:7.35e+07;
+#[LVOL]:0.125295;
+#[SOLP]:21550;
+#[DC]:13.79;
+#[FLVL]:1;
+#[FLTL]:340;
+#[FLVU]:7.2;
+#[FLTU]:377;
+#[FP]:344;
+#[PAR]:296.3;
+#[RefID]:4145
+#[Ref]:Riddick, J.A., Bunger, W.B., Sakano, T.K.Organic Solvents: Physical Properties and Methods of Purification, 4th ed., Wiley Interscience,  New York, 1986
+#[Year]:1986
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+303.15 0.0292
+#[Ajuste]: 106
+#2
+#0.063331
+#1.1231
+#[Calidad]: 267.65 0.033802 625 0 2.9 303
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+267.65 0.03426
+295.65 0.031051
+326.65 0.027965
+351.65 0.024996
+379.65 0.022132
+407.65 0.019352
+435.65 0.016632
+463.65 0.013943
+491.65 0.011266
+519.65 0.0085961
+547.65 0.0059555

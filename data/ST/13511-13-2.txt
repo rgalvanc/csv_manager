@@ -1,0 +1,67 @@
+#[Nombre]:PROPENYL CYCLOHEXENE
+#[CASN]:13511-13-2
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C9H14
+#[SMILES]:C1CCCC=C1CC=C
+#[Structure]:-CHC(CH2CHCH2)(CH2)3CH2-
+#[SYN]:1-ALLYLCYCLOHEXENE
+#[MW]:122.207;
+#[TC]:636;
+#[PC]:3.12e+06;
+#[VC]:0.437;
+#[ZC]:0.258;
+#[MP]:199;
+#[TPT]:199;
+#[TPP]:0.0247784;
+#[NBP]:431.65;
+#[HFOR]:4.677e+07;
+#[GFOR]:2.085e+08;
+#[ENT]:423300;
+#[HSTD]:638074;
+#[GSTD]:1.95e+08;
+#[SSTD]:313580;
+#[HFUS]:1.21e+07;
+#[HCOM]:-5.232e+09;
+#[ACEN]:0.341975;
+#[RG]:4.338e-10;
+#[DM]:0;
+#[VDWV]:0.0839;
+#[VDWA]:1.081e+09;
+#[RI]:1.4765;
+#[AIT]:;
+#[HSUB]:5.97e+07;
+#[LVOL]:0.145466;
+#[SOLP]:17320;
+#[FLVL]:0.8;
+#[FLTL]:308;
+#[FLVU]:6.1;
+#[FLTU]:348;
+#[FP]:312;
+#[DC]:2.193;
+#[PAR]:346.1;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+199 0.04481
+236.34 0.03977
+273.68 0.03501
+311.02 0.03051
+348.36 0.02625
+385.7 0.0222
+423.04 0.01831
+460.38 0.01454
+497.72 0.01088
+535.06 0.00738
+572.4 0.00413
+#[Ajuste]: 106
+#2
+#0.07071
+#1.23826
+#[Calidad]: 199 0.0444298 636 0 2 535

@@ -1,0 +1,78 @@
+#[Nombre]:1-METHYLINDAN
+#[CASN]:767-58-8
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDANES
+#[Formula]:C10H12
+#[SMILES]:c1cccc2c1CCC2C
+#[Structure]:C6H4(CH(CH3)CH2CH2)
+#[SYN]:METHYLDIHYDROINDENE
+#[SYN]:1-METHYL-2,3-DIHYDROINDENE
+#[SYN]:1H-INDENE, 2,3-DIHYDRO-1-METHYL (8CI)
+#[SYN]:2,3-DIHYDRO-1-METHYL-1H-INDENE
+#[SYN]:INDAN, 1-METHYL
+#[SYN]:METHYLINDANE
+#[MW]:132.202;
+#[TC]:694.1;
+#[PC]:3.437e+06;
+#[VC]:0.441;
+#[ZC]:0.263;
+#[MP]:182.1;
+#[TPT]:182.1;
+#[TPP]:0.000227;
+#[NBP]:463.75;
+#[LVOL]:0.1412;
+#[HFOR]:3.708e+07;
+#[GFOR]:1.721e+08;
+#[ENT]:388600;
+#[HSTD]:-1.366e+07;
+#[GSTD]:1.556e+08;
+#[SSTD]:273900;
+#[HFUS]:9.33e+06;
+#[HCOM]:-5.372e+09;
+#[ACEN]:0.313896;
+#[RG]:4.205e-10;
+#[SOLP]:18150;
+#[DM]:1.53e-30;
+#[VDWA]:1.004e+09;
+#[VDWV]:0.08423;
+#[RI]:1.5241;
+#[FP]:332;
+#[FLVL]:0.793;
+#[FLTL]:329;
+#[FLVU]:6.48;
+#[FLTU]:374;
+#[AIT]:685;
+#[HSUB]:6.23e+07;
+#[PAR]:329.8;
+#[DC]:2.464;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+182.1 0.042138
+211.61 0.038803
+241.11 0.035602
+270.62 0.032529
+300.12 0.029586
+329.63 0.026764
+359.14 0.024059
+388.64 0.021459
+418.15 0.01895
+447.65 0.016517
+477.16 0.014148
+506.67 0.011837
+536.17 0.0095876
+565.68 0.0074106
+595.18 0.0053324
+624.69 0.0033938
+#[Ajuste]: 106
+#3
+#0.06253
+#1.356
+#-0.10701
+#[Calidad]: 182.1 0.0417446 694.1 0 1.32 624.69

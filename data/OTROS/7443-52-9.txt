@@ -1,0 +1,47 @@
+@
+#[label]:Detherm2014-Hopfe
+#[Ref]:Hopfe,D. Data Compilation of FIZ CHEMIE Germany, 1, 1990
+293.15	0.03137
+@
+#[label]: Detherm2014-Liessmann
+#[Ref]:Liessmann,G. et al. Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, (1995)
+283.150	0.0316800
+308.150	0.0298000
+333.150	0.0278800
+358.150	0.0259400
+383.150	0.0239500
+408.150	0.0219200
+433.150	0.0198400
+458.150	0.0177000
+483.150	0.0154900
+508.150	0.0132000
+533.150	0.0108000
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    28.90
+@m
+#[label]:Khajeh and Modarress (2011)
+#[Ref]:Khajeh, A., & Modarress, H. (2011). Quantitative structure–property relationship for surface tension of some common alcohols. Journal of chemometrics, 25(6), 333-339.
+#[BibTex]:Khajeh and Modarress (2011)
+#[date]:2024-12-8
+#[by]:rodrigo
+    298.15  32.26
+@m
+#[label]:DiNicola and Pierantozzi (2015)
+#[Ref]:Di Nicola, G., & Pierantozzi, M. (2015). Surface tension of alcohols: a scaled equation and an artificial neural network. Fluid Phase Equilibria, 389, 16-27.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+  555.30 5.3333
+  269.15 34.637
+@m
+#[label]:Naef and Acree (2018).
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:Naef, R., & Acree, W. E. (2018).
+#[date]:2024-12-8
+#[by]:rodrigo
+293.15  30.91

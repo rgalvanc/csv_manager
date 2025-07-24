@@ -1,0 +1,83 @@
+@Cm
+#[label]: WW97-46R1
+#[Ref]:Ruby, W.R., Loveland, R.P.: J.Phys.Chem. 50 (1946) 345
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 25.0   31.51
+@Cm
+#[label]: WW97-48V8
+#[Ref]:
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 15.9   33.24
+ 20.5   32.68
+ 41.2   30.56
+ 60.4   28.92
+ 86.7   26.44
+@Cm
+#[label]: WW97-62S1
+#[Ref]:Shafrin, E.G., Zisman, W.A.: J.Phys.Chem. 66 (1962) 740
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0   32.8
+@Cm
+#[label]: WW97-72B1
+#[Ref]:Bascom, W.D.: Macromolecules 5 (1972) 792
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0   33.0
+@Cm
+#[label]: WW97-88T1
+#[Ref]:Tillman, N., Ulman, A., Schildkraut, J.S., Penner, T.L.: J.Amer.Chem.Soc. 110 (1988) 6136
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 24.0   32.3
+@m
+#[label]: Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTeX]: Yaws and Richmond (2009)
+#[date]:2024-11-28
+#[by]:rodrigo
+ 298.15  32.17
+@
+#[label]: F. Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTeX]: F. Gharagheizi et al. (2011)
+#[date]:2024-11-30
+#[by]:rodrigo
+ 288.15 0.03324
+ 363.15 0.02608
+@m
+#[label]: Prak et al. (2016)
+#[Ref]:Luning Prak, D. J., Cowart, J. S., & Trulove, P. C. (2016). Density and viscosity from 293.15 to 373.15 K, speed of sound and bulk modulus from 293.15 to 343.15 K, surface tension, and flash point of binary mixtures of bicyclohexyl and 1, 2, 3, 4-tetrahydronaphthalene or trans-decahydronaphthalene at 0.1 MPa. Journal of Chemical & Engineering Data, 61(1), 650-661
+#[BibTeX]:
+#[date]:2024-11-30
+#[by]:rodrigo
+ 294.0   32.7
+@m
+#[label]: Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:
+#[date]:2024-11-30
+#[by]:rodrigo
+ 293.15 32.74
+@
+#[label]:DETHERM-Jander2022
+#[Ref]:Jander,J.H.;Kerscher,M.;Cui,J.;Wicklein,J.;Ruede,T.;Preuster,P.;Rausch,M.H. ; Wasserscheid,P. ; Koller,T.M. ; Froeba,A.P. , "Viscosity, surface tension, and density of the liquid organic hydrogen carrier system based on diphenylmethane, biphenyl, and benzophenone", Int. J. Hydrogen Energy, 47, 52, 22078-22092, 2022
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+303.09  0.03196
+323.12  0.02995
+343.09  0.02799
+348.13  0.02733
+373.28  0.02507
+398.27  0.02281
+423.22  0.02058
+473.20  0.01677
+523.01  0.01301

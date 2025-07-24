@@ -1,0 +1,24 @@
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-25
+#[by]:rodrigo
+ 298.15    22.01
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+243.15 0.02760
+268.15 0.02500
+293.15 0.02240
+318.15 0.01980
+343.15 0.01725
+368.15 0.01480
+393.15 0.01245
+418.15 0.01015
+443.15 0.00793
+468.15 0.00580
+493.15 0.00376

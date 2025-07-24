@@ -1,0 +1,80 @@
+#[Nombre]:1-METHYL-1-ETHYLCYCLOPENTANE
+#[CASN]:16747-50-5
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1CCCC1(C)(CC)
+#[Structure]:-C(CH3)(C2H5)CH2CH2CH2CH2-
+#[MW]:112.213;
+#[TC]:582;
+#[PC]:3.02e+06;
+#[VC]:0.428;
+#[ZC]:0.267;
+#[MP]:129.35;
+#[TPT]:129.35;
+#[TPP]:2.16711e-07;
+#[NBP]:394.672;
+#[HFOR]:-1.549e+08;
+#[GFOR]:5.067e+07;
+#[ENT]:401000;
+#[HSTD]:-1.938e+08;
+#[GSTD]:4.145e+07;
+#[SSTD]:301500;
+#[HFUS]:;
+#[HCOM]:-4.88921e+09;
+#[ACEN]:0.329811;
+#[RG]:3.773e-10;
+#[DM]:0;
+#[VDWV]:0.08182;
+#[VDWA]:1.099e+09;
+#[RI]:1.42476;
+#[AIT]:642;
+#[HSUB]:4.88e+07;
+#[LVOL]:0.144502;
+#[SOLP]:15860;
+#[FLVL]:0.9;
+#[FLTL]:280;
+#[FLVU]:6.1;
+#[FLTU]:315;
+#[FP]:280;
+#[DC]:2.036;
+#[PAR]:321.4;
+#[RefID]:1842
+#[Ref]:Dreisbach, R.R.Physical Properties of Chemical Compounds, Advances in Chemistry Series, American Chemical Society, Washington, D.C., 1955
+#[Year]:1955
+#[DataType]: Predicted
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+293.15 0.02474
+303.15 0.02368
+313.15 0.02265
+#[Ajuste]: 106
+#2
+#0.061597
+#1.27023
+#[Calidad]: 129.35 0.0447611 582 0 6.3 519
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+129.35 0.045292
+168.35 0.039952
+207.35 0.034934
+246.35 0.030231
+285.35 0.025827
+324.35 0.021694
+363.35 0.017781
+402.35 0.01404
+441.35 0.010448
+480.35 0.007028
+519.35 0.00386

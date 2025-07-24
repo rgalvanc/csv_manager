@@ -1,0 +1,73 @@
+#[Nombre]:1,1,3-TRIMETHYLCYCLOPENTANE
+#[CASN]:4516-69-2
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1(C)(C)CC(C)CC1
+#[Structure]:C(CH3)2CH2CH(CH3)CH2CH2
+#[SYN]:(3R)-1,1,3-TRIMETHYLCYCLOPENTANE
+#[MW]:112.213;
+#[TC]:569.55;
+#[PC]:2.827e+06;
+#[VC]:0.443;
+#[ZC]:0.264;
+#[MP]:130.71;
+#[TPT]:130.71;
+#[TPP]:5.15e-07;
+#[NBP]:378.04;
+#[LVOL]:0.1508;
+#[HFOR]:-1.688e+08;
+#[GFOR]:4.112e+07;
+#[ENT]:387300;
+#[HSTD]:-2.055e+08;
+#[GSTD]:3.357e+07;
+#[SSTD]:289500;
+#[HFUS]:6.51e+06;
+#[HCOM]:-4.877e+09;
+#[ACEN]:0.215301;
+#[RG]:3.898e-10;
+#[SOLP]:15060;
+#[DM]:0;
+#[VDWA]:1.041e+09;
+#[VDWV]:0.08067;
+#[RI]:1.4087;
+#[FP]:270;
+#[FLVL]:0.923;
+#[FLTL]:268;
+#[FLVU]:5.86;
+#[FLTU]:301;
+#[AIT]:558;
+#[HSUB]:5.57e+07;
+#[PAR]:319.2;
+#[DC]:1.979;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+410.76 0.010345
+512.6 0.0027964
+487.14 0.0045058
+436.22 0.0083131
+385.3 0.012438
+359.84 0.014585
+334.38 0.01679
+156.17 0.034797
+283.46 0.021414
+258.01 0.023863
+232.55 0.02642
+130.71 0.037833
+207.09 0.029092
+181.63 0.031884
+308.92 0.019062
+461.68 0.0063583
+#[Ajuste]: 106
+#3
+#0.052808
+#1.335
+#-0.071775
+#[Calidad]: 130.71 0.0374463 569.55 0 1.29 512.6

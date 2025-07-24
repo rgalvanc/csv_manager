@@ -1,0 +1,70 @@
+#[Nombre]:n-DECYLCYCLOHEXANE
+#[CASN]:1795-16-0
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C16H32
+#[SMILES]:C1CCCCC1(CCCCCCCCCC)
+#[Structure]:(C6H11)(CH2)9CH3
+#[SYN]:DECANE, 1-CYCLOHEXYL-
+#[SYN]:DECYLCYCLOHEXANE
+#[SYN]:1-CYCLOHEXYLDECANE
+#[SYN]:CYCLOHEXANE, n-DECYL
+#[MW]:224.425;
+#[TC]:743.9;
+#[PC]:1.641e+06;
+#[VC]:0.926;
+#[ZC]:0.246;
+#[MP]:271.3;
+#[TPT]:271.3;
+#[TPP]:0.007;
+#[NBP]:570.75;
+#[LVOL]:0.2755;
+#[HFOR]:-3.37e+08;
+#[GFOR]:1.07e+08;
+#[ENT]:693500;
+#[HSTD]:-4.162e+08;
+#[GSTD]:7.355e+07;
+#[SSTD]:540100;
+#[HFUS]:3.86e+07;
+#[HCOM]:-9.749e+09;
+#[ACEN]:0.715942;
+#[RG]:7.225e-10;
+#[SOLP]:16690;
+#[DM]:0;
+#[VDWA]:2.102e+09;
+#[VDWV]:0.16253;
+#[RI]:1.45141;
+#[FP]:407;
+#[FLVL]:0.44;
+#[FLTL]:404;
+#[FLVU]:3.58;
+#[FLTU]:452;
+#[AIT]:512;
+#[HSUB]:1.17e+08;
+#[PAR]:641.3;
+#[DC]:2.128;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Unevaluated
+#[SDetail]: Undocumented
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+283.15 0.03063
+293.15 0.02977
+303.15 0.02892
+313.15 0.02806
+323.15 0.0272
+333.15 0.02634
+343.15 0.02549
+353.15 0.02463
+278.15 0.03106
+#[Ajuste]: 106
+#2
+#0.058029
+#1.3317
+#[Calidad]: 271.3 0.0317156 743.9 0 0.2 373.15
+363.15 0.02377
+373.15 0.02291

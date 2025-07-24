@@ -1,0 +1,49 @@
+#GEM-Registro: rid=198 gem_nr=985 1795-16-0 decylcyclohexane
+#[Syn]: Decylcyclohexan
+#[Syn]: C1CCCCC1(CCCCCCCCCC)
+#[Syn]: 1-cyclohexyldecane
+#[Syn]: 1-Cyclohexyldecan
+#[Syn]: C16H32
+#[Syn]: decylcyclohexane
+#id .....:1362
+#TabNr   : 1522
+#Tmin    : 273.15
+#Tmax    : 373.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55712
+273.15 0.03149 1e-05
+283.15 0.03063 1e-05
+293.15 0.02977 1e-05
+303.15 0.02892 1e-05
+313.15 0.02806 1e-05
+323.15 0.0272 1e-05
+333.15 0.02634 1e-05
+343.15 0.02549 1e-05
+353.15 0.02463 1e-05
+363.15 0.02377 1e-05
+373.15 0.02291 1e-05
+#PRP-7997i.1955
+#Jasper,J.J.;Kring,E.V. "The isobaric surface tensions and thermodynamic properties of the surfaces of a series of n-alkanes, C5 to C18, 1-alkenes, C6 to C16, and of n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene",J. Phys. Chem., 59,1019-1021 (1955)
+#DOI:10.1021/j150532a006
+
+
+#id .....:1747
+#TabNr   : 1596
+#Tmin    : 273.15
+#Tmax    : 373.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55791
+273.15 0.03167 1e-05
+283.15 0.03081 1e-05
+293.15 0.02995 1e-05
+303.15 0.02909 1e-05
+313.15 0.02823 1e-05
+323.15 0.02737 1e-05
+333.15 0.02651 1e-05
+343.15 0.02565 1e-05
+353.15 0.02479 1e-05
+363.15 0.02393 1e-05
+373.15 0.02307 1e-05
+#PRP-8003i.1954
+#Jasper,J.J.;Kerr,E.R. "The orthobaric surface tensions and thermodynamic properties of the liquid surfaces of a series of 1-alkenes, C6 to C16, and of n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene",J. Am. Chem. Soc., 76,2659-2661 (1954)
+#DOI:10.1021/ja01639a017

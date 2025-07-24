@@ -1,0 +1,72 @@
+#[Nombre]:beta-CHOLESTEROL
+#[CASN]:57-88-5
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C27H46O
+#[SMILES]:C1[C@@](O)([H])(CC2=CC[C@H]3([C@@H]4(CC[C@H]([C@](C)(CCCC(C)C)([H]))([C@@]4(C)(CC[C@@H]3([C@@]2(C)(C1)))))))
+#[Structure]:Polyring compound, see refs. 6857, 2867
+#[SYN]:5:6-CHOLESTEN-3-beta-OL
+#[SYN]:CHOLEST-5-EN-3-beta-OL
+#[SYN]:CHOLESTEN-3-beta-OL
+#[SYN]:CHOLESTERIN
+#[SYN]:CHOLESTEROL BASE H
+#[SYN]:CHOLESTERYL ALCOHOL
+#[SYN]:CORDULAN
+#[SYN]:DUSOLINE
+#[MW]:386.654;
+#[TC]:959;
+#[PC]:1.25e+06;
+#[VC]:1.35;
+#[ZC]:0.212;
+#[MP]:421.65;
+#[TPT]:421.65;
+#[TPP]:0.751534;
+#[NBP]:771;
+#[HFOR]:-5.852e+08;
+#[GFOR]:2.415e+08;
+#[ENT]:487900;
+#[HSTD]:-7.2692e+08;
+#[GSTD]:1.826e+08;
+#[SSTD]:209900;
+#[HFUS]:3.91e+07;
+#[HCOM]:-1.664e+10;
+#[ACEN]:0.94769;
+#[RG]:3.852e-10;
+#[DM]:5.74e-30;
+#[VDWV]:0.25196;
+#[VDWA]:3.031e+09;
+#[RI]:1.655;
+#[AIT]:;
+#[HSUB]:1.3e+08;
+#[LVOL]:0.372764;
+#[SOLP]:15900;
+#[DC]:2.86;
+#[FLVL]:0.3;
+#[FLTL]:542;
+#[FLVU]:5.2;
+#[FLTU]:632;
+#[FP]:544;
+#[PAR]:972.2;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+421.65 0.047189
+465.79 0.041599
+509.94 0.036366
+554.08 0.031478
+598.23 0.026919
+642.37 0.022668
+686.52 0.0187
+730.66 0.014987
+774.81 0.011504
+#[Ajuste]: 106
+#2
+#0.1022
+#1.3522
+#[Calidad]: 421.65 0.0466971 959 0 4.6 775

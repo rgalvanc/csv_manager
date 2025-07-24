@@ -1,0 +1,39 @@
+@
+#[label]:Detherm2014-Hopfe
+#[Ref]:Hopfe,D. Data Compilation of FIZ CHEMIE Germany, 1, 1990
+293.15	0.03075
+@
+#[label]: Detherm2014-Liessmann
+#[Ref]:Liessmann,G. et al. Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, (1995)
+!283.150	0.0316800
+!308.150	0.0298000
+333.150	0.0278800
+!358.150	0.0259400
+!383.150	0.0239500
+!408.150	0.0219200
+!433.150	0.0198400
+!458.150	0.0177000
+!483.150	0.0154900
+!508.150	0.0132000
+!533.150	0.0108000
+@m
+#[label]:Khajeh and Modarress (2011)
+#[Ref]:Khajeh, A., & Modarress, H. (2011). Quantitative structure–property relationship for surface tension of some common alcohols. Journal of chemometrics, 25(6), 333-339.
+#[BibTex]:Khajeh and Modarress (2011)
+#[date]:2024-12-8
+#[by]:rodrigo
+    298.15  33.65
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    28.57
+@m
+#[label]:Delgado and Diaz (2006)
+#[Ref]:Delgado, E. J., & Diaz, G. A. (2006). A molecular structure based model for predicting surface tension of organic compounds. SAR and QSAR in Environmental Research, 17(5), 483-496.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+298.15    30.50

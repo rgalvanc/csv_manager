@@ -1,0 +1,66 @@
+#[Nombre]:SITOSTEROL
+#[CASN]:83-46-5
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C29H50O
+#[SMILES]:C1[C@H](O)(CC2=CC[C@H]3([C@@H]4(CC[C@]([H])([C@H](CC[C@H](C(C)C)(CC))(C))([C@@]4(C)(CC[C@@]3([C@]2(C1)(C))([H]))))))
+#[Structure]:Polyring compound, see ref. 9864
+#[SYN]:22,23-DIHYDRO-STIGMASTEROL
+#[SYN]:beta-SITOSTEROL
+#[MW]:414.707;
+#[TC]:953;
+#[PC]:1.12e+06;
+#[VC]:1.46;
+#[ZC]:0.206;
+#[MP]:413.15;
+#[TPT]:413.15;
+#[TPP]:0.044141;
+#[NBP]:778;
+#[HFOR]:;
+#[GFOR]:;
+#[ENT]:;
+#[HSTD]:;
+#[GSTD]:;
+#[SSTD]:;
+#[HFUS]:;
+#[HCOM]:;
+#[ACEN]:1.05429;
+#[RG]:8.288e-10;
+#[DM]:6.44e-30;
+#[VDWV]:0.26437;
+#[VDWA]:3.154e+09;
+#[RI]:1.842;
+#[AIT]:;
+#[HSUB]:1.57e+08;
+#[LVOL]:0.38043;
+#[SOLP]:17770;
+#[FLVL]:0.3;
+#[FLTL]:560;
+#[FLVU]:5.2;
+#[FLTU]:644;
+#[FP]:561;
+#[DC]:4.812;
+#[PAR]:1047.6;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+413.15 0.058764
+457.6 0.051585
+502.06 0.044893
+546.51 0.038672
+590.97 0.032903
+635.42 0.027561
+679.88 0.022611
+724.33 0.018016
+768.79 0.013746
+#[Ajuste]: 106
+#2
+#0.12811
+#1.3907
+#[Calidad]: 413.15 0.0581207 953 0 5.2 769

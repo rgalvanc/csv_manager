@@ -1,0 +1,17 @@
+#GEM-Registro: rid=1435 gem_nr=367 292-64-8 cyclooctane
+#[Syn]: cyclooctane
+#[Syn]: Cyclooctan
+#[Syn]: C1CCCCCCC1
+#[Syn]: octamethylene
+#[Syn]: Octamethylen
+#[Syn]: C8H16
+#id .....:461
+#TabNr   : 523
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97269
+286.65 0.0299
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:

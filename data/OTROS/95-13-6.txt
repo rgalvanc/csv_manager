@@ -1,0 +1,99 @@
+@Cm
+#[label]: WW97-79A2
+#[Ref]:
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+ 0.0       20.5
+ 10.0      20.0
+ 20.0      19.4
+ 30.0      18.8
+ 40.0      18.2
+ 50.0      17.5
+ 60.0      16.9
+ 70.0      16.3
+ 80.0      15.6
+ 90.0      14.9
+ 100.0     14.3
+ 120.0     13.0
+ 140.0     11.8
+ 160.0     10.7
+ 180.0     9.6
+ 182.08    9.5
+ 182.62    9.4
+ 200.0     8.5
+ 220.0     7.5
+ 240.0     6.6
+ 260.0     5.7
+ 280.0     4.8
+ 300.0     4.0
+ 320.0     3.2
+ 340.0     2.5
+ 360.0     1.8
+ 380.0     1.2
+ 400.0     0.6
+ 420.0     0.1
+ 422.0     0.0
+@Cm
+#[label]:Qualey (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+28.5    37.40
+34.0    36.60
+30.5    36.99
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-21
+#[by]:rodrigo
+298.15     19.09
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+271.70  0.04158
+618.30  0.00395
+@
+#[label]:DETHERM-Fall
+#[Ref]:Fall,D.J.;Luks,K.D., "Beilstein Handbook of Organic Chemistry", 5, 515,1355, Springer-Verlag;Berlin,
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+293.15 0.0389
+333.15 0.0328
+@
+#[label]:DETHERM-Fall
+#[Ref]:Fall,D.J.;Luks,K.D., "The Coal Tar Data Book", 1965 The Coal Tar Research Association
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+301.65 0.0374
+@
+#[label]:DETHERM-API
+#[Ref]:Corporate Source: American Petroleum Institute, "Indan and Indene", API Monograph Series, 35, 1980
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+298.15 0.0191
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+273.15 0.04154
+303.15 0.03695
+333.15 0.03257
+363.15 0.02839
+393.15 0.02442
+423.15 0.02068
+453.15 0.01717
+483.15 0.01390
+513.15 0.01090
+543.15 0.00817
+573.15 0.00574

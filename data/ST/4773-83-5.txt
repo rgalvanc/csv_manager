@@ -1,0 +1,66 @@
+#[Nombre]:1,2,3-TRIMETHYLINDENE
+#[CASN]:4773-83-5
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDENES
+#[Formula]:C12H14
+#[SMILES]:C1=CC=C2C(=C1)C(=C(C2C)C)C
+#[Structure]:(C9H5)(CH3)3
+#[MW]:158.24;
+#[TC]:726;
+#[PC]:2.77e+06;
+#[VC]:0.529;
+#[ZC]:0.243;
+#[MP]:344.65;
+#[TPT]:344.65;
+#[TPP]:317.487;
+#[NBP]:509;
+#[HFOR]:5.17e+07;
+#[GFOR]:2.21e+08;
+#[ENT]:416000;
+#[HSTD]:-2.69107e+07;
+#[GSTD]:1.992e+08;
+#[SSTD]:224600;
+#[HFUS]:2.13e+07;
+#[HCOM]:-6.47e+09;
+#[ACEN]:0.441894;
+#[RG]:4.78e-10;
+#[DM]:0;
+#[VDWV]:0.09787;
+#[VDWA]:1.187e+09;
+#[RI]:1.5525;
+#[AIT]:;
+#[HSUB]:6.87e+07;
+#[LVOL]:0.162898;
+#[SOLP]:17520;
+#[FLVL]:0.7;
+#[FLTL]:360;
+#[FLVU]:4.2;
+#[FLTU]:402;
+#[FP]:363;
+#[DC]:2.381;
+#[PAR]:399.8;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+344.65 0.03828
+374.65 0.03432
+404.65 0.03054
+434.65 0.02694
+464.65 0.02348
+494.65 0.02017
+524.65 0.01697
+554.65 0.01388
+584.65 0.0109
+614.65 0.008058
+644.65 0.005389
+#[Ajuste]: 106
+#2
+#0.085685
+#1.2625
+#[Calidad]: 344.65 0.03801 726 0 0.7 345

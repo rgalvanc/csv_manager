@@ -1,0 +1,91 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+#[BibTex]:WW97-38V2
+#[date]:2024-12-7
+#[by]:rodrigo
+!20.0   32.14
+!21.0   32.06
+ 62.0   28.90
+ 86.6   26.41
+@Cm
+#[label]:WW97-40D1
+#[Ref]:Dunken, H., Klapproth, H., Wolf, K.L.: Kolloid-Z. 91 (1940) 232
+#[BibTex]:WW97-40D1
+#[date]:2024-12-7
+#[by]:rodrigo
+ 22.0   32.65
+@Cm
+#[label]:WW97-47H1
+#[Ref]:Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+#[BibTex]:WW97-47H1
+#[date]:2024-12-7
+#[by]:rodrigo
+ 18.3     33.21
+ 34.9     31.49
+ 57.6     29.20
+ 80.5     26.89
+ 99.3     25.04
+@m
+#[label]:WW08-2004AZI2
+#[Ref]:Azizian, S., Bashavard, N.: Colloids Surf. A 240 (2004) 69.
+#[BibTex]:WW08-2004AZI2
+#[date]:2024-12-7
+#[by]:rodrigo
+293.15  32.63
+298.15  32.19
+303.15  31.70
+308.15  31.21
+313.15  30.64
+318.15  30.24
+323.15  29.71
+@m
+#[label]:WW08-2005AZI3
+#[Ref]:Azizian, S., Bashavard, N.: J. Coll. Interf. Sci. 282 (2005) 428.
+#[BibTex]:WW08-2005AZI3
+#[date]:2024-12-7
+#[by]:rodrigo
+293.15   32.63
+298.15   32.19
+303.15   31.70
+308.15   31.21
+313.15   30.64
+318.15   30.24
+323.15   29.71
+@m
+#[label]:WW08-2004HAB1
+#[Ref]:Habrdova, K., Hovorka, S., Bartovska, L.: J. Chem. Eng. Data 49 (2004) 1003.
+#[BibTex]:WW08-2004HAB1
+#[date]:2024-12-7
+#[by]:rodrigo
+298.15  32.80
+@Cm
+#[label]:Jasper (1972)
+#[Ref]:Jasper, J. J. (1972). The surface tension of pure liquid compounds. Journal of physical and chemical reference data, 1(4), 841-1010.
+#[BibTex]:
+#[date]:2024-12-9
+#[by]:rodrigo
+20      33.02
+30      32.01
+40      31.00
+50      29.98
+60      28.97
+70      27.96
+80      26.95
+90      25.94
+100     24.93
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    32.30
+@
+#[label]:DETHERM-Grafe1942
+#[Ref]:Grafe,R., Nova Acta Leopoldina, 12, 81, 141-194, 1942 0369-5034
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+295.15  0.03267
+306.15  0.03193

@@ -1,0 +1,111 @@
+#GEM-Registro: rid=1632 gem_nr=470 108-93-0 cyclohexanol
+#[Syn]: cyclohexanol
+#[Syn]: Cyclohexanol
+#[Syn]: OC1CCCCC1
+#[Syn]: hexahydrophenol
+#[Syn]: hexalin
+#[Syn]: C6H12O
+#id .....:1077
+#TabNr   : 681
+#Tmin    : 298.65
+#Tmax    : 313.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/93273
+298.65 0.03391
+303.15 0.03347
+313.15 0.03224
+#PRP-5067i.1937
+#Timmermans,J.;Hennaut-Roland "",J. Chim. Phys., 34,693-739 (1937)
+#DOI:
+
+
+#id .....:1597
+#TabNr   : 2306
+#Tmin    : 323.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/129869
+323.15 0.0309 0.000927
+#PRP-8708i.1969
+#Petschka,L.;Hankel,D. "Determination of the surface tension of cyclohexanol and of a model mixture",Leuna-Protokoll, ,1211 (1969)
+#DOI:
+
+
+#id .....:1993
+#TabNr   : 2395
+#Tmin    : 334.95
+#Tmax    : 359.45
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62179
+334.95 0.02861
+359.45 0.02702
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:2034
+#TabNr   : 2436
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62209
+298.15 0.0336 5e-05
+#PRP-8922i.1957
+#Murphy,N.F.;Lastovica,J.E.;Fallis,J.G. "Correlation of interfacial tension of two-phase three-component systems",Ind. Eng. Chem., 49[6],1035-1042 (1957)
+#DOI:10.1021/ie50570a039
+
+
+#id .....:3371
+#TabNr   : 3609
+#Tmin    : 289.35
+#Tmax    : 289.35
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96917
+289.35 0.03236
+#PRP-14549i.1913
+#Hardy,W.B. "The influence of chemical constitution upon interfacial tension",Proc. Roy. Soc. London Ser. A, 88,303-313 (1913)
+#DOI:10.1098/rspa.1913.0031
+
+
+#id .....:3424
+#TabNr   : 4342
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/108305
+293.15 0.03398
+#PRP-15661i.1951
+#Mueller,A. "Ethereal oils and synthetic fragrant substances. III. Synthetic fragrant substances, first part",Fette Seifen Anstrichm., 53[3],151-159 (1951)
+#DOI:
+
+
+#id .....:3820
+#TabNr   : 5095
+#Tmin    : 293.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2009-AUG/183912
+293.15 0.03315
+298.15 0.03274
+303.15 0.03235
+308.15 0.03191
+313.15 0.03158
+318.15 0.03113
+323.15 0.03078
+#PRP-23636i.2008
+#Azizian,S.;Bashavard,N. "Surface Tension of Dilute Solutions of Alkanes in Cyclohexanol at Different Temperatures",J. Chem. Eng. Data, 53[10],2422-2425 (2008)
+#DOI:10.1021/je8004112
+
+
+#id .....:4011
+#TabNr   : 3834
+#Tmin    : 306.65
+#Tmax    : 371.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97364
+306.65 0.03315 0.00033
+371.15 0.02596 0.00026
+#PRP-14580i.1935
+#Ray,S.K. "Parachor and ring structure. II. The spatial configuration of bridged-ring compounds",J. Indian Chem. Soc., 12,764-767 (1935)
+#DOI:

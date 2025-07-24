@@ -1,0 +1,66 @@
+@Cm
+#[label]:WW97-53A1
+#[Ref]:A.P.I.Res.Project 44 (1953)
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 5.0    25.45
+ 10.0   24.98
+ 20.0   24.04
+ 30.0   23.10
+ 40.0   22.16
+ 50.0   21.21
+ 60.0   20.27
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2025-03-02
+#[by]:rodrigo
+ 20.0    24.05
+ 30.0    23.09
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-18
+#[by]:rodrigo
+ 25.0     24.4
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    23.57
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 293.15    24.04
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+293.15 0.02404
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.02800
+273.15 0.02600
+293.15 0.02402
+313.15 0.02208
+333.15 0.02017
+353.15 0.01830
+373.15 0.01648
+393.15 0.01470
+413.15 0.01295
+433.15 0.01125
+453.15 0.00960

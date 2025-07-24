@@ -1,0 +1,85 @@
+#[Nombre]:METHYLCYCLOHEXANE
+#[CASN]:108-87-2
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C7H14
+#[SMILES]:C1CCCCC1(C)
+#[Structure]:(C6H11)CH3
+#[SYN]:CYCLOHEXYLMETHANE
+#[SYN]:HEXAHYDROTOLUENE
+#[SYN]:TOLUENE HEXAHYDRIDE
+#[MW]:98.1861;
+#[TC]:572.1;
+#[PC]:3.48e+06;
+#[VC]:0.369;
+#[ZC]:0.27;
+#[MP]:146.58;
+#[TPT]:146.58;
+#[TPP]:0.000152251;
+#[NBP]:374.084;
+#[HFOR]:-1.548e+08;
+#[GFOR]:2.733e+07;
+#[ENT]:343300;
+#[HSTD]:-1.9008e+08;
+#[GSTD]:2.05e+07;
+#[SSTD]:247900;
+#[HFUS]:6.751e+06;
+#[HCOM]:-4.25714e+09;
+#[ACEN]:0.236055;
+#[RG]:3.643e-10;
+#[DM]:0;
+#[VDWV]:0.07046;
+#[VDWA]:8.87e+08;
+#[RI]:1.42058;
+#[AIT]:523.15;
+#[PAR]:281;
+#[HSUB]:4.98e+07;
+#[LVOL]:0.128197;
+#[SOLP]:16090;
+#[DC]:2.024;
+#[FLVL]:1.15;
+#[FLTL]:269.15;
+#[FLTU]:300;
+#[FLVU]:6.7;
+#[FP]:269.15;
+#[SOLW]:2.87671e-06;
+#[HLC]:2.14212e+06;
+#[ACCW]:347638;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+253.15 0.0284
+263.15 0.0272
+273.15 0.02611
+283.15 0.02498
+293.15 0.02385
+298.15 0.02329
+303.15 0.02272
+313.15 0.02159
+323.15 0.02046
+333.15 0.01933
+343.15 0.0182
+353.15 0.0171
+#[Ajuste]: 106
+#2
+#0.062349
+#1.3359
+#[Calidad]: 146.58 0.041985 572.1 0 4.4 298
+
+
+#[RefID]:43
+#[Ref]:Daubert, T.E., Danner, R.P.Technical Data Book-Petroleum Refining, 5th Edition, American Petroleum Institute,  Washington, D.C., 1992, 1992-extant
+#[Year]:1992
+#[DataType]: Experimental
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+298.15 0.02438

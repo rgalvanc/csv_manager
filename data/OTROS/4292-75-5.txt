@@ -1,0 +1,31 @@
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02884
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.03151
+283.15 0.02880
+313.15 0.02614
+343.15 0.02354
+373.15 0.02099
+403.15 0.01850
+433.15 0.01608
+463.15 0.01373
+493.15 0.01145
+523.15 0.00926
+553.15 0.00718
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    28.74

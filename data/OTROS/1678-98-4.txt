@@ -1,0 +1,67 @@
+@cm
+#[label]: WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: 50R1
+ 5.0     27.29
+ 10.0    26.80
+ 20.0    25.84
+ 30.0    24.87
+ 40.0    23.91
+ 50.0    22.94
+ 60.0    21.98
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+25.0  25.3
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    25.84
+@m
+#[label]: Kondor (2014)
+#[Ref]:Kondor, A., Járvás, G., Kontos, J., & Dallos, A. (2014). Temperature dependent surface tension estimation using COSMO-RS sigma moments. Chemical Engineering Research and Design, 92(12), 2867-2872.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 283,14 27,99
+ 293,14 27,03
+ 303,14 26,02
+ 313,14 25,09
+ 323,14 24,11
+ 333,14 23,14
+@m
+#[label]: Prak (2021)
+#[Ref]:Luning Prak, D. J. (2021). Properties of two-component mixtures of isobutylcyclohexane (1) or tert-butylcyclohexane (1) with n-dodecane (2) or n-hexadecane (2): densities, surface tensions, viscosities, and speeds of sound at 0.1 MPa and various temperatures. Journal of Chemical & Engineering Data, 66(8), 3165-3177.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 293.7 25.5
+ 294.0 25.5
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+293.15 0.02584
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+223.15 0.03308
+258.15 0.02934
+293.15 0.02574
+328.15 0.02229
+363.15 0.01899
+398.15 0.01586
+433.15 0.01290
+468.15 0.01014
+503.15 0.00759
+538.15 0.00527
+573.15 0.00323

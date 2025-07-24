@@ -1,0 +1,595 @@
+#GEM-Registro: rid=1038 gem_nr=134 110-82-7 cyclohexane
+#[Syn]: cyclohexane
+#[Syn]: Cyclohexan
+#[Syn]: C1CCCCC1
+#[Syn]: hexamethylene
+#[Syn]: hexanaphthene
+#[Syn]: hexahydrobenzene
+#[Syn]: Hexahydrobenzol
+#[Syn]: C6H12
+#id .....:455
+#TabNr   : 517
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97261
+286.65 0.02553
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:477
+#TabNr   : 539
+#Tmin    : 298.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/132892
+298.15 0.02401
+308.15 0.02289
+313.15 0.02237
+318.15 0.02184
+318.95 0.02175
+319.05 0.02174
+319.15 0.02172
+319.25 0.0217
+319.35 0.02169
+319.45 0.02167
+319.55 0.02165
+320.15 0.02158
+321.15 0.02139
+323.15 0.02119
+#PVD-9325d.1972
+#Campbell,A.N.;Anand,S.C. "Densities, Excess Volumes, Surface Tensions, Viscosities, and Dielectric Constants of the Systems: Methanol - Cyclohexane, Acetone - Methanol, Acetone - Cyclohexane, and Methanol - Cyclohexane - Acetone",Can. J. Chem., 50[8],1109-1114 (1972)
+#DOI:10.1139/v72-176
+
+
+#id .....:642
+#TabNr   : 2872
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/88179
+293.15 0.025 3e-05
+#PRP-13328i.1939
+#Wibaut,J.P.;Hoog,H.;Langedyk,S.L.;Overhoff,J.;Smittenberg,J. "A study on the preparation and the physical constants of a number of alkanes and cycloalkanes",Recl. Trav. Chim. Pays Bas, 58,329-376 (1939)
+#DOI:10.1002/recl.19390580409
+
+
+#id .....:806
+#TabNr   : 2130
+#Tmin    : 293.15
+#Tmax    : 353.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/56629
+293.15 0.02516
+353.15 0.01799
+#PRP-8076i.1981
+#Koroesi,G.;Kovats,E.S. "Density and surface tension of 83 organic liquids",J. Chem. Eng. Data, 26[3],323-332 (1981)
+#DOI:10.1021/je00025a032
+
+
+#id .....:1278
+#TabNr   : 731
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/87653
+293.15 0.025 0.0001
+#PRP-5530i.1973
+#Siow,K.S.;Patterson,D. "Surface thermodynamics of polymer solutions",J. Phys. Chem., 77,356-365 (1973)
+#DOI:10.1021/j100622a012
+
+
+#id .....:1295
+#TabNr   : 748
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96969
+303.15 0.02374
+#PVD-12206d.1974
+#Myers,R.S.;Clever,H.L. "The surface tension and density of some hydrocarbon + alcohol mixtures at 303.15 K",J. Chem. Thermodyn., 6[10],949-955 (1974)
+#DOI:10.1016/0021-9614(74)90216-X
+
+
+#id .....:1310
+#TabNr   : 763
+#Tmin    : 293.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97017
+293.15 0.025
+303.15 0.02385
+#PRP-7179i.1968
+#Suri,S.K.;Ramakrishna,V. "Surface tension of some binary liquid mixtures",J. Phys. Chem., 72[9],3073-3079 (1968)
+#DOI:10.1021/j100855a001
+
+
+#id .....:1615
+#TabNr   : 2324
+#Tmin    : 297.75
+#Tmax    : 297.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97419
+297.75 0.0257
+#PRP-8807i.1929
+#Lowry,T.M.;Nasini,A.G. "The Molecular Dimensions of Organic Compounds. Part I. General Conditions",Proc. Roy. Soc. London Ser. A, 123,686-691 (1929)
+#DOI:10.1098/rspa.1929.0091
+
+
+#id .....:1690
+#TabNr   : 834
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54865
+298.15 0.024564 0.00012
+298.15 0.024293 0.00012
+#PRP-7925i.1965
+#Lakomy,J.;Lehar,L. "Measurement of the surface tension of chlorosilanes using the maximum bubble pressure method",Chem. Listy, 59,985-992 (1965)
+#DOI:
+
+
+#id .....:1726
+#TabNr   : 870
+#Tmin    : 293.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54940
+293.15 0.02481 3e-05
+298.15 0.02438 3e-05
+303.15 0.02378 3e-05
+#PRP-7946i.1970
+#Lam,V.T.;Benson,G.C. "Surface tension of binary liquid systems. I. Mixtures of non-electrolytes",Can. J. Chem., 48,3773-3781 (1970)
+#DOI:10.1139/v70-637
+
+
+#id .....:1830
+#TabNr   : 2386
+#Tmin    : 293.95
+#Tmax    : 316.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62182
+295.55 0.02453
+298.75 0.02407
+316.05 0.02224
+293.95 0.02506
+316.75 0.02242
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:1877
+#TabNr   : 152
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54790
+303.15 0.02386 5e-05
+#PRP-33135d.1970
+#Wright,E.H.M.;Akhtar,B.A. "Equilibrium studies of soluble films of short chain monocarboxylic fatty acids at the organoliquid-vapour phase boundary",Trans. Faraday Soc., 66[4],990-1003 (1970)
+#DOI:10.1039/tf9706600990
+
+
+#id .....:1920
+#TabNr   : 912
+#Tmin    : 288.15
+#Tmax    : 288.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54998
+288.15 0.0257 0.0001
+#PRP-7953i.1972
+#Mahl,B.S.;Chopra,S.L.;Singh,P.P. "Surface tension of binary mixtures",Z. Phys. Chem. Leipzig, 249[5/6],337-343 (1972)
+#DOI:
+
+
+#id .....:2071
+#TabNr   : 189
+#Tmin    : 293.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2008-DEC/175308
+293.15 0.02494
+293.15 0.02506
+293.15 0.02498
+293.15 0.02501
+293.15 0.02522
+293.15 0.02515
+298.15 0.02444
+298.15 0.0244
+298.15 0.02435
+298.15 0.02454
+298.15 0.0245
+298.15 0.02459
+298.15 0.02444
+298.15 0.02439
+303.15 0.02381
+303.15 0.02381
+303.15 0.02387
+303.15 0.02394
+303.15 0.02379
+303.15 0.02386
+303.15 0.02393
+313.15 0.02259
+313.15 0.02263
+313.15 0.0227
+313.15 0.02272
+313.15 0.02278
+313.15 0.02259
+313.15 0.0223
+323.15 0.02149
+323.15 0.02143
+323.15 0.02159
+323.15 0.02145
+323.15 0.02145
+323.15 0.02144
+323.15 0.02164
+#PRP-3101i.1976
+#Rusanov,A.I.;Kochurova,N.N.;Aniskova,M.A. "The surface properties of cyclohexane",Vestn. Leningr. Univ., 10,76-79 (1976)
+#DOI:
+
+
+#id .....:2187
+#TabNr   : 1728
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/56038
+288.15 0.02564 5.1e-05
+293.15 0.02499 5e-05
+303.15 0.02382 4.8e-05
+#PRP-8016i.1931
+#Hennaut-Roland;Lek,M. "Methods and equipment used at the Bureau of Physico-Chemical Standards. IV: Surface tension of a series of organic substances",Bull. Soc. Chim. Belg., 40,177-188 (1931)
+#DOI:
+
+
+#id .....:2614
+#TabNr   : 2545
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2008-DEC/170757
+293.15 0.02484
+#PRP-1157d.1967
+#Ridgway,K.;Butler,P.A. "Some Physical Properties of the Ternary System Benzene - Cyclohexane - n-Hexane",J. Chem. Eng. Data, 12[4],509-515 (1967)
+#DOI:10.1021/je60035a012
+
+
+#id .....:2814
+#TabNr   : 2593
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/84679
+303.15 0.02377 6e-05
+#PVD-12697d.1964
+#Evans,H.B.;Clever,H.L. "Surface Tensions of Binary Mixtures of Isooctane with Benzene, Cyclohexane, and n-Dodecane at 30",J. Phys. Chem., 68[12],3433-3435 (1964)
+#DOI:10.1021/j100793a507
+
+
+#id .....:3219
+#TabNr   : 3559
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96871
+293.15 0.0252 1e-05
+#PRP-14534i.1944
+#Smith,G.W. "The measurement of boundary tension by the pendent-drop method II. Hydrocarbons.",J. Phys. Chem., 48,168-172 (1944)
+#DOI:10.1021/j150436a002
+
+
+#id .....:3252
+#TabNr   : 3592
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96898
+298.15 0.02452 6e-05
+#PRP-14545i.1950
+#Douglas,H.W. "A pendent-drop apparatus for surface and interfacial tensions",J. Sci. Instrum., 27,67-69 (1950)
+#DOI:10.1088/0950-7671/27/3/304
+
+
+#id .....:3264
+#TabNr   : 4285
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/103906
+293.15 0.025
+#PRP-15421i.1939
+#Moll,W.L.H. "Dielectrical study of the effect of organic solvent on high-molecular substances",Kolloid Beih., 49,1-74 (1939)
+#DOI:
+
+
+#id .....:3363
+#TabNr   : 3601
+#Tmin    : 289.95
+#Tmax    : 289.95
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96904
+289.95 0.02421
+#PRP-14549i.1913
+#Hardy,W.B. "The influence of chemical constitution upon interfacial tension",Proc. Roy. Soc. London Ser. A, 88,303-313 (1913)
+#DOI:10.1098/rspa.1913.0031
+
+
+#id .....:3809
+#TabNr   : 5084
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2009-AUG/183382
+303.15 0.0241
+#VLE-107057d.2008
+#Mejia,A.;Segura,H.;Cartes,M.;Calvo,C. "Vapor-Liquid Equilibria and Interfacial Tensions for the Ternary System Acetone + 2,2'-Oxybispropane + Cyclohexane and its Constituent Binary Systems",Fluid Phase Equilib., 270[1-2],75-86 (2008)
+#DOI:10.1016/j.fluid.2008.06.006
+
+
+#id .....:3812
+#TabNr   : 5087
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2009-AUG/183502
+303.15 0.0241
+#VLE-108262d.2008
+#Mejia,A.;Segura,H.;Cartes,M.;Cifuentes,L.;Flores,M. "Phase equilibria and interfacial tensions in the systems methyl tert-butyl ether + acetone + cyclohexane, methyl tert-butyl ether + acetone and methyl tert-butyl ether + cyclohexane",Fluid Phase Equilib., 273[1-2],68-77 (2008)
+#DOI:10.1016/j.fluid.2008.08.012
+
+
+#id .....:3816
+#TabNr   : 5091
+#Tmin    : 293.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2009-AUG/183917
+293.15 0.02506
+298.15 0.02445
+303.15 0.02387
+308.15 0.02321
+313.15 0.02271
+318.15 0.02205
+323.15 0.02145
+#PRP-23636i.2008
+#Azizian,S.;Bashavard,N. "Surface Tension of Dilute Solutions of Alkanes in Cyclohexanol at Different Temperatures",J. Chem. Eng. Data, 53[10],2422-2425 (2008)
+#DOI:10.1021/je8004112
+
+
+#id .....:3832
+#TabNr   : 3758
+#Tmin    : 293.15
+#Tmax    : 333.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97280
+293.15 0.025
+313.15 0.0227
+333.15 0.0204
+#PRP-40754d.1970
+#Konobeev,B.I.;Lyapin,V.V. "Density, viscosity, and surface tension of some binary systems",Zh. Prikl. Khim., 43[4],803-811 (1970)
+#DOI:
+
+
+#id .....:3833
+#TabNr   : 3759
+#Tmin    : 353.85
+#Tmax    : 353.85
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97290
+353.85 0.0177
+#PRP-40754d.1970
+#Konobeev,B.I.;Lyapin,V.V. "Density, viscosity, and surface tension of some binary systems",Zh. Prikl. Khim., 43[4],803-811 (1970)
+#DOI:
+
+
+#id .....:3883
+#TabNr   : 4488
+#Tmin    : 298.15
+#Tmax    : 323.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/131344
+298.15 0.0251 0.0001
+303.15 0.0241 0.0001
+308.15 0.0235 0.0001
+313.15 0.0229 0.0001
+318.15 0.0222 0.0001
+323.15 0.0217 0.0001
+#PVD-30858d.2001
+#Gomez-Diaz,D.;Mejuto,J.C.;Navaza,J.M. "Physicochemical Properties of Liquid Mixtures. 1. Viscosity Density, Surface Tension and Refractive Index of Cyclohexane + 2,2,4-Trimethylpentane Binary Liquid Systems from 25 C to 50 C",J. Chem. Eng. Data, 46[3],720-724 (2001)
+#DOI:10.1021/je000310x
+
+
+#id .....:3894
+#TabNr   : 4499
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/136851
+303.15 0.0238 0.0001
+#PRP-51818d.1978
+#Zvereva,I.A.;Smirnova,N.A. "Vapor-Liquid Equilibrium and Surface Tension in Binary Systems Containing Dicyclohexyl- and Cyclohexylbenzene",Deposited Doc. Oniitekhim, [2109-78],1-11 (1978)
+#DOI:
+
+
+#id .....:3929
+#TabNr   : 4534
+#Tmin    : 279.33
+#Tmax    : 337.93
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/148533
+279.33 0.02637 8e-05
+282.82 0.02599 4e-05
+287.81 0.02534 4e-05
+297.82 0.0242 2e-05
+307.86 0.02302 3e-05
+317.86 0.02184 4e-05
+327.88 0.02071 3e-05
+337.93 0.01957 5e-05
+#PVD-53756d.2003
+#Kahl,H.;Wadewitz,T.;Winkelmann,J. "Surface Tension of Pure Liquids and Binary Liquid Mixtures",J. Chem. Eng. Data, 48[3],580-586 (2003)
+#DOI:10.1021/je0201323
+
+
+#id .....:4008
+#TabNr   : 3831
+#Tmin    : 306.15
+#Tmax    : 306.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97361
+306.15 0.02394 0.00024
+#PRP-14580i.1935
+#Ray,S.K. "Parachor and ring structure. II. The spatial configuration of bridged-ring compounds",J. Indian Chem. Soc., 12,764-767 (1935)
+#DOI:
+
+
+#id .....:4048
+#TabNr   : 4550
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/138971
+298.15 0.02492
+#PVD-50777d.2002
+#Gomez-Diaz,D.;Mejuto,J.C.;Navaza,J.M.;Rodriguez-Alvarez,A. "Viscosities, Densities, Surface Tensions, and Refractive Indexes of 2,2,4-Trimethylpentane + Cyclohexane + Decane Ternary Liquid Systems at 298.15 K",J. Chem. Eng. Data, 47[4],872-875 (2002)
+#DOI:10.1021/je010288n
+
+
+#id .....:4089
+#TabNr   : 5138
+#Tmin    : 298.16
+#Tmax    : 308.16
+#Unidades: N/m
+#UTI     : DDB-PCP:2010-NOV/188300
+298.16 0.02436
+298.16 0.0245
+308.16 0.02337
+308.16 0.0234
+#PRP-24214i.1974
+#Jain,D.V.S.;Singh,S. "Thermodynamics of Binary Mixtures: Excess Gibbs Energies and Surface Tension of Binary Mixtures of Cyclohexane with o-Xylene, m-Xylene, p-Xylene and Ethylbenzene in Surface Phase",Indian J. Chem., 12[7],714-717 (1974)
+#DOI:
+
+
+#id .....:4130
+#TabNr   : 5167
+#Tmin    : 297.75
+#Tmax    : 297.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2010-NOV/191146
+297.75 0.0257
+#LLE-65586d.1934
+#Schlegel,H. "Studies of binary systems of heterogeneous physical properties of liquid systems with two layers. II.",J. Chim. Phys. Rev. Gen. Coll., 31,668-688 (1934)
+#DOI:
+
+
+#id .....:4231
+#TabNr   : 3899
+#Tmin    : 298.15
+#Tmax    : 308.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/100519
+298.15 0.02442 6e-05
+308.15 0.02322 6e-05
+#PRP-14906i.1996
+#Kaur,S.;Lark,B.S.;Aggarwal,S.K.;Singh,S. "Surface tension and surface excess heats of mixing of n-butyric acid with various solvents",Indian J. Chem. Sect. A, 35[10],832-835 (1996)
+#DOI:
+
+
+#id .....:4250
+#TabNr   : 4597
+#Tmin    : 287.81
+#Tmax    : 327.88
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/144809
+287.81 0.02534 4e-05
+297.82 0.0242 3e-05
+307.86 0.02302 3e-05
+317.86 0.02184 4e-05
+327.88 0.02071 3e-05
+#PVD-59500d.2003
+#Kahl,H.;Wadewitz,T.;Winkelmann,J. "Surface Tension and Interfacial Tension of Binary Organic Liquid Mixtures",J. Chem. Eng. Data, 48[6],1500-1507 (2003)
+#DOI:10.1021/je034062r
+
+
+#id .....:4482
+#TabNr   : 4675
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/154162
+298.15 0.02412
+#PRP-20125i.2005
+#Man Singh "A simple apparatus for measurements of surface tension and viscosity of liquids",Prib. Tekh. Eksp., [2],144-145 (2005)
+#DOI:
+
+
+#id .....:4658
+#TabNr   : 4695
+#Tmin    : 293.15
+#Tmax    : 313.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/160563
+293.15 0.02506
+298.15 0.02445
+313.15 0.02271
+#PRP-20528i.2006
+#Azizian,S.;Bashavard,N.;Yahyaei,B. "Surface Properties of Dilute Solutions of Alkanes in Benzyl Alcohol",J. Chem. Eng. Data, 51[1],56-59 (2006)
+#DOI:10.1021/je050159x
+
+
+#id .....:4814
+#TabNr   : 4021
+#Tmin    : 282.15
+#Tmax    : 353.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/102697
+282.15 0.0283
+292.15 0.0267
+297.75 0.0257
+313.15 0.0231
+331.15 0.0203
+343.15 0.0184
+353.15 0.0169
+#PRP-15333i.1917
+#Jaeger,F.M. "Temperature dependence of the free surface energy of liquids in temperature range from -80 to 1650 degrees Centigrade",Z. Anorg. Allgem. Chem., 101[1],1-214 (1917)
+#DOI:10.1002/zaac.19171010102
+
+
+#id .....:4885
+#TabNr   : 4752
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/161485
+303.15 0.0239 5e-05
+#VLE-69672d.1970
+#Wright,E.H.M.;Akhtar,B.A. "Soluble Surface Films of Short-chain Monocarboxylic Acids on Organic and Aqueous Substrates",J. Chem. Soc. B, ,151-157 (1970)
+#DOI:10.1039/j29700000151
+
+
+#id .....:5075
+#TabNr   : 4797
+#Tmin    : 283.15
+#Tmax    : 313.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/164610
+283.15 0.02628
+298.15 0.02473
+313.15 0.02293
+#PRP-21219i.2006
+#Romero,C.;Giner,B.;Haro,M.;Artigas,H.;Lafuente,C. "Thermophysical Study of 1,4-Dioxane with Cycloalkane Mixtures",J. Chem. Thermodyn., 38[7],871-878 (2006)
+#DOI:10.1016/j.jct.2005.09.004
+
+
+#id .....:5680
+#TabNr   : 4880
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2008-DEC/172066
+298.15 0.02394
+#PVD-89969d.1933
+#MacFarlane,W.;Wright,R. "Binary Liquid Systems and the Mixture Rule",J. Chem. Soc., ,114-118 (1933)
+#DOI:10.1039/jr9330000114

@@ -1,0 +1,68 @@
+#[Nombre]:n-BUTYLCYCLOHEXANE
+#[CASN]:1678-93-9
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C10H20
+#[SMILES]:C1CCCCC1CCCC
+#[Structure]:(C6H11)CH2CH2CH2CH3
+#[SYN]:BUTANE, 1-CYCLOHEXYL
+#[SYN]:1-CYCLOHEXYLBUTANE
+#[SYN]:CYCLOHEXANE, n-BUTYL-
+#[MW]:140.266;
+#[TC]:650;
+#[PC]:2.56e+06;
+#[VC]:0.547;
+#[ZC]:0.259;
+#[MP]:198.42;
+#[TPT]:198.42;
+#[TPP]:0.00328;
+#[NBP]:454.131;
+#[LVOL]:0.1762;
+#[HFOR]:-2.133e+08;
+#[GFOR]:5.706e+07;
+#[ENT]:457400;
+#[HSTD]:-2.63e+08;
+#[GSTD]:4.088e+07;
+#[SSTD]:344970;
+#[HCOM]:-6.0902e+09;
+#[ACEN]:0.393415;
+#[RG]:4.831e-10;
+#[SOLP]:16380;
+#[DM]:0;
+#[VDWA]:1.292e+09;
+#[VDWV]:0.10115;
+#[RI]:1.43855;
+#[FP]:325.65;
+#[FLVL]:0.703;
+#[FLTL]:321;
+#[FLVU]:5.12;
+#[FLTU]:362;
+#[AIT]:519.15;
+#[HSUB]:7.12e+07;
+#[PAR]:399.8;
+#[DC]:2.092;
+#[HFUS]:1.416e+07;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+343.15 0.0222
+333.15 0.02314
+323.15 0.02411
+313.15 0.02508
+303.15 0.02605
+298.15 0.02654
+293.15 0.02702
+283.15 0.02799
+273.15 0.029
+263.15 0.0299
+#[Ajuste]: 106
+#2
+#0.0586
+#1.292
+#[Calidad]: 198.42 0.0366042 650 0 0.24 263.15

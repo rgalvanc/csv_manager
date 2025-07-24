@@ -1,0 +1,96 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+15.0    23.28
+20.0    22.65
+30.0    21.32
+@Cm
+#[label]:WW97-47H1
+#[Ref]:Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+-34.2   31.26
+-13.2   27.86
+17.0    23.21
+34.9    20.92
+@Cm
+#[label]:WW97-55T1
+#[Ref]:Timmermans, M.J., Hennaut-Roland, M.: J.Chim.Phys.Phys.Chim.Biol. 52 (1955) 221
+15.0    23.28
+20.0    22.65
+30.0    21.32
+@Cm
+#[label]:WW97-72V1
+#[Ref]:Vargaftik, N.B.: Dictionary of Thermophysical Properties of Gases and Liquids, Moskva, Izd. Nauka (1972)
+0.0     25.25
+10.0    23.94
+20.0    22.65
+25.0    21.99
+30.0    21.32
+40.0    20.03
+@Cm
+#[label]:Godchot and Cauquil (1931)
+#[Ref]:Godchot, M., and Cauquil, G.: Compt. rend. 192, 1560 (1931).
+13.5    23.56
+@Cm
+#[label]:Qualey (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+13.5 23.56
+@m
+#[label]:Somayajulu (1988)
+#[Ref]:Somayajulu, G. R. (1988). A generalized equation for surface tension from the triple point to the critical point. International journal of thermophysics, 9, 559-566.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+138.07  44.030
+@
+#[label]:Hopfe (1990)
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+293.15  0.02295
+@
+#[label]:Liessmann (1995)
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+223.15  0.03210
+248.15  0.02880
+273.15  0.02552
+298.15  0.02228
+323.15  0.01910
+348.15  0.01600
+373.15  0.01300
+398.15  0.01010
+423.15  0.00736
+448.15  0.00480
+473.15  0.00240
+@m
+#[label]:Dean (1999)
+#[Ref]:Dean, J. A. (1999). Lange's handbook of chemistry.
+298 22.2
+@Cm
+#[label]:Lide (2005)
+#[Ref]:Lide, D. R. (Ed.). (2004). CRC handbook of chemistry and physics (Vol. 85). CRC press.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+10  24.45
+25  22.20
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781). William Andrew Publishing.
+298.15  22.95
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+138.13  0.04558
+350.24  0.01550
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+25  22.0
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+293.15  22.95

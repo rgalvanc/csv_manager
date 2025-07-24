@@ -1,0 +1,83 @@
+#[Nombre]:iso-BUTYLCYCLOHEXANE
+#[CASN]:1678-98-4
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C10H20
+#[SMILES]:C1CCCCC1CC(C)C
+#[Structure]:(C6H11)CH2CH(CH3)2
+#[SYN]:i-BUTYLCYCLOHEXANE
+#[SYN]:ISOBUTYLCYCLOHEXANE
+#[SYN]:NSC-74187
+#[MW]:140.266;
+#[TC]:642.1;
+#[PC]:2.585e+06;
+#[VC]:0.519;
+#[ZC]:0.251;
+#[MP]:178.35;
+#[TPT]:178.35;
+#[TPP]:0.000314;
+#[NBP]:444.45;
+#[LVOL]:0.1773;
+#[HFOR]:-2.184e+08;
+#[GFOR]:5.301e+07;
+#[ENT]:453900;
+#[HSTD]:-2.67e+08;
+#[GSTD]:3.84e+07;
+#[SSTD]:339900;
+#[HFUS]:1.11e+07;
+#[HCOM]:-6.086e+09;
+#[ACEN]:0.353605;
+#[RG]:4.579e-10;
+#[SOLP]:15890;
+#[DM]:6.6e-31;
+#[VDWV]:0.1023;
+#[VDWA]:1.348e+09;
+#[RI]:1.4388;
+#[AIT]:547.15;
+#[HSUB]:6.54e+07;
+#[PAR]:395.8;
+#[FLTL]:314.2;
+#[FLVL]:0.744;
+#[FLVU]:5.53;
+#[FLTU]:355;
+#[FP]:315.65;
+#[DC]:2.106;
+#[RefID]:18900
+#[Ref]:Voitkevich, S. A.Dependence of the Saturated Vapor Pressure of Liquid Organic Compounds Upon the Surface Tension, Zh. Fiz. Khim., 37, 1963, 1029-1036
+#[Year]:1963
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: Undocumented
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.02584
+#[Ajuste]: 106
+#2
+#0.058367
+#1.3381
+#[Calidad]: 178.35 0.0377632 642.1 0 0.64 373.15
+
+
+#[RefID]:13547
+#[Ref]: , Thermodynamics Research Center, TRC Thermodynamic Tables - Hydrocarbons, The Texas A & M University System, College Station, TX, 1997
+#[Year]:1997
+#[DataType]: Experimental
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+263.15 0.0287
+273.15 0.02777
+283.15 0.02681
+293.15 0.02584
+298.15 0.02534
+303.15 0.02488
+313.15 0.02391
+323.15 0.02294
+333.15 0.02198
+343.15 0.02102
+353.15 0.02001
+363.15 0.0191
+373.15 0.0181

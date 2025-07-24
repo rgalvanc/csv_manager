@@ -1,0 +1,239 @@
+@m
+#[label]:WW9747H1
+#[Ref]:Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+#[BibTex]:ww97
+#47H1 Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+292.25	33.52
+307.85	31.96
+330.25	29.79
+353.55	27.54
+372.25	25.76
+@m
+#[label]:WW9738V2
+#[Ref]:Valentiner (1938)
+#[BibTex]:ww97
+#38V2 desconocido
+291.65	33.38
+334.95	28.61
+359.45	27.02
+@m
+#[label]:WW9757M1
+#[Ref]:Murphy, N.F., Lastovica, J.E., Fallis, J.G.: Ind.Eng.Chem. 49 (1957) 1035
+#[BibTex]:ww97
+#57M1 Murphy, N.F., Lastovica, J.E., Fallis, J.G.: Ind.Eng.Chem. 49 (1957) 1035
+298.15 33.8
+@m
+#[label]:Azizian(2004a)
+#[Ref]:S. Azizian, N. Bashavard / Colloids and Surfaces A: Physicochem. Eng. Aspects 240 (2004) 69-73
+#[BibTex]:azizian2004surface
+298.15	32.82
+303.15	32.47
+308.15	31.91
+313.15	31.63
+318.15	31.1
+323.15	30.35
+@m
+#[label]: Azizian(2005a)
+#[Ref]:S. Azizian, N. Bashavard / Journal of Colloid and Interface Science 282 (2005) 428-433
+#[BibTex]:azizian2005surface
+293.15	33.39
+298.15	32.82
+303.15	32.47
+308.15	31.91
+313.15	31.63
+318.15	31.10
+323.15	30.35
+@m
+#[label]:Bermudez et al. (2011)
+#[Ref]:Bermudez et al. J. Chem. Eng. Data 2011, 56, 3823-3829
+#[BibTex]:bermudez2011densities
+298.15	33.39
+@m
+#[label]:Riddick et al. (1986)
+#[Ref]:Riddick, J.; Bunger, W.; Sakano, T. Organic Solvents, Physical Properties and Methods of Purification, 4th ed.; John Wiley & Sons: New York, 1986; Vol. II.
+#[BibTex]:
+298.65	33.91
+@m
+#[label]:Aspee(1998)
+#[Ref]:Aspee, A.; Lissi, E. A. Interfacial Free Energies and Surface Areas of Cycloalkanols and alkanediols at the Air/Water Interface. J. Colloid Interface Sci. 1998, 205, 482-488.
+#[BibTex]:
+295.65	36.2
+@
+#[label]: Detherm2014-Liessmann
+#[Ref]: Liessmann,G. et al. Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, (1995)
+#[BibTex]:
+303.150	0.0333800
+328.150	0.0305800
+353.150	0.0279600
+378.150	0.0254900
+403.150	0.0231600
+428.150	0.0209400
+453.150	0.0188100
+478.150	0.0167400
+503.150	0.0146800
+528.150	0.0126000
+553.150	0.0104100
+@
+#[label]: Detherm2014-Riddick86
+#[Ref]:Riddick, J.; Bunger, W.; Sakano, T. Organic Solvents, Physical Properties and Methods of Purification, 4th ed.; John Wiley & Sons: New York, 1986; Vol. II.
+#[BibTex]:
+298.65	0.03391
+303.15	0.03347
+@
+#[label]:Detherm2014-Utermark
+#[Ref]:Utermark,W., "Melting point tables of organic compounds", Akademie-Verlag,Berlin, (1951)
+#[BibTex]:
+318.15	0.03137
+@m
+#[label]: WW2008-2005AZI1
+#[Ref]:Azizian, S., Bashavard, N.: J. Coll. Interf. Sci. 282 (2005) 428.
+#[BibTex]:WW2016-2005AZI1
+293.15    33.39
+298.15    32.82
+303.15    32.47
+308.15    31.91
+313.15    31.63
+318.15    31.10
+323.15    30.35
+@m
+#[label]: WW2008-2004AZI2
+#[Ref]:Azizian, S., Bashavard, N.: Colloids Surf. A 240 (2004) 69.
+#[BibTex]:WW2016-2004AZI2
+298.15   32.82
+303.15   32.47
+308.15   31.91
+313.15   31.63
+318.15   31.10
+323.15   30.35
+@m
+#[label]: WW2016-2008AZI1
+#[Ref]:Azizian, S., Bashavard, N.: J. Chem. Eng. Data 53 (2008) 2422, 2919
+#[BibTex]:WW2016-2008AZI1
+ 293.15   33.15
+ 298.15   32.74
+ 303.15   32.35
+ 308.15   31.91
+ 313.15   31.58
+ 318.15   31.13
+ 323.15   30.78
+@Cm
+#[label]:Jasper (1972)
+#[Ref]:Jasper, J. J. (1972). The surface tension of pure liquid compounds. Journal of physical and chemical reference data, 1(4), 841-1010.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+ 20  33.40
+ 30  32.43
+ 40  31.47
+ 50  30.50
+ 60  29.53
+ 70  28.57
+ 80  27.60
+ 90  26.64
+ 100 25.67
+@m
+#[label]:Egemen et al. (2000)
+#[Ref]:Egemen, E., Nirmalakhandan, N., & Trevizo, C. (2000). Predicting surface tension of liquid organic solvents. Environmental science & technology, 34(12), 2596-2600.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+    298.15  32.92
+@Cm
+#[label]:Flick
+#[Ref]:
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+    16.2  34.23
+@Cm
+#[label]:Gaudin (2018)
+#[Ref]:Gaudin, T. (2018). Exploring direct prediction of surface tension from COSMO-RS theory. Chemical Physics Letters, 706, 308-310.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+    20.0  34.4
+@m
+#[label]:Khajeh and Modarress (2011)
+#[Ref]:Khajeh, A., & Modarress, H. (2011). Quantitative structure–property relationship for surface tension of some common alcohols. Journal of chemometrics, 25(6), 333-339.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+    298.15  33.42
+@Cm
+#[label]:Lide (2005)
+#[Ref]:Lide, D. R. (Ed.). (2004). CRC handbook of chemistry and physics (Vol. 85). CRC press.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+ 25   32.92
+ 50   30.50
+ 75   28.09
+ 100  25.67
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    33.42
+@Cm
+#[label]:Pereira and Vebber (2018)
+#[Ref]:Pereira, C. N., & Vebber, G. C. (2018). A novel semi-empirical method for adjusting solubility parameters to surface tension based on the use of Stefan's rule. Journal of Molecular Liquids, 272, 520-527.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+ 20   35.30
+@m
+#[label]:Werth et al. (2017)
+#[Ref]:Werth, S., Horsch, M., & Hasse, H. (2017). Molecular simulation of the surface tension of 33 multi-site models for real fluids. Journal of Molecular Liquids, 235, 126-134.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+!300      40.3
+!375      32.0
+!450      22.9
+!525      14.0
+600      5.70
+@m
+#[label]:Delgado and Diaz (2006)
+#[Ref]:Delgado, E. J., & Diaz, G. A. (2006). A molecular structure based model for predicting surface tension of organic compounds. SAR and QSAR in Environmental Research, 17(5), 483-496.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    32.90
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+298.15  0.03391
+373.15  0.02567
+@m
+#[label]:Naef and Acree (2018).
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:Naef, R., & Acree, W. E. (2018).
+#[date]:2024-12-8
+#[by]:rodrigo
+    293.15  32.92
+@Cm
+#[label]:Sanchez (1983)
+#[Ref]:Sanchez, I. C. (1983). Liquids: surface tension, compressibility, and invariants. The Journal of Chemical Physics, 79(1), 405-415.
+#[BibTex]:
+#[date]:2024-12-8
+#[by]:rodrigo
+32  33.3
+@Cm
+#[label]:Cova (1974)
+#[Ref]:Cova, D. R. (1974). Axial mixing in the liquid phase in gas-sparged columns. Industrial & Engineering Chemistry Process Design and Development, 13(3), 292-296.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+  22.0  35.0
+@m
+#[label]:Deepika et al.(2022)
+#[Ref]:Deepika, Juneja, S., & Pandey, S. (2022). Water miscibility, surface tension, density, and dynamic viscosity of hydrophobic deep eutectic solvents composed of capric acid, menthol, and thymol. Journal of Chemical & Engineering Data, 67(11), 3400-3413.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+298.15  33.25

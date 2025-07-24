@@ -1,0 +1,36 @@
+@Cm
+#[label]:WW97-72J1
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841
+5.0     21.20
+10.0    20.64
+20.0    19.52
+@
+#[label]:Hopfe (1990)
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+293.15  0.01952
+@
+#[label]:Liessmann (1995)
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+223.15  0.03205
+248.15  0.02910
+273.15  0.02618
+298.15  0.02331
+323.15  0.02049
+348.15  0.01775
+373.15  0.01510
+398.15  0.01250
+423.15  0.01000
+448.15  0.00765
+473.15  0.00540
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841
+298.15  19.52
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+146.62  0.04262
+449.89  0.00703

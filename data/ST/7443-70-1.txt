@@ -1,0 +1,80 @@
+#[Nombre]:cis-2-METHYLCYCLOHEXANOL
+#[CASN]:7443-70-1
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C7H14O
+#[SMILES]:C1[C@](O)([H])([C@](C)([H])(CCC1))
+#[Structure]:HO(C6H10)CH3
+#[MW]:114.185;
+#[TC]:614;
+#[PC]:3.79e+06;
+#[VC]:0.374;
+#[ZC]:0.278;
+#[MP]:280.15;
+#[TPT]:280.15;
+#[TPP]:45.5623;
+#[NBP]:438.15;
+#[HFOR]:-3.27e+08;
+#[GFOR]:-1.268e+08;
+#[ENT]:385300;
+#[HSTD]:-3.902e+08;
+#[GSTD]:-1.466e+08;
+#[SSTD]:239600;
+#[HFUS]:9.64e+06;
+#[HCOM]:-4.0574e+09;
+#[ACEN]:0.68049;
+#[RG]:3.821e-10;
+#[DM]:5.49e-30;
+#[VDWV]:0.07505;
+#[VDWA]:9.55e+08;
+#[RI]:1.46325;
+#[AIT]:569.15;
+#[HSUB]:7.32e+07;
+#[LVOL]:0.12255;
+#[SOLP]:21640;
+#[DC]:9.375;
+#[FP]:331.15;
+#[FLVL]:1;
+#[FLTL]:325;
+#[FLVU]:7.2;
+#[FLTU]:364;
+#[PAR]:291.1;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+280.15 0.033835
+307.39 0.030639
+334.64 0.027552
+361.88 0.024566
+389.13 0.021666
+416.37 0.018832
+443.62 0.016045
+470.86 0.013283
+498.11 0.010534
+525.35 0.0077935
+552.6 0.0050802
+#[Ajuste]: 106
+#2
+#0.064914
+#1.0884
+#[Calidad]: 280.15 0.033445 614 0 4.2 553
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03075
+334.35 0.02807
+359.75 0.02558

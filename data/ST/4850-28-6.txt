@@ -1,0 +1,74 @@
+#[Nombre]:1-cis-2-trans-4-TRIMETHYLCYCLOPENTANE
+#[CASN]:4850-28-6
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C[C@@H]1C[C@@H](C)[C@@H](C)C1
+#[Structure]:-CH(CH3)CH(CH3)CH2CH(CH3)CH2-
+#[SYN]:1,2,4-TRIMETHYLCYCLOPENTANE
+#[SYN]:(1.alpha,2.alpha,4.beta)-TRIMETHYLCYCLOPENTANE
+#[SYN]:(1R,2S,4s)-1,2,4-TRIMETHYLCYCLOPENTANE
+#[MW]:112.213;
+#[RI]:1.41612;
+#[VDWA]:1.02e+09;
+#[VDWV]:0.0807;
+#[VC]:0.417;
+#[ZC]:0.249;
+#[TPT]:140.6;
+#[ACEN]:0.2775;
+#[PAR]:318.7;
+#[DM]:0;
+#[RG]:3.961e-10;
+#[TPP]:1.72e-05;
+#[LVOL]:0.1479;
+#[SOLP]:15450;
+#[DC]:2.005;
+#[HFOR]:-1.588e+08;
+#[GFOR]:5.016e+07;
+#[ENT]:390500;
+#[HSTD]:-1.9155e+08;
+#[GSTD]:4.182e+07;
+#[SSTD]:299640;
+#[HFUS]:6.15e+06;
+#[HCOM]:-4.886e+09;
+#[FP]:276;
+#[FLVL]:0.938;
+#[FLTL]:276;
+#[FLVU]:6.19;
+#[FLTU]:312;
+#[AIT]:739;
+#[HSUB]:5.08e+07;
+#[NBP]:389.88;
+#[MP]:140.6;
+#[PC]:2.8779e+06;
+#[TC]:579.26;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+140.6 0.0378
+165.98 0.0349
+191.36 0.0322
+216.75 0.0295
+242.13 0.0269
+267.51 0.0244
+292.89 0.022
+318.28 0.0197
+343.66 0.0175
+369.04 0.0153
+394.42 0.0132
+419.8 0.0111
+445.19 0.0090167
+470.57 0.007009
+495.95 0.0050748
+521.33 0.0032513
+#[Ajuste]: 106
+#2
+#0.0519
+#1.2008
+#[Calidad]: 140.6 0.0371686 579.26 0 1.67 140.6

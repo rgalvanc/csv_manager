@@ -1,0 +1,51 @@
+@cm
+#[label]:WW97-53A1
+#[Ref]:A.P.I.Res.Project 44 (1953)
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 5.0      25.87
+ 10.0     25.39
+ 20.0     24.43
+ 30.0     23.47
+ 40.0     22.51
+ 50.0     21.54
+ 60.0     20.58
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    23.94
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0 24.44
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.02835
+273.15 0.02637
+293.15 0.02441
+313.15 0.02248
+333.15 0.02058
+353.15 0.01871
+373.15 0.01688
+393.15 0.01508
+413.15 0.01332
+433.15 0.01161
+453.15 0.00995
+@
+#[label]:DETHERM-Hopfe
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02443

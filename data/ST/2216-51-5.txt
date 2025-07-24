@@ -1,0 +1,70 @@
+#[Nombre]:L-MENTHOL
+#[CASN]:2216-51-5
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C10H20O
+#[SMILES]:C1[C@H](C(C)C)([C@](O)([H])(C[C@](C)([H])(C1)))
+#[Structure]:CH3(C6H9OH)CH(CH3)2
+#[SYN]:(-)-MENTHOL
+#[SYN]:(1R)-MENTHOL
+#[SYN]:(1R,3S,4S)-p-MENTHAN-3-OL
+#[SYN]:1-METHYL-4-ISOPROPYLCYCLOHEXAN-3-OL
+#[MW]:156.265;
+#[TC]:658;
+#[PC]:2.71e+06;
+#[VC]:0.533;
+#[ZC]:0.264;
+#[MP]:315.65;
+#[TPT]:315.65;
+#[TPP]:53.3192;
+#[NBP]:489.55;
+#[HFOR]:-4.075e+08;
+#[GFOR]:-9.75e+07;
+#[ENT]:426000;
+#[HSTD]:-4.79425e+08;
+#[GSTD]:-1.196e+08;
+#[SSTD]:258700;
+#[HFUS]:1.22e+07;
+#[HCOM]:-5.874e+09;
+#[ACEN]:0.779609;
+#[RG]:4.754e-10;
+#[DM]:5.84e-30;
+#[VDWV]:0.10227;
+#[VDWA]:1.347e+09;
+#[RI]:1.458;
+#[AIT]:;
+#[HSUB]:8.5e+07;
+#[LVOL]:0.17749;
+#[SOLP]:17880;
+#[FP]:366.15;
+#[FLVL]:0.8;
+#[FLTL]:360;
+#[FLVU]:6.1;
+#[FLTU]:404;
+#[DC]:7.924;
+#[PAR]:405.95;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+315.65 0.02736
+342.65 0.02502
+369.65 0.02274
+396.65 0.02051
+423.65 0.01833
+450.65 0.01617
+477.65 0.01404
+504.65 0.01189
+531.65 0.00973
+558.65 0.00754
+585.65 0.00533
+#[Ajuste]: 106
+#2
+#0.0538
+#1.04042
+#[Calidad]: 315.65 0.027262 658 0 1.5 586

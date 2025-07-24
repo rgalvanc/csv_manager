@@ -1,0 +1,81 @@
+#GEM-Registro: rid=1432 gem_nr=364 287-92-3 cyclopentane
+#[Syn]: cyclopentane
+#[Syn]: Cyclopentan
+#[Syn]: C1CCCC1
+#[Syn]: pentamethylene
+#[Syn]: C5H10
+#id .....:456
+#TabNr   : 518
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97257
+286.65 0.0233
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:643
+#TabNr   : 2873
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/88177
+293.15 0.02242 3e-05
+#PRP-13328i.1939
+#Wibaut,J.P.;Hoog,H.;Langedyk,S.L.;Overhoff,J.;Smittenberg,J. "A study on the preparation and the physical constants of a number of alkanes and cycloalkanes",Recl. Trav. Chim. Pays Bas, 58,329-376 (1939)
+#DOI:10.1002/recl.19390580409
+
+
+#id .....:1068
+#TabNr   : 672
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/93261
+288.15 0.02321
+293.15 0.02273
+303.15 0.02139
+#PRP-5067i.1937
+#Timmermans,J.;Hennaut-Roland "",J. Chim. Phys., 34,693-739 (1937)
+#DOI:
+
+
+#id .....:1727
+#TabNr   : 871
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54939
+298.15 0.02185 3e-05
+#PRP-7946i.1970
+#Lam,V.T.;Benson,G.C. "Surface tension of binary liquid systems. I. Mixtures of non-electrolytes",Can. J. Chem., 48,3773-3781 (1970)
+#DOI:10.1139/v70-637
+
+
+#id .....:1831
+#TabNr   : 2387
+#Tmin    : 290.25
+#Tmax    : 290.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62174
+290.25 0.02293
+290.65 0.02284
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:5077
+#TabNr   : 4798
+#Tmin    : 283.15
+#Tmax    : 313.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/164609
+283.15 0.02414
+298.15 0.02206
+313.15 0.01976
+#PRP-21219i.2006
+#Romero,C.;Giner,B.;Haro,M.;Artigas,H.;Lafuente,C. "Thermophysical Study of 1,4-Dioxane with Cycloalkane Mixtures",J. Chem. Thermodyn., 38[7],871-878 (2006)
+#DOI:10.1016/j.jct.2005.09.004

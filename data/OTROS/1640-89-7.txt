@@ -1,0 +1,66 @@
+@cm
+#[label]:WW97-53A1
+#[Ref]:A.P.I.Res.Project 44 (1953)
+#[BibTex]:WW97
+#[date]:2024-11-20
+#[by]:rodrigo
+5.0    25.41
+10.0   24.90
+20.0   23.88
+30.0   22.86
+40.0   21.84
+50.0   20.82
+60.0   19.80
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-25
+#[by]:rodrigo
+ 25.0     23.3
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-7
+#[by]:rodrigo
+ 298.15    23.33
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-7
+#[by]:rodrigo
+253.15 0.02800
+373.15 0.01570
+@m
+#[label]:Naef and Acree (2018).
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:Naef, R., & Acree, W. E. (2018).
+#[date]:2024-12-7
+#[by]:rodrigo
+    293.15  23.88
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+293.15 0.02388
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+243.15 0.02900
+268.15 0.02640
+293.15 0.02380
+318.15 0.02123
+343.15 0.01870
+368.15 0.01620
+393.15 0.01377
+418.15 0.01140
+443.15 0.00910
+468.15 0.00692
+493.15 0.00490

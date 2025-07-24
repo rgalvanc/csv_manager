@@ -1,0 +1,87 @@
+#[Nombre]:tert-BUTYLCYCLOHEXANE
+#[CASN]:3178-22-1
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C10H20
+#[SMILES]:C1CCCCC1C(C)(C)C
+#[Structure]:C6H11C(CH3)3
+#[SYN]:(1,1-DIMETHYLETHYL)CYCLOHEXANE
+#[SYN]:1-tert-BUTYLCYCLOHEXANE
+#[SYN]:2-CYCLOHEXYL-2-METHYLPROPANE
+#[SYN]:CYCLOHEXANE, tert-BUTYL-
+#[SYN]:Tb-c6
+#[SYN]:T-BuCyc6
+#[SYN]:t-BUTYLCYCLOHEXANE
+#[MW]:140.266;
+#[TC]:652;
+#[PC]:2.66e+06;
+#[VC]:0.51;
+#[ZC]:0.25;
+#[MP]:231.98;
+#[TPT]:231.98;
+#[TPP]:1.2;
+#[NBP]:444.65;
+#[LVOL]:0.1734;
+#[HFOR]:-2.169e+08;
+#[GFOR]:5.695e+07;
+#[ENT]:445700;
+#[HSTD]:-2.62e+08;
+#[GSTD]:5.1e+07;
+#[SSTD]:314400;
+#[HFUS]:1.12e+07;
+#[HCOM]:-6.091e+09;
+#[ACEN]:0.299134;
+#[RG]:4.413e-10;
+#[SOLP]:16040;
+#[DM]:0;
+#[VDWV]:0.1023;
+#[VDWA]:1.368e+09;
+#[RI]:1.44473;
+#[AIT]:615.15;
+#[HSUB]:5.78e+07;
+#[PAR]:392.5;
+#[FLTL]:309.3;
+#[FP]:315.15;
+#[FLVL]:0.6;
+#[FLVU]:5.4;
+#[FLTU]:354;
+#[DC]:2.08;
+#[RefID]:18900
+#[Ref]:Voitkevich, S. A.Dependence of the Saturated Vapor Pressure of Liquid Organic Compounds Upon the Surface Tension, Zh. Fiz. Khim., 37, 1963, 1029-1036
+#[Year]:1963
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+293.15 0.02656
+#[Ajuste]: 106
+#2
+#0.058613
+#1.3216
+#[Calidad]: 231.98 0.0327792 652 0 0.43 363.15
+
+
+#[RefID]:13547
+#[Ref]: , Thermodynamics Research Center, TRC Thermodynamic Tables - Hydrocarbons, The Texas A & M University System, College Station, TX, 1997
+#[Year]:1997
+#[DataType]: Experimental
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+263.15 0.0295
+273.15 0.02858
+283.15 0.02762
+293.15 0.02666
+298.15 0.02618
+303.15 0.0257
+313.15 0.02474
+323.15 0.02378
+333.15 0.02282
+343.15 0.02186
+353.15 0.0209
+363.15 0.0199
+373.15 0.019

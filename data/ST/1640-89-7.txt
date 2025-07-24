@@ -1,0 +1,81 @@
+#[Nombre]:ETHYLCYCLOPENTANE
+#[CASN]:1640-89-7
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:N-CYCLOPENTANES
+#[Formula]:C7H14
+#[SMILES]:C1(CC)CCCC1
+#[Structure]:(C5H9)CH2CH3
+#[MW]:98.1861;
+#[TC]:569.5;
+#[PC]:3.4e+06;
+#[VC]:0.375;
+#[ZC]:0.269;
+#[MP]:134.71;
+#[TPT]:134.71;
+#[TPP]:3.71437e-06;
+#[NBP]:376.62;
+#[HFOR]:-1.269e+08;
+#[GFOR]:4.48e+07;
+#[ENT]:378300;
+#[HSTD]:-1.6343e+08;
+#[GSTD]:3.7603e+07;
+#[SSTD]:279910;
+#[HFUS]:6.8697e+06;
+#[HCOM]:-4.2839e+09;
+#[ACEN]:0.270095;
+#[RG]:3.734e-10;
+#[DM]:0;
+#[VDWV]:0.0704;
+#[VDWA]:8.87e+08;
+#[RI]:1.4173;
+#[AIT]:533.15;
+#[PAR]:282.9;
+#[HSUB]:5.01e+07;
+#[LVOL]:0.128748;
+#[SOLP]:16260;
+#[FLVL]:1.1;
+#[FLTL]:271.2;
+#[FLVU]:6.7;
+#[FLTU]:303;
+#[FP]:273.15;
+#[DC]:2.038;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+278.15 0.02541
+#[Ajuste]: 106
+#2
+#0.056724
+#1.1984
+#[Calidad]: 134.71 0.041049 569.5 0 0.8 373
+
+
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+253.15 0.028
+263.15 0.0269
+273.15 0.0259
+283.15 0.0249
+293.15 0.02388
+298.15 0.02337
+303.15 0.02286
+313.15 0.02184
+323.15 0.0208
+333.15 0.0198
+343.15 0.0189
+353.15 0.0178
+363.15 0.0167
+373.15 0.0157

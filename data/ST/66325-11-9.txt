@@ -1,0 +1,67 @@
+#[Nombre]:1-n-HEXYL-1,2,3,4-TETRAHYDRONAPHTHALENE
+#[CASN]:66325-11-9
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:TETRALINS
+#[Formula]:C16H24
+#[SMILES]:c1cccc2c1(C(CCCCCC)CCC2)
+#[Structure]:RING COMPOUND, See ref. 2867
+#[SYN]:1-HEXYL-TETRALIN
+#[MW]:216.362;
+#[TC]:779;
+#[PC]:1.89e+06;
+#[VC]:0.771;
+#[ZC]:0.225;
+#[MP]:220.81;
+#[TPT]:220.81;
+#[TPP]:2e-06;
+#[NBP]:578.15;
+#[HFOR]:-1.029e+08;
+#[GFOR]:2.143e+08;
+#[ENT]:594000;
+#[HSTD]:-1.79326e+08;
+#[GSTD]:1.814e+08;
+#[SSTD]:448900;
+#[HFUS]:;
+#[HCOM]:-9.01e+09;
+#[ACEN]:0.588792;
+#[RG]:6.87e-10;
+#[DM]:2.666e-30;
+#[VDWV]:0.14235;
+#[VDWA]:1.721e+09;
+#[RI]:1.5127;
+#[AIT]:;
+#[HSUB]:1.04e+08;
+#[LVOL]:0.235789;
+#[SOLP]:17720;
+#[FLVL]:0.5;
+#[FLTL]:412;
+#[FLVU]:5.1;
+#[FLTU]:468;
+#[FP]:414;
+#[DC]:2.518;
+#[PAR]:571.8;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+200 0.04674
+250 0.04072
+300 0.03514
+350 0.03
+400 0.02526
+450 0.02091
+500 0.01691
+550 0.0132
+600 0.009733
+650 0.006498
+700 0.00354
+#[Ajuste]: 106
+#2
+#0.06532
+#1.288
+#[Calidad]: 220.81 0.0425208 779 0 4.6 200

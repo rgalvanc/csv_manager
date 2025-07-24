@@ -1,0 +1,93 @@
+#[Nombre]:trans-4-METHYLCYCLOHEXANOL
+#[CASN]:7731-29-5
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C7H14O
+#[SMILES]:C1[C@](O)([H])(CC[C@@](C)([H])(C1))
+#[Structure]:HO(C6H10)CH3
+#[MW]:114.185;
+#[TC]:622;
+#[PC]:3.79e+06;
+#[VC]:0.374;
+#[ZC]:0.274;
+#[MP]:265;
+#[TPT]:265;
+#[TPP]:2.5708;
+#[NBP]:444.15;
+#[HFOR]:-3.672e+08;
+#[GFOR]:-1.654e+08;
+#[ENT]:380000;
+#[HSTD]:-4.333e+08;
+#[GSTD]:-1.89e+08;
+#[SSTD]:237200;
+#[HFUS]:1.12e+07;
+#[HCOM]:-4.0143e+09;
+#[ACEN]:0.69399;
+#[RG]:3.854e-10;
+#[DM]:5.77e-30;
+#[VDWV]:0.07505;
+#[VDWA]:9.55e+08;
+#[RI]:1.4544;
+#[AIT]:570.15;
+#[HSUB]:7.33e+07;
+#[LVOL]:0.125732;
+#[SOLP]:21600;
+#[FP]:343.15;
+#[FLVL]:1;
+#[FLTL]:338;
+#[FLVU]:7.2;
+#[FLTU]:375;
+#[DC]:11.727;
+#[PAR]:290.4;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+265 0.031773
+294.48 0.028713
+323.96 0.025767
+353.44 0.022928
+382.92 0.020183
+412.4 0.017508
+441.88 0.014875
+471.36 0.012257
+500.84 0.0096373
+530.32 0.007019
+559.8 0.0044357
+#[Ajuste]: 106
+#2
+#0.05771
+#1.0941
+#[Calidad]: 265 0.031437 622 0 4.9 303
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+293.15 0.02763
+294.05 0.02758
+333.55 0.02504
+359.25 0.02305
+
+
+#[RefID]:4145
+#[Ref]:Riddick, J.A., Bunger, W.B., Sakano, T.K.Organic Solvents: Physical Properties and Methods of Purification, 4th ed., Wiley Interscience,  New York, 1986
+#[Year]:1986
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+303.15 0.0292

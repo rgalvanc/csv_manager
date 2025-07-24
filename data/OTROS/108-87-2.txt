@@ -1,0 +1,392 @@
+#methylcyclohexane  !short name
+#108-87-2           !CAS number
+#methylcyclohexane  !full name
+@m
+#[label]:TDE-co93
+#[Ref]:
+#[BibTex]:
+#TDE co93
+292.9881   23.7400           1939 co     1               1
+@m
+#[label]:TDE-ca6
+#[Ref]:
+#[BibTex]:
+#TDE ca63
+373.9742   15.6200           1963 ca     2               1
+@m
+#[label]:Villares (2005)
+# Villares et al. (2005)
+#[Ref]:Villares, A., Giner, B., Artigas, H., Lafuente, C., Royo, F.M.: J. Solution Chem. 34 (2005) 185.
+298.15	23.42
+313.15	21.93
+!313.15  22.83
+@Cm
+#[label]:WW97-31G1
+#[Ref]:Godchot, M., Cauquil, G.: C.R.Hebd.Seances Acad.Sci. 192 (1931) 1560
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 13.5     24.21
+@Cm
+#[label]:WW97-31H1
+#[Ref]:Hennaut-Roland, M., Lek, L.: Bull.Soc.Chim.Belg. 40 (1931) 177
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 15.0    24.43
+ 20.0    23.82
+ 30.0    22.72
+@Cm
+#[label]:WW97-35D1
+#[Ref]:Desreux, V.: Bull.Soc.Chim.Belg. 44 (1935) 249
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0   23.74
+@Cm
+#[label]:WW97-36T1
+#[Ref]:Taubmann, A.: Acta Physicochim. URSS 5 (1936) 355
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0   23.73
+@cm
+#[label]:WW97-38V2
+#[Ref]:
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0    23.59
+ 20.2    23.57
+ 41.7    21.39
+ 61.1    19.41
+@cm
+#[label]:WW97-39C1
+#[Ref]:
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 18.8    23.86
+ 20.0    23.82
+ 30.0    22.72
+@cm
+#[label]:WW97-39W1
+#[Ref]:Wibaut, J.P., Hoog, H., Langedijk, S.L., Overhoff, J., Smittenberg, J.: Recl.Trav.Chim.Pays-Bas 58 (1939) 329
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0     23.73
+@cm
+#[label]:WW97-40C2
+#[Ref]:Cowan, D.M., Jeffery, G.H., Vogel, A.I.: J.Chem.Soc. (1940) 171
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 18.8  23.86
+ 40.7  21.55
+@cm
+#[label]:WW97-44H1
+#[Ref]:
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0    22.39
+ 40.0    20.36
+ 60.0    18.32
+ 80.0    15.87
+@cm
+#[label]:WW97-48T2
+#[Ref]:
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0     23.82
+@cm
+#[label]:WW97-66B1
+#[Ref]:Bartell, L.S., Roskos, R.R.: J.Chem.Phys. 44 (1966) 457
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 20.0     23.70
+@cm
+#[label]:WW97-72J1
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 5.0      25.54
+ 10.0     24.98
+ 20.0     23.85
+ 30.0     22.72
+ 40.0     21.59
+ 50.0     20.46
+ 60.0     19.33
+@cm
+#[label]:WW97-72V1
+#[Ref]:Vargaftik, N.B.: Dictionary of Thermophysical Properties of
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 0.0      25.80
+ 10.0     24.74
+ 20.0     23.68
+ 25.0     23.15
+ 30.0     22.62
+ 40.0     21.56
+ 50.0     20.50
+ 75.0     17.85
+ 100.0    15.20
+@cm
+#[label]:WW97-74M1
+#[Ref]:Myers, R.S., Clever, H.L.: J.Chem.Thermodyn. 6 (1974) 949
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 30.0   22.76
+ 30.0   21.89
+@cm
+#[label]:WW97-76M1
+#[Ref]:Myers, R.S., Angel, G.P., Clever, H.L.: Colloid Interface Sci. (1976) 443
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 30.0   22.76
+@m
+#[label]:WW97-87S1
+#[Ref]:Stephan, K., Hildwein, H.: Recommended Data of Selected Compounds and Binary Mixtures, Chemistry Data Series Vol. IV, Pts. 1+2, DECHEMA (1987)
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 146.58  41.188
+ 150.0   40.757
+ 155.0   40.127
+ 160.0   39.500
+ 165.0   38.876
+ 170.0   38.253
+ 175.0   37.634
+ 180.0   37.016
+ 185.0   36.401
+ 190.0   35.788
+ 195.0   35.178
+ 200.0   34.570
+ 205.0   33.965
+ 210.0   33.362
+ 215.0   32.762
+ 220.0   32.164
+ 225.0   31.569
+ 230.0   30.976
+ 235.0   30.387
+ 240.0   29.799
+ 245.0   29.215
+ 250.0   28.633
+ 255.0   28.054
+ 260.0   27.478
+ 265.0   26.905
+ 270.0   26.334
+ 275.0   25.767
+ 280.0   25.202
+ 285.0   24.640
+ 290.0   24.081
+ 295.0   23.525
+ 300.0   22.973
+ 305.0   22.423
+ 310.0   21.877
+ 315.0   21.333
+ 320.0   20.793
+ 325.0   20.256
+ 330.0   19.723
+ 335.0   19.193
+ 340.0   18.666
+ 345.0   18.143
+ 350.0   17.623
+ 355.0   17.107
+ 360.0   16.594
+ 365.0   16.085
+ 370.0   15.580
+ 375.0   15.079
+ 380.0   14.581
+ 385.0   14.088
+ 390.0   13.598
+ 395.0   13.113
+ 400.0   12.631
+ 405.0   12.154
+ 410.0   11.682
+ 415.0   11.213
+ 420.0   10.750
+ 425.0   10.291
+ 430.0   9.8364
+ 435.0   9.3869
+ 440.0   8.9425
+ 445.0   8.5032
+ 450.0   8.0691
+ 455.0   7.6404
+ 460.0   7.2173
+ 465.0   6.7999
+ 470.0   6.3884
+ 475.0   5.9831
+ 480.0   5.5841
+ 485.0   5.1916
+ 490.0   4.8060
+ 495.0   4.4275
+ 500.0   4.0564
+ 505.0   3.6932
+ 510.0   3.3381
+ 515.0   2.9916
+ 520.0   2.6544
+ 525.0   2.3268
+ 530.0   2.0098
+ 535.0   1.7041
+ 540.0   1.4107
+ 545.0   1.1310
+ 550.0   0.8668
+ 555.0   0.6203
+ 560.0   0.3951
+ 565.0   0.1973
+ 570.0   0.0406
+ 572.12  0.0000
+@cm
+#[label]:WW97-92K1
+#[Ref]:Kanade, B.V., Vakharia, M.N., Pandya, M.V., Patel, B.M., Patel, A.T., Oswal, S.L.: Indian J.Technol. 30 (1992) 308
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 30.0   22.64
+@m
+#[label]:WW97-94F1
+#[Ref]:Fernandez, J., Williamson, A.-M., McLure, I.A.: J.Chem. Thermodynamics 26 (1994) 897
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 293.2    23.78
+ 298.1    23.24
+ 302.8    22.76
+ 308.2    22.16
+ 313.1    21.64
+ 318.0    21.11
+ 322.8    20.62
+ 327.9    20.07
+ 337.7    19.12
+@cm
+#[label]:WW97-94F1
+#[Ref]:Fernandez, J., Williamson, A.-M., McLure, I.A.: J.Chem.Thermodyn. 26 (1994) 897
+#[BibTex]:WW97
+#[date]:2024-11-05
+#[by]:rodrigo
+ 46.85  20.91
+ 51.85  20.39
+ 56.85  19.87
+ 61.85  19.35
+@cm
+#[label]:Jasper-1972
+#[Ref]:J. Phys. Chem. Ref. Data, Vol. 1, No 4, 1972
+#[BibTex]:Jasper-1972
+#[date]:2024-11-19
+#[by]:rodrigo
+ 5.0  25.34
+ 10.0 24.98
+ 20.0 23.85
+ 30.0 22.72
+ 40.0 21.59
+ 50.0 20.46
+ 60.0 19.33
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-16
+#[by]:rodrigo
+ 25.0  23.3
+@Cm
+#[Ref]:D.R.Lide, CRC handbook of chemistry and physics, vol. 86 (CRC press, 2005)
+#[label]: Lide (2005)
+#[BibTeX]:
+#[date]:2024-11-16
+#[by]:rodrigo
+ 10.0    26.73
+ 25.0    25.15
+ 50.0    22.51
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15  23.30
+@m
+#[label]:Zhang et al. (2015)
+#[Ref]:Zhang, C., Li, G., Yue, L., Guo, Y., & Fang, W. (2015). Densities, viscosities, refractive indices, and surface tensions of binary mixtures of 2, 2, 4-trimethylpentane with several alkylated cyclohexanes from (293.15 to 343.15) K. Journal of Chemical & Engineering Data, 60(9), 2541-2548.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 293.15   23.9
+ 298.15   23.0
+ 303.15   22.6
+ 308.15   22.1
+@m
+#[label]:Alekperov et al. (2022)
+#[Ref]:Alekperov, A. S., & Mirzayeva, G. G. SURFACE TENSION OF CYCLIC LIQUID HYDROCARBONS. Physical Research, 4(3), 160-164.
+#[BibTex]:
+#[date]:2025-02-28
+#[by]:rodrigo
+273  25.80
+283  24.74
+293  23.68
+298  23.75
+303  22.62
+313  21.56
+323  20.50
+348  17.85
+373  15.24
+@
+#[label]:Ding et al. (2024)
+#[Ref]:Ding, Q., Xiong, C., Cui, Y., Zhao, F., & Li, H. (2024). A surrogate fuel emulating the physical and chemical properties of aviation biofuels. Biofuels, Bioproducts and Biorefining, 18(6), 1966-1977.
+#[BibTex]:
+#[date]:2025-02-28
+#[by]:rodrigo
+293.15 0.02388
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.0237
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+243.15	0.02960
+268.15	0.02674
+293.15	0.02390
+318.15	0.02110
+343.15	0.01830
+368.15	0.01552
+393.15	0.01280
+418.15	0.01040
+443.15	0.00820
+468.15	0.00620
+493.15	0.00430
+@
+#[label]:DETHERM-Luning2018
+#[Ref]:Luning-Prak,D.J.;Mungan,A.L.;Cowart,J.S.;Trulove,P.C., "Densities, Viscosities, Speeds of Sound, Bulk Moduli, Surface Tensions, and Flash Points of Binary Mixtures of Ethylcyclohexane or Methylcyclohexane with n-Dodecane or n-Hexadecane at 0.1 MPa", J. Chem. Eng. Data, 63, 5, 1642-1656, 2018 0021-9568
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.0237
+@m
+#[label]:Alekperov and Mirzayeva (2022)
+#[Ref]:Alekperov, A. S., & Mirzayeva, G. G. SURFACE TENSION OF CYCLIC LIQUID HYDROCARBONS. Physical Research, 4(3), 160-164.
+#[BibTex]:
+#[date]:2025-03-22
+#[by]:rodrigo
+273  25.80
+283  24.74
+293  23.68
+298  23.75
+303  22.62
+313  21.56
+323  20.50
+348  17.85
+373  15.24

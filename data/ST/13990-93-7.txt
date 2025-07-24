@@ -1,0 +1,66 @@
+#[Nombre]:trans-1,4-DIETHYLCYCLOHEXANE
+#[CASN]:13990-93-7
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C10H20
+#[SMILES]:C1(CC)CCC(CC)CC1
+#[Structure]:(CH3CH2)C6H10(CH2CH3)
+#[MW]:140.266;
+#[TC]:649.9;
+#[PC]:2.817e+06;
+#[VC]:0.527;
+#[ZC]:0.275;
+#[MP]:202;
+#[TPT]:202;
+#[TPP]:0.00805;
+#[NBP]:449.4;
+#[HFOR]:-2.147e+08;
+#[GFOR]:6.016e+07;
+#[ENT]:442300;
+#[HSTD]:-2.661e+08;
+#[GSTD]:4.448e+07;
+#[SSTD]:322500;
+#[HFUS]:1.47e+07;
+#[HCOM]:-6.087e+09;
+#[ACEN]:0.3846;
+#[RG]:4.63e-10;
+#[DM]:0;
+#[RI]:1.437;
+#[AIT]:541;
+#[HSUB]:6.55e+07;
+#[LVOL]:0.176203;
+#[SOLP]:16270;
+#[VDWA]:1.234e+09;
+#[VDWV]:0.08872;
+#[FLVU]:7;
+#[FLTU]:367;
+#[FLTL]:320.6;
+#[FLVL]:0.75;
+#[FP]:322;
+#[DC]:2.075;
+#[PAR]:397.9;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+202 0.035532
+240.29 0.031583
+278.58 0.027845
+316.87 0.02431
+355.16 0.020962
+393.46 0.01777
+431.75 0.014694
+470.04 0.011699
+508.33 0.008774
+546.62 0.005949
+584.91 0.003308
+#[Ajuste]: 106
+#2
+#0.055547
+#1.22259
+#[Calidad]: 202 0.0352379 649.9 0 1.8 508

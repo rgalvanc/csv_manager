@@ -1,0 +1,163 @@
+#[Nombre]:CYCLOHEXENE
+#[CASN]:110-83-8
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C6H10
+#[SMILES]:C1=CCCCC1
+#[Structure]:-CH2CHCHCH2CH2CH2-
+#[SYN]:1,2,3,4-TETRAHYDROBENZENE
+#[MW]:82.1436;
+#[TC]:560.4;
+#[PC]:4.35e+06;
+#[VC]:0.291;
+#[ZC]:0.272;
+#[MP]:169.67;
+#[TPT]:169.67;
+#[TPP]:0.103772;
+#[NBP]:356.12;
+#[HFOR]:-4.6e+06;
+#[GFOR]:1.077e+08;
+#[ENT]:310518;
+#[HSTD]:-3.82e+07;
+#[GSTD]:1.03e+08;
+#[SSTD]:214600;
+#[HFUS]:3.293e+06;
+#[HCOM]:-3.532e+09;
+#[ACEN]:0.212302;
+#[RG]:3.157e-10;
+#[DM]:1.1e-30;
+#[VDWV]:0.05672;
+#[VDWA]:6.99e+08;
+#[RI]:1.44377;
+#[AIT]:583.15;
+#[PAR]:230.2;
+#[HSUB]:4.48e+07;
+#[LVOL]:0.101877;
+#[SOLP]:17450;
+#[DC]:2.2176;
+#[FLVL]:1.2;
+#[FLTL]:258;
+#[FLTU]:289;
+#[FP]:256.15;
+#[FLVU]:7.7;
+#[SOLW]:6.25351e-05;
+#[HLC]:189479;
+#[ACCW]:15966.3;
+#[RefID]:39
+#[Ref]:Riddick, J.A., Bunger, W.B.Organic Solvents: Physical Properties and Methods of Purification, 3rd ed., Wiley Interscience,  New York, 1970
+#[Year]:1970
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+293.15 0.02654
+303.15 0.02522
+#[Ajuste]: 106
+#2
+#0.067604
+#1.2573
+#[Calidad]: 169.67 0.042959 560.4 0 1.3 349
+
+
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+278.15 0.02862
+283.15 0.02801
+293.15 0.02678
+303.15 0.02556
+313.15 0.02434
+323.15 0.02311
+333.15 0.02189
+343.15 0.02067
+
+
+#[RefID]:3916
+#[Ref]:Seyer, W.F., King, E.G.Systems of Sulfur Dioxide and Hydrogen Derivatives of Benzene, J. Am. Chem. Soc., 55, 1933, 3140
+#[Year]:1933
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+243.15 0.03328
+253.15 0.03199
+263.15 0.0303
+273.15 0.02925
+283.15 0.02789
+293.15 0.02654
+303.15 0.02522
+313.15 0.02398
+323.15 0.02278
+333.15 0.02154
+343.15 0.02038
+
+
+#[RefID]:2829
+#[Ref]:Timmermans, M.J., Hennault-Roland, Mme.Travaux du Bureau International d'Etalons Physico-Chimiques. IX. Exude des Constantes Physiques de Vingt Composes Organiques, J. Chim. Phys., 52, 1955, 17
+#[Year]:1955
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+288.15 0.02702
+293.15 0.02641
+303.15 0.02509
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+290.55 0.02688
+295.85 0.02623
+315.05 0.02396
+315.25 0.02389
+334.25 0.02164
+334.95 0.02169
+
+
+#[RefID]:2590
+#[Ref]:Godchot, M., Cauquil, G.Viscosity, Surface Tension and Parachors for Certain Cyclic Hydrocarbons, C. R. Hebd. Seances Acad. Sci., 192, 1931, 1560-1562
+#[Year]:1931
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+286.65 0.02772
+
+
+#[RefID]:4856
+#[Ref]:Huckel, W., Harder, H.Die Oberflachenspannung Einiger Alicyclischer Kohlenwassestoffe, Ber. Dtsch. Chem. Ges., 80, 1947, 357
+#[Year]:1947
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+239.15 0.03355
+254.15 0.03161
+273.15 0.02913
+288.35 0.02723
+308.95 0.02476
+329.95 0.02223
+349.15 0.02009

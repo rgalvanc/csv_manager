@@ -1,0 +1,79 @@
+#GEM-Registro: rid=1710 gem_nr=548 493-02-7 trans-decahydronaphthalene
+#[Syn]: trans-decahydronaphthalene
+#[Syn]: trans-Decahydronaphthalin
+#[Syn]: C1C[C@@]2(CCCC[C@]2(CC1)([H]))([H])
+#[Syn]: trans-bicyclo(4.4.0)decane
+#[Syn]: trans-decaline
+#[Syn]: trans-Bicyclo(4.4.0)decan
+#[Syn]: trans-Decalin
+#[Syn]: C10H18
+#id .....:973
+#TabNr   : 2142
+#Tmin    : 293.15
+#Tmax    : 353.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/56631
+293.15 0.03015
+353.15 0.02459
+#PRP-8076i.1981
+#Koroesi,G.;Kovats,E.S. "Density and surface tension of 83 organic liquids",J. Chem. Eng. Data, 26[3],323-332 (1981)
+#DOI:10.1021/je00025a032
+
+
+#id .....:1149
+#TabNr   : 1462
+#Tmin    : 243.15
+#Tmax    : 453.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55640
+243.15 0.03529 0.00035
+253.15 0.03414 0.00034
+263.15 0.03295 0.00033
+273.15 0.03191 0.00032
+283.15 0.03087 0.00031
+293.15 0.02989 0.0003
+303.15 0.02887 0.00029
+313.15 0.02781 0.00028
+323.15 0.02677 0.00027
+333.15 0.02582 0.00026
+343.15 0.02482 0.00025
+353.15 0.02395 0.00024
+363.15 0.02302 0.00023
+373.15 0.02202 0.00022
+383.15 0.02105 0.00021
+393.15 0.02022 0.0002
+403.15 0.01939 0.00019
+413.15 0.01865 0.00019
+423.15 0.01785 0.00018
+433.15 0.01698 0.00017
+443.15 0.01617 0.00016
+453.15 0.01544 0.00015
+#PRP-7986i.1941
+#Seyer,W.F.;Davenport,C.H. "The densities and surface tensions of cis- and trans-decahydronaphthalene between -30 and 180 degrees centigrade",J. Am. Chem. Soc., 63,2425-2427 (1941)
+#DOI:10.1021/ja01854a031
+
+
+#id .....:1728
+#TabNr   : 872
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54947
+298.15 0.02997 3e-05
+#PRP-7946i.1970
+#Lam,V.T.;Benson,G.C. "Surface tension of binary liquid systems. I. Mixtures of non-electrolytes",Can. J. Chem., 48,3773-3781 (1970)
+#DOI:10.1139/v70-637
+
+
+#id .....:3022
+#TabNr   : 2650
+#Tmin    : 294.65
+#Tmax    : 373.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/130235
+294.65 0.030017
+323.15 0.02759
+373.15 0.02432
+#PRP-13193i.1938
+#Doldi,S. "",Ann. Chim. Rome, 28,454-462 (1938)
+#DOI:

@@ -1,0 +1,66 @@
+#[Nombre]:trans-1,2-DIMETHYLCYCLOPENTANE
+#[CASN]:822-50-4
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C7H14
+#[SMILES]:C1[C@](C)([H])([C@]([H])(C)(CC1))
+#[Structure]:-CH(CH3)CH(CH3)(CH2)3-
+#[MW]:98.1861;
+#[TC]:553.15;
+#[PC]:3.44505e+06;
+#[VC]:0.36;
+#[ZC]:0.27;
+#[MP]:155.58;
+#[TPT]:155.58;
+#[TPP]:0.00329595;
+#[NBP]:365.02;
+#[HFOR]:-1.36691e+08;
+#[GFOR]:3.83673e+07;
+#[ENT]:366811;
+#[HSTD]:-1.7121e+08;
+#[GSTD]:3.281e+07;
+#[SSTD]:269900;
+#[HFUS]:7.16719e+06;
+#[HCOM]:-4.27609e+09;
+#[ACEN]:0.269784;
+#[RG]:3.607e-10;
+#[DM]:0;
+#[VDWV]:0.07045;
+#[VDWA]:8.86e+08;
+#[RI]:1.40941;
+#[AIT]:;
+#[HSUB]:4.61e+07;
+#[LVOL]:0.131474;
+#[SOLP]:15620;
+#[FLVL]:1.1;
+#[FLTL]:261;
+#[FLVU]:7.3;
+#[FLTU]:295;
+#[FP]:263;
+#[DC]:2.005;
+#[PAR]:280.9;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+155.58 0.037767
+189.58 0.033286
+223.58 0.029091
+257.58 0.025167
+291.58 0.021493
+325.58 0.018031
+359.58 0.014738
+393.58 0.011584
+427.58 0.008567
+461.58 0.005716
+495.58 0.003115
+#[Ajuste]: 106
+#2
+#0.057426
+#1.29909
+#[Calidad]: 155.58 0.0373922 553.15 0 3 462

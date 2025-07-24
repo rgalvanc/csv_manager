@@ -1,0 +1,81 @@
+#[Nombre]:1,1-DIMETHYLCYCLOPENTANE
+#[CASN]:1638-26-2
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C7H14
+#[SMILES]:C1(C)(C)CCCC1
+#[Structure]:-CH2C(CH3)2CH2CH2CH2-
+#[MW]:98.1861;
+#[TC]:547;
+#[PC]:3.445e+06;
+#[VC]:0.36;
+#[ZC]:0.273;
+#[MP]:203.36;
+#[TPT]:203.36;
+#[TPP]:9.04909;
+#[NBP]:361;
+#[HFOR]:-1.3828e+08;
+#[GFOR]:3.909e+07;
+#[ENT]:359280;
+#[HSTD]:-1.7205e+08;
+#[GSTD]:3.3425e+07;
+#[SSTD]:265010;
+#[HFUS]:1.08e+06;
+#[HCOM]:-4.2752e+09;
+#[ACEN]:0.272354;
+#[RG]:3.43e-10;
+#[DM]:0;
+#[VDWV]:0.07045;
+#[VDWA]:9.07e+08;
+#[RI]:1.41091;
+#[AIT]:687;
+#[PAR]:281.1;
+#[HSUB]:4.23e+07;
+#[LVOL]:0.130925;
+#[SOLP]:15460;
+#[FLVL]:1.1;
+#[FLTL]:258;
+#[FLVU]:6.8;
+#[FLTU]:290;
+#[FP]:259;
+#[DC]:1.996;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+253.15 0.0258
+263.15 0.0248
+273.15 0.0238
+283.15 0.02276
+293.15 0.02175
+298.15 0.02124
+303.15 0.02073
+313.15 0.01972
+323.15 0.0187
+333.15 0.01768
+343.15 0.0167
+353.15 0.0157
+363.15 0.0146
+373.15 0.0136
+#[Ajuste]: 106
+#2
+#0.055282
+#1.2168
+#[Calidad]: 203.36 0.0314 547 0 0.8 373
+
+
+#[RefID]:43
+#[Ref]:Daubert, T.E., Danner, R.P.Technical Data Book-Petroleum Refining, 5th Edition, American Petroleum Institute,  Washington, D.C., 1992, 1992-extant
+#[Year]:1992
+#[DataType]: Experimental
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+298.15 0.02123

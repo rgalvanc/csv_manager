@@ -1,0 +1,56 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+18.9    22.81
+20.0    22.68
+@Cm
+#[label]:WW97-72J1
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841-1009
+5.0     24.48
+10.0    23.88
+20.0    22.68
+30.0    21.48
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02268
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-04-29
+#[by]:rodrigo
+243.15 0.02870
+263.15 0.02624
+283.15 0.02379
+303.15 0.02137
+323.15 0.01901
+343.15 0.01672
+363.15 0.01451
+383.15 0.01237
+403.15 0.01029
+423.15 0.00828
+443.15 0.00634
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781). William Andrew Publishing.
+298.15  22.68
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+115.00  0.04197
+393.76  0.01100
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+25  22.1
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+293.15  22.68

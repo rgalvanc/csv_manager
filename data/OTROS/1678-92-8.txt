@@ -1,0 +1,62 @@
+#propylcyclohexane   !short name
+#1678-92-8           !CAS number
+@m
+#WW97   50R1
+#[label]:WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+278.15 27.86
+283.15 27.35
+293.15 26.33
+303.15 25.31
+313.15 24.29
+323.15 23.27
+333.15 22.25
+@m
+#Ivanov et al. (2011)
+#OJO, temperaturas y debajo valores (puede que esten repetidos con alguna fuente)
+#[label]:Ivanov (2011)
+273.15 28.37
+283.15 27.35
+293.15 26.33
+303.15 25.31
+323.15 23.27
+!373.15 18.17
+#
+@
+#[label]:DETHERM-2014-1
+243.150	 0.0312100
+273.150	 0.0283500
+303.150	 0.0255500
+333.150	 0.0228000
+363.150	 0.0201100
+393.150	 0.0174800
+423.150	 0.0149300
+453.150	 0.0124400
+483.150	 0.0100500
+513.150	 0.00775000
+543.150	 0.00556000
+#
+@
+#[label]:DETHERM-2014-2
+293.15	 0.02633
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-16
+#[by]:rodrigo
+25.0 25.8
+@cm
+#[label]:Jasper-1972
+#[Ref]:J. Phys. Chem. Ref. Data, Vol. 1, No 4, 1972
+#[BibTex]:Jasper-1972
+#[date]:2024-11-19
+#[by]:rodrigo
+ 5.0  27.25
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    26.07

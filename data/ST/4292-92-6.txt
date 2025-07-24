@@ -1,0 +1,81 @@
+#[Nombre]:n-PENTYLCYCLOHEXANE
+#[CASN]:4292-92-6
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C11H22
+#[SMILES]:C(CCCC1)(C1)CCCCC
+#[Structure]:(C6H11)CH2CH2CH2CH2CH3
+#[SYN]:AMYLCYCLOHEXANE
+#[SYN]:1-CYCLOHEXYLPENTANE
+#[SYN]:n-AMYL CYCLOHEXANE
+#[SYN]:CYCLOHEXANE, n-PENTYL-
+#[SYN]:PENTANE, 1-CYCLOHEXYL-
+#[MW]:154.292;
+#[TC]:669.5;
+#[PC]:2.336e+06;
+#[VC]:0.61;
+#[ZC]:0.256;
+#[MP]:212;
+#[TPT]:212;
+#[TPP]:0.00435;
+#[NBP]:477.15;
+#[LVOL]:0.1926;
+#[HFOR]:-2.323e+08;
+#[GFOR]:6.574e+07;
+#[ENT]:501000;
+#[HSTD]:-2.864e+08;
+#[GSTD]:4.691e+07;
+#[SSTD]:382700;
+#[HFUS]:1.7979e+07;
+#[HCOM]:-6.70214e+09;
+#[ACEN]:0.449209;
+#[RG]:5.358e-10;
+#[SOLP]:16380;
+#[DM]:0;
+#[VDWA]:1.427e+09;
+#[VDWV]:0.1114;
+#[RI]:1.4444;
+#[FP]:340;
+#[FLVL]:0.639;
+#[FLTL]:336;
+#[FLVU]:4.77;
+#[FLTU]:379;
+#[AIT]:517;
+#[HSUB]:7.9e+07;
+#[PAR]:438.9;
+#[DC]:2.1;
+#[RefID]:14931
+#[Ref]:Daubert, T.E., Danner, R.P.Technical Data Book - Petroleum Refining, 6th Ed., American Petroleum Institute, Washington, D.C., 1997
+#[Year]:1997
+#[DataType]: Not Specified
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+298.15 0.027
+#[Ajuste]: 106
+#2
+#0.058171
+#1.3039
+#[Calidad]: 212 0.0354074 669.5 0 0.18 293.15
+
+
+#[RefID]:28565
+#[Ref]:Daubert, T.E., Danner, R.P., Caco, A.L., Marrucho, I.M., Coutinho, J.A.P., , , , , TRC Thermodynamic Tables: Hydrocarbons: NSRDS-NIST 75-134, Supplement No. 134, 2007
+#[Year]:2007
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+333.15 0.0237
+323.15 0.0246
+298.15 0.027
+303.15 0.0265
+293.15 0.0274
+283.15 0.0284
+273.15 0.0294
+263.15 0.0303
+313.15 0.0256

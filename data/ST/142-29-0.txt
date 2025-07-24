@@ -1,0 +1,154 @@
+#[Nombre]:CYCLOPENTENE
+#[CASN]:142-29-0
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C5H8
+#[SMILES]:C1=CCCC1
+#[Structure]:-CH2CHCHCH2CH2-
+#[MW]:68.117;
+#[TC]:507;
+#[PC]:4.8e+06;
+#[VC]:0.245;
+#[ZC]:0.279;
+#[MP]:138.13;
+#[TPT]:138.13;
+#[TPP]:0.012812;
+#[NBP]:317.38;
+#[HFOR]:3.23e+07;
+#[GFOR]:1.105e+08;
+#[ENT]:291267;
+#[HSTD]:4.351e+06;
+#[GSTD]:1.086e+08;
+#[SSTD]:201250;
+#[HFUS]:3.364e+06;
+#[HCOM]:-2.9393e+09;
+#[ACEN]:0.19611;
+#[RG]:2.728e-10;
+#[DM]:6.67e-31;
+#[VDWV]:0.04649;
+#[VDWA]:5.67e+08;
+#[RI]:1.4194;
+#[AIT]:668.15;
+#[PAR]:192.8;
+#[HSUB]:3.82e+07;
+#[LVOL]:0.0888664;
+#[SOLP]:16920;
+#[DC]:2.083;
+#[FP]:244;
+#[FLVL]:1.5;
+#[FLTL]:231;
+#[FLVU]:12.1;
+#[FLTU]:266;
+#[SOLW]:0.000177836;
+#[HLC]:283724;
+#[ACCW]:5620.26;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+278.15 0.02519
+283.15 0.02444
+293.15 0.02295
+303.15 0.02145
+#[Ajuste]: 106
+#2
+#0.067947
+#1.2657
+#[Calidad]: 138.13 0.045429 507 0 3 239
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+138.13 0.04558
+173.48 0.03978
+208.83 0.034346
+244.19 0.029257
+279.54 0.024465
+314.89 0.019899
+350.24 0.015501
+385.6 0.011264
+420.95 0.0072549
+456.3 0.0036313
+
+
+#[RefID]:2590
+#[Ref]:Godchot, M., Cauquil, G.Viscosity, Surface Tension and Parachors for Certain Cyclic Hydrocarbons, C. R. Hebd. Seances Acad. Sci., 192, 1931, 1560-1562
+#[Year]:1931
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+286.65 0.02356
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+290.35 0.02308
+291.05 0.02311
+
+
+#[RefID]:2829
+#[Ref]:Timmermans, M.J., Hennault-Roland, Mme.Travaux du Bureau International d'Etalons Physico-Chimiques. IX. Exude des Constantes Physiques de Vingt Composes Organiques, J. Chim. Phys., 52, 1955, 17
+#[Year]:1955
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+288.15 0.02328
+293.15 0.02265
+303.15 0.02132
+
+
+#[RefID]:4856
+#[Ref]:Huckel, W., Harder, H.Die Oberflachenspannung Einiger Alicyclischer Kohlenwassestoffe, Ber. Dtsch. Chem. Ges., 80, 1947, 357
+#[Year]:1947
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+238.95 0.03126
+259.95 0.02768
+290.15 0.02321
+308.05 0.02092
+
+
+#[RefID]:7
+#[Ref]:Vargaftik, N.B.Tables on the Thermophysical Properties of Liquids and Gases, 2nd ed., Halsted Press,  New York, 1975
+#[Year]:1975
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+273.15 0.02525
+283.15 0.02394
+293.15 0.02265
+298.15 0.02199
+303.15 0.02132
+313.15 0.02003

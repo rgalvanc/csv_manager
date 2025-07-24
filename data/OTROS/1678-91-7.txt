@@ -1,0 +1,99 @@
+@Cm
+#[label]: WW97-72V1
+#[Ref]: Vargaftik, N.B.: Dictionary of Thermophysical Properties of
+#[BibTeX]: 72V1
+#[date]:2024-11-05
+#[by]:rodrigo
+ 0.0 27.87
+ 10.0 26.77
+ 20.0 25.67
+ 25.0 25.12
+ 30.0 24.57
+ 40.0 23.47
+ 50.0 22.37
+ 75.0 19.62
+ 100.0 16.87
+@Cm
+#[label]: WW97-53A1
+#[Ref]: A.P.I.Res.Project 44 (1953)
+#[BibTeX]: 53A1
+#[date]:2024-11-05
+#[by]:rodrigo
+ 5.0     27.25
+ 10.0    26.73
+ 20.0    25.67
+ 30.0    24.62
+ 40.0    23.56
+ 50.0    22.51
+ 60.0    21.46
+@Cm
+#[Ref]: D.R.Lide, CRC handbook of chemistry and physics, vol. 86 (CRC press, 2005)
+#[label]: Lide (2005)
+#[BibTeX]:
+#[date]:2024-11-16
+#[by]:rodrigo
+ 10.0    26.73
+ 25.0    25.15
+ 50.0    22.51
+@Cm
+#[label]: Egemen et al. (2000)
+#[Ref]: Egemen, E., Nirmalakhandan, N., & Trevizo, C. (2000). Predicting surface tension of liquid organic solvents. Environmental science & technology, 34(12), 2596-2600.
+#[BibTex]: Egemen et al. (2000)
+#[date]:2024-11-26
+#[by]:rodrigo
+ 25.0    25.15
+@m
+#[label]: Yaws and Richmond (2009)
+#[Ref]: Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781)
+#[BibTex]: Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    25.15
+@m
+#[label]:Zhang et al. (2015)
+#[Ref]:Zhang, C., Li, G., Yue, L., Guo, Y., & Fang, W. (2015). Densities, viscosities, refractive indices, and surface tensions of binary mixtures of 2, 2, 4-trimethylpentane with several alkylated cyclohexanes from (293.15 to 343.15) K. Journal of Chemical & Engineering Data, 60(9), 2541-2548.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 293.15   25.5
+ 298.15   24.8
+ 303.15   24.6
+ 308.15   23.7
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+243.15 0.03090
+268.15 0.02825
+293.15 0.02560
+318.15 0.02295
+343.15 0.02031
+368.15 0.01770
+393.15 0.01512
+418.15 0.01260
+443.15 0.01030
+468.15 0.00825
+493.15 0.00637
+@
+#[label]:DETHERM-Hopfe
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02567
+@
+#[label]:DETHERM-Luning
+#[Ref]:Luning-Prak,D.J.;Mungan,A.L.;Cowart,J.S.;Trulove,P.C., "Densities, Viscosities, Speeds of Sound, Bulk Moduli, Surface Tensions, and Flash Points of Binary Mixtures of Ethylcyclohexane or Methylcyclohexane with n-Dodecane or n-Hexadecane at 0.1 MPa", J. Chem. Eng. Data, 63, 5, 1642-1656, 2018 0021-9568
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.0253
+@m
+#[label]:MartaKarolina et al.(2005)
+#[Ref]:Surface tension, (solid + liquid) equilibria and (liquid + liquid) equilibria for (iPBu-1 + hydrocarbon, or alcohol) systems
+#[BibTex]:
+#[date]:2025-02-24
+#[by]:rodrigo
+298.15 24.84

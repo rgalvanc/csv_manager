@@ -1,0 +1,72 @@
+#[Nombre]:n-HEXYLCYCLOHEXANE
+#[CASN]:4292-75-5
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C12H24
+#[SMILES]:CCCCCCC1CCCCC1
+#[Structure]:(C6H11)(CH2)5CH3
+#[SYN]:n-HEXYLCYCLOHEXAN
+#[SYN]:CYCLOHEXYLHEXAN
+#[SYN]:HEXYLCYCLOHEXAN
+#[SYN]:HEXYL-CYCLOHEXAN
+#[SYN]:1-CYCLOHEXYLHEXANE
+#[SYN]:HEXANE, 1-CYCLOHEXYL-
+#[SYN]:CYCLOHEXANE, n-HEXYL-
+#[SYN]:1-HEXYLCYCLOHEXANE
+#[MW]:168.319;
+#[TC]:686.6;
+#[PC]:2.154e+06;
+#[VC]:0.672;
+#[ZC]:0.254;
+#[TPT]:225.64;
+#[TPP]:0.00502;
+#[NBP]:497.93;
+#[LVOL]:0.2092;
+#[HFOR]:-2.546e+08;
+#[GFOR]:7.242e+07;
+#[GSTD]:5.132e+07;
+#[SSTD]:413600;
+#[HFUS]:2.16e+07;
+#[ACEN]:0.504417;
+#[RG]:5.799e-10;
+#[SOLP]:16510;
+#[DM]:0;
+#[VDWA]:1.562e+09;
+#[VDWV]:0.1216;
+#[RI]:1.447;
+#[FP]:355;
+#[FLVL]:0.587;
+#[FLTL]:352;
+#[FLVU]:4.46;
+#[FLTU]:395;
+#[AIT]:514;
+#[HSUB]:8.6e+07;
+#[HSTD]:-3.135e+08;
+#[PAR]:479;
+#[DC]:2.111;
+#[MP]:225.64;
+#[HCOM]:-7.3104e+09;
+#[ENT]:540200;
+#[RefID]:14109
+#[Ref]:Thermodynamics Research CenterTRC Thermodynamic Tables - Hydrocarbons, The Texas A & M University System, College Station, TX, 1998
+#[Year]:1998
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+313.15 0.0262
+303.15 0.0271
+298.15 0.0275
+293.15 0.028
+283.15 0.0288
+273.15 0.0297
+263.15 0.0306
+333.15 0.0244
+323.15 0.0253
+#[Ajuste]: 106
+#2
+#0.055976
+#1.2479
+#[Calidad]: 225.64 0.0340459 686.6 0 0.21 293.15

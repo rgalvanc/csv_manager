@@ -1,0 +1,74 @@
+#[Nombre]:CYCLOHEPTENE
+#[CASN]:628-92-2
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C7H12
+#[SMILES]:C1=CCCCCC1
+#[Structure]:-CHCH(CH2)4CH2-
+#[SYN]:SUBERENE
+#[MW]:96.1702;
+#[TC]:598;
+#[PC]:4.01e+06;
+#[VC]:0.336;
+#[ZC]:0.271;
+#[MP]:217.15;
+#[TPT]:217.15;
+#[TPP]:9.02071;
+#[NBP]:387.5;
+#[HFOR]:-9.2e+06;
+#[GFOR]:1.374e+08;
+#[ENT]:332010;
+#[HSTD]:-4.68733e+07;
+#[GSTD]:1.289e+08;
+#[SSTD]:234000;
+#[HFUS]:820000;
+#[HCOM]:-4.159e+09;
+#[ACEN]:0.251706;
+#[RG]:3.595e-10;
+#[DM]:1.5e-30;
+#[VDWV]:0.06695;
+#[VDWA]:8.34e+08;
+#[RI]:1.457;
+#[AIT]:;
+#[PAR]:267.6;
+#[HSUB]:5.16e+07;
+#[LVOL]:0.11697;
+#[SOLP]:17330;
+#[DC]:2.265;
+#[FLVL]:1.1;
+#[FLTL]:278;
+#[FLVU]:8.6;
+#[FLTU]:318;
+#[FP]:280.65;
+#[SOLW]:1.23634e-05;
+#[ACCW]:80883.7;
+#[HLC]:270501;
+#[RefID]:2590
+#[Ref]:Godchot, M., Cauquil, G.Viscosity, Surface Tension and Parachors for Certain Cyclic Hydrocarbons, C. R. Hebd. Seances Acad. Sci., 192, 1931, 1560-1562
+#[Year]:1931
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+286.65 0.02828
+#[Ajuste]: 106
+#2
+#0.061578
+#1.18
+#[Calidad]: 217.15 0.036158 598 0 0.8 287
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+291.05 0.02825
+315.25 0.02553
+335.15 0.02327

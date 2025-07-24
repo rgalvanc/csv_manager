@@ -1,0 +1,72 @@
+#[Nombre]:VINYLCYCLOHEXENE
+#[CASN]:100-40-3
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C8H12
+#[SMILES]:C1=CCC(C=C)CC1
+#[Structure]:-CHCHCH2CH(CHCH2)CH2CH2-
+#[SYN]:1,2,3,4-TETRAHYDROSTYRENE
+#[SYN]:1-VINYLCYCLOHEXENE-3
+#[SYN]:1-VINYLCYLOHEX-3-ENE
+#[SYN]:4-ETHENYL-1-CYCLOHEXENE
+#[SYN]:4-VINYL-1-CYCLOHEXENE
+#[SYN]:4-VINYLCYCLOHEXENE-1
+#[SYN]:BUTADIENE DIMER
+#[SYN]:CYCLOHEXENYLETHYLENE
+#[MW]:108.181;
+#[TC]:599;
+#[PC]:3.43e+06;
+#[VC]:0.379;
+#[ZC]:0.261;
+#[MP]:164;
+#[TPT]:164;
+#[TPP]:0.00033162;
+#[NBP]:401;
+#[HFOR]:6.51e+07;
+#[GFOR]:2e+08;
+#[ENT]:378000;
+#[HSTD]:2.68e+07;
+#[GSTD]:1.916e+08;
+#[SSTD]:276400;
+#[HFUS]:;
+#[HCOM]:-4.626e+09;
+#[ACEN]:0.32936;
+#[RG]:3.869e-10;
+#[DM]:8.23e-31;
+#[VDWV]:0.07482;
+#[VDWA]:9.72e+08;
+#[RI]:1.4641;
+#[AIT]:543;
+#[HSUB]:5.21e+07;
+#[LVOL]:0.130928;
+#[SOLP]:16880;
+#[FLTL]:285;
+#[FLVU]:8.8;
+#[FLTU]:328;
+#[FP]:288.15;
+#[FLVL]:0.98;
+#[DC]:2.246;
+#[PAR]:297.2;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+164 0.04301
+201 0.03811
+238 0.03349
+275 0.02914
+312 0.02503
+349 0.02115
+386 0.01744
+423 0.01388
+460 0.01045
+#[Ajuste]: 106
+#2
+#0.06375
+#1.25811
+#[Calidad]: 164 0.0426267 599 0 3 460

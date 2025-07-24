@@ -1,0 +1,116 @@
+#[Nombre]:CYCLOHEXANOL
+#[CASN]:108-93-0
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C6H12O
+#[SMILES]:OC1CCCCC1
+#[Structure]:-CH(OH)(CH2)4CH2-
+#[SYN]:ADRONOL
+#[SYN]:CYCLOHEXANE, HYDROXY-
+#[SYN]:CYCLOHEXYL ALCOHOL
+#[SYN]:HEXAHYDROPHENOL
+#[SYN]:HEXALIN
+#[SYN]:HYDRALIN
+#[SYN]:HYDROPHENOL
+#[MW]:100.159;
+#[TC]:650.1;
+#[PC]:4.26e+06;
+#[VC]:0.322;
+#[ZC]:0.254;
+#[MP]:296.6;
+#[TPT]:296.6;
+#[TPP]:76.4997;
+#[NBP]:434;
+#[HFOR]:-2.862e+08;
+#[GFOR]:-1.095e+08;
+#[ENT]:327700;
+#[HSTD]:-3.486e+08;
+#[GSTD]:-1.35e+08;
+#[SSTD]:203870;
+#[HFUS]:1.783e+06;
+#[HCOM]:-3.4639e+09;
+#[ACEN]:0.369047;
+#[RG]:3.601e-10;
+#[DM]:6.2e-30;
+#[VDWV]:0.06484;
+#[VDWA]:8.78e+08;
+#[RI]:1.4645;
+#[AIT]:573.15;
+#[HSUB]:5.88e+07;
+#[LVOL]:0.105751;
+#[SOLP]:23810;
+#[DC]:16.4;
+#[FLVL]:1.2;
+#[FLTL]:333.5;
+#[FLTU]:374.6;
+#[FP]:334.15;
+#[FLVU]:11.1;
+#[PAR]:256.35;
+#[HLC]:12.8468;
+#[ACCW]:144.156;
+#[SOLW]:0.00693027;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Experimental
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+293.15 0.0334
+#[Ajuste]: 106
+#2
+#0.063208
+#1.0568
+#[Calidad]: 296.6 0.0332011 650.1 0 2.8 300
+303.15 0.03243
+313.15 0.03147
+323.15 0.0305
+333.15 0.02953
+343.15 0.02857
+353.15 0.0276
+363.15 0.02664
+373.15 0.02567
+
+
+#[RefID]:11210
+#[Ref]:Blake, T.D., Wade, W.H.Adsorption on Flat Surfaces.  III. Adsorption of Branched-Chain Alcohols, J. Phys. Chem., 76, 1972, 675
+#[Year]:1972
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+300.15 0.0338
+
+
+#[RefID]:27589
+#[Ref]:Azizian, S., Bashavard, N.Surface Tension of Dilute Solutions of Alkanes in Cyclohexanol at Different Temperatures, J. Chem. Eng. Data, 53, 2008, 2422-2425
+#[Year]:2008
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+298.15 0.03274
+313.15 0.03158
+303.15 0.03235
+323.15 0.03078
+318.15 0.03113
+293.15 0.03315
+308.15 0.03191
+
+
+#[RefID]:18390
+#[Ref]:Harkins, W. D., Brown, F. E., Davies, C. H.The Structure of the Surfaces of Liquids, and Solubility as Related to the Work Done by the Attraction of Two Liquid Surfaces as They Approach Each Other, J. Am. Chem. Soc., 39, 1917, 354-364
+#[Year]:1917
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+289.35 0.03423

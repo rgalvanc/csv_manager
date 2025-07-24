@@ -1,0 +1,73 @@
+@cm
+#[label]: WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: 50R1
+ 5.0    28.48
+ 10.0   27.99
+ 20.0   27.03
+ 30.0   26.02
+ 40.0   25.09
+ 50.0   24.11
+ 60.0   23.14
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-16
+#[by]:rodrigo
+25.0 26.50
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    26.51
+@m
+#[label]:Zhang et al. (2015)
+#[Ref]:Zhang, C., Li, G., Yue, L., Guo, Y., & Fang, W. (2015). Densities, viscosities, refractive indices, and surface tensions of binary mixtures of 2, 2, 4-trimethylpentane with several alkylated cyclohexanes from (293.15 to 343.15) K. Journal of Chemical & Engineering Data, 60(9), 2541-2548.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 293.15  26.8
+ 298.15  25.9
+ 303.15  25.5
+ 308.15  24.7
+@m
+#[label]: Prak et al. (2019)
+#[Ref]:Luning Prak, D. J., Fries, J. M., Gober, R. T., Vozka, P., Kilaz, G., Johnson, T. R., ... & Cowart, J. S. (2019). Densities, viscosities, speeds of sound, bulk moduli, surface tensions, and flash points of quaternary mixtures of n-dodecane (1), n-butylcyclohexane (2), n-butylbenzene (3), and 2, 2, 4, 4, 6, 8, 8-heptamethylnonane (4) at 0.1 MPa as potential surrogate mixtures for military jet fuel, JP-5. Journal of Chemical & Engineering Data, 64(4), 1725-1745.
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+ 294.5    26.6
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+293.15 0.02703
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+223.15 0.03396
+258.15 0.03040
+293.15 0.02694
+328.15 0.02360
+363.15 0.02037
+398.15 0.01727
+433.15 0.01431
+468.15 0.01150
+503.15 0.00886
+538.15 0.00641
+573.15 0.00418
+@
+#[label]:DETHERM-Luning2016
+#[Ref]:Luning Prak,D.J., "Density, Viscosity, Speed of Sound, Bulk Modulus, Surface Tension, and Flash Point of Binary Mixtures of Butylcyclohexane with Toluene or n-Hexadecane", J. Chem. Eng. Data, 61, 10, 3595-3606, 2016 0021-9568
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+294.0   0.0267

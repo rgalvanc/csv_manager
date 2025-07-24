@@ -1,0 +1,85 @@
+#[Nombre]:CYCLOPENTANE
+#[CASN]:287-92-3
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C5H10
+#[SMILES]:C1CCCC1
+#[Structure]:-(CH2)5-
+#[SYN]:PENTAMETHYLENE
+#[MW]:70.1329;
+#[TC]:511.7;
+#[PC]:4.51e+06;
+#[VC]:0.26;
+#[ZC]:0.276;
+#[MP]:179.311;
+#[TPT]:179.28;
+#[TPP]:9.07217;
+#[NBP]:322.4;
+#[HFOR]:-7.703e+07;
+#[GFOR]:3.885e+07;
+#[ENT]:292900;
+#[HSTD]:-1.0581e+08;
+#[GSTD]:3.6531e+07;
+#[SSTD]:204140;
+#[HFUS]:608800;
+#[HCOM]:-3.0709e+09;
+#[ACEN]:0.194874;
+#[RG]:2.85e-10;
+#[DM]:0;
+#[VDWV]:0.04969;
+#[VDWA]:6.75e+08;
+#[RI]:1.40363;
+#[AIT]:634.15;
+#[PAR]:203.5;
+#[HSUB]:4.02e+07;
+#[LVOL]:0.0946121;
+#[SOLP]:16570;
+#[DC]:1.9687;
+#[FLTL]:235;
+#[FLTU]:264;
+#[FLVU]:8.9;
+#[FLVL]:1.5;
+#[FP]:236;
+#[SOLW]:4.33107e-05;
+#[HLC]:981000;
+#[ACCW]:23098.9;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+278.15 0.0248
+283.15 0.02334
+293.15 0.02261
+303.15 0.02114
+313.15 0.01968
+323.15 0.01822
+#[Ajuste]: 106
+#2
+#0.073947
+#1.3986
+#[Calidad]: 179.28 0.04045 511.7 0 2.6 283
+
+
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+253.15 0.0284
+263.15 0.02699
+273.15 0.02553
+283.15 0.02407
+293.15 0.02261
+298.15 0.02188
+303.15 0.02114
+313.15 0.01968
+323.15 0.01822

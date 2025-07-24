@@ -1,0 +1,68 @@
+#[Nombre]:1-PHENYLINDENE
+#[CASN]:1961-96-2
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDENES
+#[Formula]:C15H12
+#[SMILES]:C1=CC=C2C(=C1)C=CC2C1=CC=CC=C1
+#[Structure]:(C9H7)(C6H5)
+#[SYN]:1H-INDENE, 1-PHENYL-
+#[SYN]:1-PHENYLINDENE
+#[MW]:192.256;
+#[TC]:865;
+#[PC]:2.76e+06;
+#[VC]:0.627;
+#[ZC]:0.241;
+#[MP]:310.65;
+#[TPT]:310.65;
+#[TPP]:0.0441582;
+#[NBP]:610;
+#[HFOR]:2.46e+08;
+#[GFOR]:3.31e+08;
+#[ENT]:584000;
+#[HSTD]:1.48606e+08;
+#[GSTD]:2.911e+08;
+#[SSTD]:391600;
+#[HFUS]:1.35e+07;
+#[HCOM]:-7.53e+09;
+#[ACEN]:0.47032;
+#[RG]:5.429e-10;
+#[DM]:0;
+#[VDWV]:0.10962;
+#[VDWA]:1.178e+09;
+#[RI]:1.6372;
+#[AIT]:;
+#[HSUB]:8.72e+07;
+#[LVOL]:0.178739;
+#[SOLP]:22220;
+#[FLVL]:0.6;
+#[FLTL]:440;
+#[FLVU]:4.2;
+#[FLTU]:488;
+#[FP]:443;
+#[DC]:2.758;
+#[PAR]:450.1;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+347.15 0.0365
+389.45 0.03243
+431.75 0.02858
+474.05 0.02495
+516.35 0.02152
+558.65 0.01827
+600.95 0.01517
+643.25 0.01221
+685.55 0.00939
+727.85 0.00671
+770.15 0.00423
+#[Ajuste]: 106
+#2
+#0.07007
+#1.28891
+#[Calidad]: 310.65 0.0394888 865 0 4.3 770

@@ -1,0 +1,81 @@
+#[Nombre]:CYCLOOCTENE
+#[CASN]:931-88-4
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C8H14
+#[SMILES]:C1=CCCCCCC1
+#[Structure]:-CHCH(CH2)5CH2-
+#[MW]:110.197;
+#[TC]:632;
+#[PC]:3.68e+06;
+#[VC]:0.387;
+#[ZC]:0.271;
+#[MP]:214.15;
+#[TPT]:214.15;
+#[TPP]:1.09531;
+#[NBP]:416.15;
+#[HFOR]:-3.224e+07;
+#[GFOR]:1.492e+08;
+#[ENT]:351225;
+#[HSTD]:-7.402e+07;
+#[GSTD]:1.378e+08;
+#[SSTD]:249300;
+#[HFUS]:1.813e+06;
+#[HCOM]:-4.772e+09;
+#[ACEN]:0.280425;
+#[RG]:3.84e-10;
+#[DM]:2.74e-30;
+#[VDWV]:0.07718;
+#[VDWA]:9.69e+08;
+#[RI]:1.4741;
+#[AIT]:;
+#[HSUB]:5.79e+07;
+#[LVOL]:0.129457;
+#[SOLP]:17420;
+#[FP]:298.15;
+#[FLVL]:1;
+#[FLTL]:298;
+#[FLVU]:7.5;
+#[FLTU]:339;
+#[DC]:2.484;
+#[PAR]:301.2;
+#[SOLW]:3.82899e-06;
+#[HLC]:269091;
+#[ACCW]:264788;
+#[RefID]:2590
+#[Ref]:Godchot, M., Cauquil, G.Viscosity, Surface Tension and Parachors for Certain Cyclic Hydrocarbons, C. R. Hebd. Seances Acad. Sci., 192, 1931, 1560-1562
+#[Year]:1931
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+286.65 0.0299
+#[Ajuste]: 106
+#2
+#0.06291
+#1.23406
+#[Calidad]: 214.15 0.037754 632 0 3.1 569
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+214.15 0.03797
+249.61 0.03381
+285.08 0.02986
+320.54 0.02611
+356.01 0.02254
+391.47 0.01911
+426.94 0.01579
+462.4 0.01254
+497.87 0.00938
+533.33 0.00635
+568.8 0.00356

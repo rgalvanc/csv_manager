@@ -1,0 +1,126 @@
+@Cm
+#[label]:WW97-24W4
+#[Ref]:Weissenberger, G., Schuster, F., Mayer, N.: Monatsh.Chem. 45 (1924) 449
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+18.0 33.9
+@Cm
+#[label]:WW97-47H1
+#[Ref]:Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+ 3.0  35.23
+ 33.0 32.44
+ 62.0 29.67
+ 89.0 27.03
+@Cm
+#[label]: WW97-63T1
+#[Ref]:Toropov, A.P., Mat'yakubova, U.T.: Uzb.Khim.Zh. (1963) (6) 92
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+ 20.0   36.2
+ 40.0   34.4
+ 60.0   32.6
+@Cm
+#[label]: WW97-65A1
+#[Ref]:
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+ 20.0   33.64
+ 40.0   31.73
+ 60.0   29.83
+ 85.0   27.44
+@Cm
+#[label]: WW97-92K1
+#[Ref]:Kanade, B.V., Vakharia, M.N., Pandya, M.V., Patel, B.M. Patel, A.T., Oswal, S.L.: Indian J.Technol. 30 (1992) 308
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+30.0 34.82
+@Cm
+#[label]:Shafrin et al. (1967)
+#[Ref]:Shafrin, E. G., & Zisman, W. A. (1967). Critical surface tension for spreading on a liquid substrate. The Journal of Physical Chemistry, 71(5), 1309-1316.
+#[BibTex]:
+#[date]:2025-04-09
+#[by]:rodrigo
+25 36.02
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+293.15 0.03364
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+273.15 0.03569
+303.15 0.03262
+333.15 0.02962
+363.15 0.02668
+393.15 0.02381
+423.15 0.02102
+453.15 0.01831
+483.15 0.01568
+513.15 0.01316
+543.15 0.01074
+573.15 0.00843
+@m
+#[label]:Jarusuwannapoom et al. (2005)
+#[Ref]:Jarusuwannapoom, T., Hongrojjanawiwat, W., Jitjaicham, S., Wannatong, L., Nithitanakul, M., Pattamaprom, C., ... & Supaphol, P. (2005). Effect of solvents on electro-spinnability of polystyrene solutions and morphological appearance of resulting electrospun polystyrene fibers. European polymer journal, 41(3), 409-421.
+#[BibTex]:
+#[date]:2025-04-09
+#[by]:rodrigo
+300 32.7
+@Cm
+#[label]: Lide (2005)
+#[Ref]:Lide, D. R., Baysinger, G., Berger, L. I., Goldberg, R. N., Kehiaian, H. V., Kuchitsu, K., ... & Zwillinger, D. (1991). CRC Handbook of Chemistry and Physics Editor-in-Chief.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+25   33.17
+50   30.78
+75   28.40
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-21
+#[by]:rodrigo
+298.15 33.16
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+273.15 0.03550
+373.15 0.02600
+@m
+#[label]:Kauffman and Jurs (2011)
+#[Ref]:
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+293.0 34.5
+@m
+#[label]:Prak and Lee (2016)
+#[Ref]:Luning Prak, D. J., & Lee, B. G. (2016). Density, viscosity, speed of sound, bulk modulus, surface tension, and flash point of binary mixtures of 1, 2, 3, 4-tetrahydronaphthalene and trans-decahydronaphthalene. Journal of Chemical & Engineering Data, 61(7), 2371-2379.
+#[BibTex]:
+#[date]:2025-03-23
+#[by]:rodrigo
+294.2  36.1
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+25  33.2

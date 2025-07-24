@@ -1,0 +1,15 @@
+#GEM-Registro: rid=1440 gem_nr=372 931-88-4 cyclooctene
+#[Syn]: cyclooctene
+#[Syn]: Cycloocten
+#[Syn]: C1CCCC=CCC1
+#[Syn]: C8H14
+#id .....:466
+#TabNr   : 528
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97270
+286.65 0.0299
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:

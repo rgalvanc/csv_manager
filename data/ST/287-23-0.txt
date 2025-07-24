@@ -1,0 +1,62 @@
+#[Nombre]:CYCLOBUTANE
+#[CASN]:287-23-0
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C4H8
+#[SMILES]:C1CCC1
+#[Structure]:-(CH2)4-
+#[SYN]:TETRAMETHYLENE
+#[MW]:56.1063;
+#[TC]:459.93;
+#[PC]:4.98e+06;
+#[VC]:0.21;
+#[ZC]:0.273;
+#[MP]:182.48;
+#[TPT]:182.48;
+#[TPP]:180.101;
+#[NBP]:285.66;
+#[HFOR]:2.85e+07;
+#[GFOR]:1.122e+08;
+#[ENT]:264396;
+#[HSTD]:2.84e+07;
+#[GSTD]:1.122e+08;
+#[SSTD]:264396;
+#[HFUS]:1.088e+06;
+#[HCOM]:-2.5678e+09;
+#[ACEN]:0.18474;
+#[RG]:2.45e-10;
+#[DM]:0;
+#[VDWV]:0.04092;
+#[VDWA]:5.4e+08;
+#[RI]:1.362;
+#[AIT]:700;
+#[PAR]:172.6;
+#[HSUB]:3.36e+07;
+#[LVOL]:0.0814243;
+#[SOLP]:16020;
+#[FLTL]:209.7;
+#[FLTU]:235;
+#[FLVL]:1.8;
+#[FLVU]:10;
+#[FP]:211;
+#[DC]:1.978;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+253.15 0.0264
+263.15 0.0248
+273.15 0.0233
+283.15 0.0217
+293.15 0.0202
+298.15 0.0194
+#[Ajuste]: 106
+#2
+#0.071767
+#1.2506
+#[Calidad]: 182.48 0.038143 459.93 0 0.2 273

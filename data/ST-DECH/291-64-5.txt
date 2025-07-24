@@ -1,0 +1,33 @@
+#GEM-Registro: rid=1434 gem_nr=366 291-64-5 cycloheptane
+#[Syn]: cycloheptane
+#[Syn]: Cycloheptan
+#[Syn]: C1CCCCCC1
+#[Syn]: heptamethylene
+#[Syn]: suberane
+#[Syn]: Heptamethylen
+#[Syn]: Suberan
+#[Syn]: C7H14
+#id .....:460
+#TabNr   : 522
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97265
+286.65 0.02784
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:1995
+#TabNr   : 2397
+#Tmin    : 289.25
+#Tmax    : 334.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62190
+289.25 0.0284
+314.15 0.02553
+334.15 0.02308
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323

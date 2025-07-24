@@ -1,0 +1,45 @@
+@cm
+#[label]: WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: 50R1
+#[date]: 2024-11-05
+#[by]: rodrigo
+ 5.0    24.87
+ 10.0   24.41
+ 20.0   23.50
+ 30.0   22.58
+ 40.0   21.67
+ 50.0   20.75
+ 60.0   19.84
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    24.45
+@Cm
+#[label]: Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-11-19
+#[by]:rodrigo
+ 20.0   23.51
+ 30.0   22.56
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+223.15 0.03012
+253.15 0.02728
+283.15 0.02449
+313.15 0.02175
+343.15 0.01909
+373.15 0.01649
+403.15 0.01397
+433.15 0.01153
+463.15 0.00919
+493.15 0.00696
+523.15 0.00486

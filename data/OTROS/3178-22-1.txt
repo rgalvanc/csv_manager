@@ -1,0 +1,58 @@
+@cm
+#[label]: WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 5.0     28.10
+ 10.0    27.62
+ 20.0    26.66
+ 30.0    25.71
+ 40.0    24.74
+ 50.0    23.78
+ 60.0    22.82
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02793
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.03058
+283.15 0.02759
+313.15 0.02468
+343.15 0.02186
+373.15 0.01913
+403.15 0.01649
+433.15 0.01395
+463.15 0.01153
+493.15 0.00923
+523.15 0.00707
+553.15 0.00506
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    26.66
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-18
+#[by]:rodrigo
+ 25.0     26.2
+@m
+#[label]:Prak (2021)
+#[Ref]:Luning Prak, D. J. (2021). Properties of two-component mixtures of isobutylcyclohexane (1) or tert-butylcyclohexane (1) with n-dodecane (2) or n-hexadecane (2): densities, surface tensions, viscosities, and speeds of sound at 0.1 MPa and various temperatures. Journal of Chemical & Engineering Data, 66(8), 3165-3177.
+#[BibTex]:
+#[date]:2024-11-19
+#[by]:rodrigo
+ 294.14    26.3

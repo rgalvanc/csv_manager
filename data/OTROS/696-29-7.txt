@@ -1,0 +1,65 @@
+@Cm
+#[label]:WW97-39W1
+#[Ref]:Wibaut, J.P., Hoog, H., Langedijk, S.L., Overhoff, J., Smittenberg, J.: Recl.Trav.Chim.Pays-Bas 58 (1939) 329
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 20.0   26.46
+@Cm
+#[label]:WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 5.0   27.98
+ 10.0  27.48
+ 20.0  26.48
+ 30.0  25.50
+ 40.0  24.49
+ 50.0  23.50
+ 60.0  22.51
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02648
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+243.15 0.03157
+273.15 0.02844
+303.15 0.02539
+333.15 0.02244
+363.15 0.01957
+393.15 0.01681
+423.15 0.01415
+453.15 0.01162
+483.15 0.00921
+513.15 0.00695
+543.15 0.00486
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    25.70
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-18
+#[by]:rodrigo
+ 25.0     26.0
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 293.15    25.50

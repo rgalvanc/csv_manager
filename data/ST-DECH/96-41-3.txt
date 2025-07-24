@@ -1,0 +1,45 @@
+#GEM-Registro: rid=1629 gem_nr=467 96-41-3 cyclopentanol
+#[Syn]: cyclopentanol
+#[Syn]: Cyclopentanol
+#[Syn]: OC1CCCC1
+#[Syn]: cyclopentyl alcohol
+#[Syn]: Cyclopentylalkohol
+#[Syn]: C5H10O
+#id .....:1073
+#TabNr   : 677
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/93271
+288.15 0.0336
+293.15 0.03307
+303.15 0.03212
+#PRP-5067i.1937
+#Timmermans,J.;Hennaut-Roland "",J. Chim. Phys., 34,693-739 (1937)
+#DOI:
+
+
+#id .....:1990
+#TabNr   : 2392
+#Tmin    : 294.15
+#Tmax    : 359.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62172
+!294.15 0.03206
+335.15 0.0289
+359.75 0.02641
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:4451
+#TabNr   : 4645
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/149553
+298.15 0.0328 0.0001
+#PRP-19584i.2004
+#Habrdova,K.;Hovorka,S.;Bartovska,L. "Concentration Dependence of Surface Tension for Very Dilute Aqueous Solutions of Organic Nonelectrolytes",J. Chem. Eng. Data, 49[4],1003-1007 (2004)
+#DOI:10.1021/je049955d
