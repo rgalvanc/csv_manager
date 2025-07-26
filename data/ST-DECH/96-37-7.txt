@@ -1,0 +1,69 @@
+#GEM-Registro: rid=1082 gem_nr=178 96-37-7 methylcyclopentane
+#[Syn]: methylcyclopentane
+#[Syn]: Methylcyclopentan
+#[Syn]: CC1CCCC1
+#[Syn]: methylpentamethylene
+#[Syn]: C6H12
+#id .....:459
+#TabNr   : 521
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97258
+286.65 0.0241
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:645
+#TabNr   : 2875
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/88178
+293.15 0.02217 3e-05
+#PRP-13328i.1939
+#Wibaut,J.P.;Hoog,H.;Langedyk,S.L.;Overhoff,J.;Smittenberg,J. "A study on the preparation and the physical constants of a number of alkanes and cycloalkanes",Recl. Trav. Chim. Pays Bas, 58,329-376 (1939)
+#DOI:10.1002/recl.19390580409
+
+
+#id .....:1069
+#TabNr   : 673
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/93262
+288.15 0.02274
+293.15 0.02218
+303.15 0.02106
+#PRP-5067i.1937
+#Timmermans,J.;Hennaut-Roland "",J. Chim. Phys., 34,693-739 (1937)
+#DOI:
+
+
+#id .....:1989
+#TabNr   : 2391
+#Tmin    : 287.95
+#Tmax    : 314.35
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62177
+292.65 0.02227
+314.35 0.01988
+287.95 0.023
+313.35 0.01992
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:2274
+#TabNr   : 237
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/28311
+298.15 0.02167
+#PRP-3659i.1995
+#Orbis,F.;Caceres,M.;Garcia Baonza,V.;Rubio,J.E.F.;Nunez,J. "Liquid mixtures at high pressures referred to a pseudospinodal curve: ethanol - methylcyclopentane and carbon disulfide - tetramethylsilane",J. Chem. Soc. Faraday Trans., 91[1],59-63 (1995)
+#DOI:10.1039/ft9959100059

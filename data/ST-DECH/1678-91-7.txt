@@ -1,0 +1,17 @@
+#GEM-Registro: rid=1598 gem_nr=1843 1678-91-7 ethylcyclohexane
+#[Syn]: ethylcyclohexane
+#[Syn]: Ethylcyclohexan
+#[Syn]: CCC1CCCCC1
+#[Syn]: cyclohexylethane
+#[Syn]: Cyclohexylethan
+#[Syn]: C8H16
+#id .....:3228
+#TabNr   : 3568
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96869
+293.15 0.0258 3e-05
+#PRP-14534i.1944
+#Smith,G.W. "The measurement of boundary tension by the pendent-drop method II. Hydrocarbons.",J. Phys. Chem., 48,168-172 (1944)
+#DOI:10.1021/j150436a002

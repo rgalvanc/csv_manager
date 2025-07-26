@@ -1,0 +1,27 @@
+@
+#[label]:DETHERM-2014-1
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+173.150 0.0321600
+193.150 0.0285000
+213.150 0.0249000
+233.150 0.0214200
+253.150 0.0180700
+273.150 0.0148600
+293.150 0.0118000
+313.150 0.0089500
+333.150 0.0063100
+353.150 0.0039000
+373.150 0.0017600
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+ 298.15    11.32
+@m
+#[label]:Sattari and Bakare (2018)
+#[Ref]:Sattari, M., & Bakare, B. F. (2018). A novel method for developing a corresponding states model for the prediction of liquid surface tension of gases. Fluid Phase Equilibria, 465, 107-116.
+#[BibTex]:
+#[date]:2024-12-9
+#[by]:rodrigo
+145.59 35.03
+355.59 3.96

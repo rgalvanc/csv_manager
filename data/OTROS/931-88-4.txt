@@ -1,0 +1,25 @@
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-04-29
+#[by]:rodrigo
+273.15 0.03133
+303.15 0.02817
+333.15 0.02509
+363.15 0.02207
+393.15 0.01913
+423.15 0.01627
+453.15 0.01351
+483.15 0.01084
+513.15 0.00829
+543.15 0.00589
+573.15 0.00365
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+214.15  0.03824
+533.33  0.00638

@@ -1,0 +1,105 @@
+#GEM-Registro: rid=1495 gem_nr=427 119-64-2 1,2,3,4-tetrahydronaphthalene
+#[Syn]: 1,2,3,4-tetrahydronaphthalene
+#[Syn]: 1,2,3,4-Tetrahydronaphthalin
+#[Syn]: C1CCCc2ccccc21
+#[Syn]: C10H12
+#id .....:695
+#TabNr   : 606
+#Tmin    : 286.45
+#Tmax    : 452.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/103973
+286.45 0.03619
+286.45 0.0362
+309.85 0.03352
+309.85 0.03373
+333.15 0.03111
+333.15 0.03114
+351.6 0.02916
+351.6 0.02936
+452.75 0.01993
+452.75 0.01973
+#PRP-4892i.1922
+#Herz,W.;Schuftan,P. "Physicochemical investigations at tetralin and decalin",Z. Phys. Chem. Stoechiom. Verwandtschaftsl., 101,269-285 (1922)
+#DOI:
+
+
+#id .....:1279
+#TabNr   : 732
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/87652
+303.15 0.0348 0.0001
+#PRP-5530i.1973
+#Siow,K.S.;Patterson,D. "Surface thermodynamics of polymer solutions",J. Phys. Chem., 77,356-365 (1973)
+#DOI:10.1021/j100622a012
+
+
+#id .....:1367
+#TabNr   : 1527
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55723
+298.15 0.03602 5e-05
+#PRP-7998i.1954
+#Shewmaker,J.E.;Vogler,C.E.;Washburn,E.R. "Spreading of hydrocarbons and related compounds on water",J. Phys. Chem., 58,945-948 (1954)
+#DOI:10.1021/j150521a003
+
+
+#id .....:2299
+#TabNr   : 983
+#Tmin    : 287.15
+#Tmax    : 287.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55119
+287.15 0.0377
+#PRP-7965i.1951
+#Green,S.J.;Olden,M.J.F. "The insoluble matter of coal tar. VII. Dilution of tars",J. Appl. Chem., 1,433-443 (1951)
+#DOI:10.1002/jctb.5010011003
+
+
+#id .....:3023
+#TabNr   : 2651
+#Tmin    : 294.65
+#Tmax    : 480.45
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/130233
+294.65 0.03546
+304.85 0.0336
+323.15 0.03238
+333.15 0.0311
+351.6 0.0292
+373.15 0.0276
+452.75 0.0195
+480.45 0.0174
+#PRP-13193i.1938
+#Doldi,S. "",Ann. Chim. Rome, 28,454-462 (1938)
+#DOI:
+
+
+#id .....:4276
+#TabNr   : 4623
+#Tmin    : 293.15
+#Tmax    : 333.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/146642
+293.15 0.0362 0.0003
+313.15 0.0344 0.0003
+333.15 0.0326 0.0003
+#PRP-19336i.1963
+#Toropov,A.P.;Matyagubova,U.T. "Positive isotherms of surface tension in normal systems",Uzb. Khim. Zh., [6],92-97 (1963)
+#DOI:
+
+
+#id .....:5681
+#TabNr   : 4881
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2008-DEC/172065
+298.15 0.03502
+#PVD-89969d.1933
+#MacFarlane,W.;Wright,R. "Binary Liquid Systems and the Mixture Rule",J. Chem. Soc., ,114-118 (1933)
+#DOI:10.1039/jr9330000114

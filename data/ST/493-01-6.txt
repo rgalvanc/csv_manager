@@ -1,0 +1,116 @@
+#[Nombre]:cis-DECAHYDRONAPHTHALENE
+#[CASN]:493-01-6
+#[Familia]:MULTIRING CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C10H18
+#[SMILES]:C1C[C@]2(CCCC[C@]2(CC1)([H]))([H])
+#[Structure]:(CH2)4CHCH(CH2)4
+#[SYN]:DECAHYDRONAPHTHALENE, cis-
+#[MW]:138.25;
+#[TC]:703.6;
+#[PC]:3.2e+06;
+#[VC]:0.48;
+#[ZC]:0.263;
+#[MP]:230.2;
+#[TPT]:230.2;
+#[TPP]:0.15829;
+#[NBP]:468.965;
+#[HFOR]:-1.6924e+08;
+#[GFOR]:8.562e+07;
+#[ENT]:377730;
+#[HSTD]:-2.194e+08;
+#[GSTD]:6.907e+07;
+#[SSTD]:265010;
+#[HFUS]:9.489e+06;
+#[HCOM]:-5.89213e+09;
+#[ACEN]:0.279061;
+#[RG]:4.206e-10;
+#[DM]:0;
+#[VDWV]:0.0904;
+#[VDWA]:9.54e+08;
+#[RI]:1.47878;
+#[AIT]:523.15;
+#[PAR]:366.3;
+#[HSUB]:6.35e+07;
+#[LVOL]:0.154664;
+#[SOLP]:17600;
+#[DC]:2.219;
+#[FLTL]:329;
+#[FLTU]:370;
+#[FLVL]:0.71;
+#[FLVU]:4.9;
+#[FP]:334.15;
+#[RefID]:6554
+#[Ref]:Huckel, W.The Eotvos Constants of Cyclohexane, Methylcyclohexane and the Decalins, Suom. Kemistil., 17B, 1944, 7
+#[Year]:1944
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03197
+428.15 0.01912
+#[Ajuste]: 106
+#2
+#0.065632
+#1.3195
+#[Calidad]: 230.2 0.038907 703.6 0 2.2 453
+
+
+#[RefID]:6553
+#[Ref]:Seyer, W.F., Walker, R.D.The Densities and Surface Tensions of cis- and trans-Decahydronaphthalene between -30 and 180 K, J. Am. Chem. Soc., 63, 1941, 2425
+#[Year]:1941
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+243.15 0.03802
+253.15 0.03683
+263.15 0.03565
+273.15 0.0345
+283.15 0.03336
+293.15 0.03218
+303.15 0.03101
+313.15 0.02981
+323.15 0.02863
+333.15 0.02767
+343.15 0.02682
+353.15 0.02588
+363.15 0.02495
+373.15 0.02404
+383.15 0.02314
+393.15 0.02225
+403.15 0.02138
+413.15 0.02056
+423.15 0.01976
+433.15 0.01889
+443.15 0.01804
+453.15 0.01718
+
+
+#[RefID]:1620
+#[Ref]:Koroesi, G., Kovats, E.Density and Surface Tension of 83 Organic Liquids, J. Chem. Eng. Data, 26, 1981, 323-332
+#[Year]:1981
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03218
+353.15 0.02641
+
+
+#[RefID]:11672
+#[Ref]:Boublik, T., Benson, G.C.Vapor-Liquid Equilibria of Cyclohexane-cis-Decalin Mixtures at 25 C, Can. J. Chem., 50, 1978, 1978
+#[Year]:1978
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03224

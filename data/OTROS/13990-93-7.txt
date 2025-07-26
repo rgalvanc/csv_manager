@@ -1,0 +1,8 @@
+@
+#[label]: F. Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTeX]: F. Gharagheizi et al. (2011)
+#[date]:2024-11-26
+#[by]:rodrigo
+!202.00 0.03636
+524.45 0.00788

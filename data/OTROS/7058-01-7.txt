@@ -1,0 +1,52 @@
+@cm
+#[label]:WW97-50R1
+#[Ref]:Robinson, A.E., Jr.: Univ.Microfilms, Ann Arbor (1950), cit. 72J1
+#[BibTeX]: WW97
+#[date]:2024-11-07
+#[by]:rodrigo
+ 5.0   28.88
+ 10.0  28.41
+ 20.0  27.46
+ 30.0  26.52
+ 40.0  25.56
+ 50.0  24.61
+ 60.0  23.66
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    27.46
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 278.15 0.02888
+ 333.15 0.02366
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-25
+#[by]:rodrigo
+293.15 0.02746
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+263.15 0.03034
+293.15 0.02742
+323.15 0.02457
+353.15 0.02179
+383.15 0.01911
+413.15 0.01650
+443.15 0.01400
+473.15 0.01160
+503.15 0.00932
+533.15 0.00716
+563.15 0.00515

@@ -1,0 +1,29 @@
+#GEM-Registro: rid=1439 gem_nr=371 693-89-0 1-methylcyclopentene
+#[Syn]: 1-methylcyclopentene
+#[Syn]: 1-Methylcyclopenten
+#[Syn]: CC1=CCCC1
+#[Syn]: C6H10
+#id .....:465
+#TabNr   : 527
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97260
+286.65 0.02597
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:1083
+#TabNr   : 687
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/93263
+288.15 0.02432
+293.15 0.02382
+303.15 0.02258
+#PRP-5067i.1937
+#Timmermans,J.;Hennaut-Roland "",J. Chim. Phys., 34,693-739 (1937)
+#DOI:

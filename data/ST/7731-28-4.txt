@@ -1,0 +1,93 @@
+#[Nombre]:cis-4-METHYLCYCLOHEXANOL
+#[CASN]:7731-28-4
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C7H14O
+#[SMILES]:C1[C@](O)([H])(CC[C@](C)([H])(C1))
+#[Structure]:HO(C6H10)CH3
+#[MW]:114.185;
+#[TC]:622;
+#[PC]:3.79e+06;
+#[VC]:0.374;
+#[ZC]:0.274;
+#[MP]:263.95;
+#[TPT]:263.95;
+#[TPP]:2.99051;
+#[NBP]:444.15;
+#[HFOR]:-3.475e+08;
+#[GFOR]:-1.457e+08;
+#[ENT]:380000;
+#[HSTD]:-4.132e+08;
+#[GSTD]:-1.701e+08;
+#[SSTD]:241300;
+#[HFUS]:1.06e+07;
+#[HCOM]:-4.0344e+09;
+#[ACEN]:0.688003;
+#[RG]:3.869e-10;
+#[DM]:5.77e-30;
+#[VDWV]:0.07505;
+#[VDWA]:9.55e+08;
+#[RI]:1.4584;
+#[AIT]:570.15;
+#[HSUB]:7.33e+07;
+#[LVOL]:0.124217;
+#[SOLP]:21420;
+#[DC]:13.45;
+#[FP]:343.15;
+#[FLVL]:1;
+#[FLTL]:336;
+#[FLVU]:7.2;
+#[FLTU]:373;
+#[PAR]:286;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+263.95 0.031625
+293.53 0.028362
+323.12 0.02525
+352.7 0.022282
+382.29 0.019443
+411.87 0.016712
+441.46 0.014062
+471.04 0.011468
+500.63 0.0089182
+530.21 0.0064155
+559.8 0.0039934
+#[Ajuste]: 106
+#2
+#0.060109
+#1.1674
+#[Calidad]: 263.95 0.031546 622 0 5.6 303
+
+
+#[RefID]:2613
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part III.  Cyclopentane, Cyclohexane, Cycloheptane, and Some Derivatives.  The Multiplanar Structure of the Methylcyclohexane Ring., J. Chem. Soc., 1938, 1323-1338
+#[Year]:1938
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+293.15 0.02763
+294.05 0.02758
+333.55 0.02504
+359.25 0.02305
+
+
+#[RefID]:4145
+#[Ref]:Riddick, J.A., Bunger, W.B., Sakano, T.K.Organic Solvents: Physical Properties and Methods of Purification, 4th ed., Wiley Interscience,  New York, 1986
+#[Year]:1986
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+303.15 0.0292

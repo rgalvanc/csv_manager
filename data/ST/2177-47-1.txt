@@ -1,0 +1,66 @@
+#[Nombre]:2-METHYLINDENE
+#[CASN]:2177-47-1
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDENES
+#[Formula]:C10H10
+#[SMILES]:C1=CC=C2C(=C1)C=C(C2)C
+#[Structure]:CH3(C9H7)
+#[MW]:130.186;
+#[TC]:711;
+#[PC]:3.46e+06;
+#[VC]:0.436;
+#[ZC]:0.255;
+#[MP]:180.4;
+#[TPT]:180.4;
+#[TPP]:7.21e-06;
+#[NBP]:479.45;
+#[HFOR]:1.387e+08;
+#[GFOR]:2.374e+08;
+#[ENT]:379600;
+#[HSTD]:8.383e+07;
+#[GSTD]:2.186e+08;
+#[SSTD]:258700;
+#[HFUS]:;
+#[HCOM]:-5.228e+09;
+#[ACEN]:0.350814;
+#[RG]:4.21e-10;
+#[DM]:0;
+#[VDWV]:0.07744;
+#[VDWA]:8.88e+08;
+#[RI]:1.5627;
+#[AIT]:;
+#[HSUB]:6.19e+07;
+#[LVOL]:0.13407;
+#[SOLP]:19730;
+#[FLVL]:0.9;
+#[FLTL]:345;
+#[FLVU]:5.4;
+#[FLTU]:384;
+#[FP]:347;
+#[DC]:2.487;
+#[PAR]:319.9;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+280 0.036686
+315.99 0.032635
+351.98 0.028799
+387.97 0.025161
+423.96 0.021699
+459.95 0.018386
+495.94 0.015197
+531.93 0.01212
+567.92 0.009162
+603.91 0.0063519
+639.9 0.0037547
+#[Ajuste]: 106
+#2
+#0.068599
+#1.2631
+#[Calidad]: 280 0.036453 711 0 1.2 568

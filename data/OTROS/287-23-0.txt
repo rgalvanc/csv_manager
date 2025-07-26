@@ -1,0 +1,38 @@
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+193.15 0.03620
+218.15 0.03210
+243.15 0.02806
+268.15 0.02410
+293.15 0.02020
+318.15 0.01642
+343.15 0.01275
+368.15 0.00920
+393.15 0.00600
+418.15 0.00320
+443.15 0.00110
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+ 298.15    17.62
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-9
+#[by]:rodrigo
+253.15  0.02640
+298.15  0.01940
+@m
+#[label]:Sattari and Bakare (2018)
+#[Ref]:Sattari, M., & Bakare, B. F. (2018). A novel method for developing a corresponding states model for the prediction of liquid surface tension of gases. Fluid Phase Equilibria, 465, 107-116.
+#[BibTex]:
+#[date]:2024-12-9
+#[by]:rodrigo
+253.15 23.82
+298.15 17.65

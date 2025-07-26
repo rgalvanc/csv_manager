@@ -1,0 +1,67 @@
+#[Nombre]:1,2,3,4-TETRAMETHYLCYCLOHEXANE
+#[CASN]:3726-45-2
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C10H20
+#[SMILES]:C1(C)C(C)C(C)C(C)CC1
+#[Structure]:(C6H8)(CH3)4
+#[SYN]:HEXAHYDROPREHNITENE
+#[MW]:140.266;
+#[TC]:642;
+#[PC]:2.57e+06;
+#[VC]:0.528;
+#[ZC]:0.254;
+#[MP]:195;
+#[TPT]:195;
+#[TPP]:0.00243582;
+#[NBP]:449.2;
+#[HFOR]:-2.419e+08;
+#[GFOR]:3.52e+07;
+#[ENT]:433700;
+#[HSTD]:-2.91624e+08;
+#[GSTD]:1.967e+07;
+#[SSTD]:319000;
+#[HFUS]:1.12e+07;
+#[HCOM]:-6.06388e+09;
+#[ACEN]:0.401599;
+#[RG]:4.518e-10;
+#[DM]:0;
+#[VDWV]:0.10112;
+#[VDWA]:1.289e+09;
+#[RI]:1.4502;
+#[AIT]:643;
+#[HSUB]:5.81e+07;
+#[LVOL]:0.171452;
+#[SOLP]:16590;
+#[FLVL]:0.7;
+#[FLTL]:319;
+#[FLVU]:7;
+#[FLTU]:367;
+#[FP]:322;
+#[DC]:2.113;
+#[PAR]:393.7;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+200 0.038845
+237.78 0.034389
+275.56 0.030189
+313.34 0.026235
+351.12 0.022512
+388.9 0.018989
+426.68 0.015627
+464.46 0.012391
+502.24 0.00927
+540.02 0.00629
+577.8 0.003528
+#[Ajuste]: 106
+#2
+#0.06145
+#1.25542
+#[Calidad]: 195 0.0390064 642 0 3.4 578

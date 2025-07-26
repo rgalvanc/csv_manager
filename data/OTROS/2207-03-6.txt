@@ -1,0 +1,51 @@
+@cm
+#[label]: WW97-53A1
+#[Ref]:A.P.I.Res.Project 44 (1953)
+#[BibTeX]: 53A1
+#[date]: 2024-11-05
+#[by]:rodrigo
+ 5.0    26.20
+ 10.0   25.69
+ 20.0   24.67
+ 30.0   23.66
+ 40.0   22.64
+ 50.0   21.62
+ 60.0   20.60
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.02467
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.02870
+273.15 0.02661
+293.15 0.02457
+313.15 0.02257
+333.15 0.02062
+353.15 0.01872
+373.15 0.01687
+393.15 0.01508
+413.15 0.01335
+433.15 0.01168
+453.15 0.01008
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-19
+#[by]:rodrigo
+ 298.15    24.15
+@m
+#[label]: Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:
+#[date]:2024-11-28
+#[by]:rodrigo
+ 293.15    24.67

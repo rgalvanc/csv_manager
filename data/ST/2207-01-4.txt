@@ -1,0 +1,84 @@
+#[Nombre]:cis-1,2-DIMETHYLCYCLOHEXANE
+#[CASN]:2207-01-4
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1[C@@](C)([H])([C@]([H])(C)(CCC1))
+#[Structure]:-CH(CH3)CH(CH3)(CH2)4-
+#[MW]:112.213;
+#[TC]:606.15;
+#[PC]:2.93843e+06;
+#[VC]:0.46;
+#[ZC]:0.268;
+#[MP]:223.16;
+#[TPT]:223.16;
+#[TPP]:6.41394;
+#[NBP]:402.94;
+#[HFOR]:-1.72172e+08;
+#[GFOR]:4.12124e+07;
+#[ENT]:374510;
+#[HSTD]:-2.118e+08;
+#[GSTD]:3.161e+07;
+#[SSTD]:274100;
+#[HFUS]:1.64515e+06;
+#[HCOM]:-4.87084e+09;
+#[ACEN]:0.232443;
+#[RG]:3.759e-10;
+#[DM]:0;
+#[VDWV]:0.08068;
+#[VDWA]:1.021e+09;
+#[RI]:1.43358;
+#[AIT]:577.15;
+#[PAR]:317.2;
+#[HSUB]:5.18e+07;
+#[LVOL]:0.141645;
+#[SOLP]:16240;
+#[DC]:2.06;
+#[FLVU]:6.5;
+#[FLTU]:323;
+#[FLTL]:286.8;
+#[FP]:288.15;
+#[FLVL]:1;
+#[SOLW]:9.5855e-07;
+#[HLC]:2.01205e+06;
+#[ACCW]:1.04222e+06;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+278.15 0.02731
+283.15 0.02679
+293.15 0.02573
+303.15 0.02468
+313.15 0.02362
+323.15 0.02256
+333.15 0.0215
+#[Ajuste]: 106
+#2
+#0.060891
+#1.3037
+#[Calidad]: 223.16 0.033466 606.15 0 0.2 323
+
+
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+273.15 0.0279
+283.15 0.0268
+293.15 0.02572
+298.15 0.02519
+303.15 0.02466
+313.15 0.0236
+323.15 0.0226
+333.15 0.0215

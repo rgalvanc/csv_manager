@@ -1,0 +1,74 @@
+#[Nombre]:1,1,2-TRIMETHYLCYCLOPENTANE
+#[CASN]:4259-00-1
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1(C)(C)C(C)CCC1
+#[Structure]:C(CH3)2CH(CH3)CH2CH2CH2
+#[SYN]:CAMPHOCEAN
+#[SYN]:DIHYDROISOLAUROLENE
+#[MW]:112.213;
+#[TC]:579.55;
+#[PC]:2.9384e+06;
+#[VC]:0.432;
+#[ZC]:0.263;
+#[MP]:251.51;
+#[TPT]:251.51;
+#[TPP]:191;
+#[NBP]:386.88;
+#[LVOL]:0.1462;
+#[HFOR]:-1.687e+08;
+#[GFOR]:4.122e+07;
+#[ENT]:387300;
+#[HSTD]:-2.066e+08;
+#[GSTD]:3.28e+07;
+#[SSTD]:288400;
+#[HFUS]:1.25e+07;
+#[HCOM]:-4.876e+09;
+#[ACEN]:0.253781;
+#[RG]:3.809e-10;
+#[SOLP]:15560;
+#[DM]:0;
+#[VDWA]:1.041e+09;
+#[VDWV]:0.08067;
+#[RI]:1.42051;
+#[FP]:276;
+#[FLVL]:0.923;
+#[FLTL]:274;
+#[FLVU]:5.86;
+#[FLTU]:308;
+#[AIT]:565;
+#[HSUB]:5.34e+07;
+#[PAR]:319.2;
+#[DC]:2.022;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+467.58 0.0072792
+359.54 0.016776
+305.53 0.021981
+269.52 0.025683
+323.53 0.020206
+341.54 0.018472
+287.52 0.023806
+377.55 0.015113
+395.56 0.013481
+413.56 0.01188
+449.57 0.0087742
+485.58 0.0058346
+503.59 0.0044512
+251.51 0.027618
+431.57 0.010309
+521.6 0.0031477
+#[Ajuste]: 106
+#3
+#0.05332
+#1.1115
+#0.12716
+#[Calidad]: 251.51 0.0274491 579.55 0 0.67 521.6

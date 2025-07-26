@@ -1,0 +1,81 @@
+#[Nombre]:1,1-DIMETHYLCYCLOHEXANE
+#[CASN]:590-66-9
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1CCCCC1(C)(C)
+#[Structure]:-CH(CH3)2(CH2)5-
+#[MW]:112.213;
+#[TC]:591.15;
+#[PC]:2.93843e+06;
+#[VC]:0.45;
+#[ZC]:0.269;
+#[MP]:239.66;
+#[TPT]:239.66;
+#[TPP]:60.5841;
+#[NBP]:392.7;
+#[HFOR]:-1.81e+08;
+#[GFOR]:3.52293e+07;
+#[ENT]:365012;
+#[HSTD]:-2.1874e+08;
+#[GSTD]:2.6714e+07;
+#[SSTD]:267230;
+#[HFUS]:2.02087e+06;
+#[HCOM]:-4.8639e+09;
+#[ACEN]:0.232569;
+#[RG]:3.668e-10;
+#[DM]:0;
+#[VDWV]:0.08068;
+#[VDWA]:1.042e+09;
+#[RI]:1.42662;
+#[AIT]:577;
+#[PAR]:318.7;
+#[HSUB]:4.84e+07;
+#[LVOL]:0.144469;
+#[SOLP]:15670;
+#[FLVU]:6.1;
+#[FLTU]:313;
+#[FLTL]:278.6;
+#[FLVL]:1;
+#[FP]:280.15;
+#[DC]:2.032;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+273.15 0.0262
+283.15 0.0252
+293.15 0.02412
+298.15 0.02361
+303.15 0.0231
+313.15 0.02214
+323.15 0.0213
+333.15 0.0203
+#[Ajuste]: 106
+#2
+#0.0555
+#1.2153
+#[Calidad]: 239.66 0.029505 591.15 0 0.4 323
+
+
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+278.15 0.02559
+283.15 0.02511
+293.15 0.02413
+303.15 0.02316
+313.15 0.02218
+323.15 0.02121
+333.15 0.02024

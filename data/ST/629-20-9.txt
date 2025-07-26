@@ -1,0 +1,74 @@
+#[Nombre]:1,3,5,7-CYCLOOCTATETRAENE
+#[CASN]:629-20-9
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C8H8
+#[SMILES]:C1=CC=CC=CC=C1
+#[Structure]: -CH(CH)6CH-
+#[SYN]:[8]ANNULENE
+#[SYN]:COT
+#[SYN]:CYCLOOCTATETRAENE
+#[SYN]:UN 2358
+#[MW]:104.149;
+#[TC]:641.4;
+#[PC]:4.42e+06;
+#[VC]:0.328;
+#[ZC]:0.272;
+#[MP]:268.5;
+#[TPT]:268.5;
+#[TPP]:157;
+#[NBP]:415.7;
+#[HFOR]:2.976e+08;
+#[GFOR]:3.694e+08;
+#[ENT]:326800;
+#[HSTD]:2.545e+08;
+#[GSTD]:3.581e+08;
+#[SSTD]:220300;
+#[HFUS]:1.13e+07;
+#[HCOM]:-4.37e+09;
+#[ACEN]:0.287;
+#[RG]:3.827e-10;
+#[DM]:0;
+#[RI]:1.5348;
+#[AIT]:528;
+#[HSUB]:5.85e+07;
+#[LVOL]:0.1137;
+#[SOLP]:18610;
+#[VDWA]:8e+08;
+#[VDWV]:0.06348;
+#[PAR]:264;
+#[FLVL]:0.85;
+#[FLTL]:295;
+#[FLVU]:10.7;
+#[FLTU]:347;
+#[FP]:299.26;
+#[DC]:2.376;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+268.5 0.032756
+290.55 0.030018
+312.61 0.027402
+334.66 0.024899
+356.72 0.022501
+378.77 0.020198
+400.83 0.017981
+422.88 0.015841
+444.93 0.013773
+466.99 0.011774
+489.04 0.0098467
+511.1 0.0079973
+533.15 0.0062359
+555.21 0.0045831
+577.26 0.0030679
+#[Ajuste]: 106
+#2
+#0.067454
+#1.3444
+#[Calidad]: 268.5 0.0325351 641.4 0 1.08 533.15

@@ -1,0 +1,74 @@
+#[Nombre]:1,1,5-TRIMETHYLINDAN
+#[CASN]:40650-41-7
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDANES
+#[Formula]:C12H16
+#[SMILES]:CC1=CC2=C(C=C1)C(CC2)(C)C
+#[Structure]:(C9H7)(CH3)3
+#[SYN]:2,3-DIHYDRO-1,1,5-TRIMETHYL-1H-INDENE
+#[SYN]:1,1,5-TRIMETHYL-2,3-DIHYDRO-1H-INDENE
+#[MW]:160.26;
+#[TC]:713.6;
+#[PC]:2.719e+06;
+#[VC]:0.555;
+#[ZC]:0.254;
+#[MP]:246.3;
+#[TPT]:246.3;
+#[TPP]:0.458;
+#[NBP]:491.9;
+#[LVOL]:0.1764;
+#[HFOR]:-2.074e+07;
+#[GFOR]:1.825e+08;
+#[ENT]:432500;
+#[HSTD]:-7.305e+07;
+#[GSTD]:1.656e+08;
+#[SSTD]:313800;
+#[HFUS]:1.78e+07;
+#[HCOM]:-6.584e+09;
+#[ACEN]:0.356502;
+#[RG]:4.722e-10;
+#[SOLP]:16810;
+#[DM]:1.13e-30;
+#[VDWA]:1.371e+09;
+#[VDWV]:0.1081;
+#[RI]:1.5111;
+#[FP]:347;
+#[FLVL]:0.678;
+#[FLTL]:344;
+#[FLVU]:5.61;
+#[FLTU]:393;
+#[AIT]:672;
+#[HSUB]:6.64e+07;
+#[PAR]:410.7;
+#[DC]:2.316;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+246.3 0.034338
+272.7 0.031757
+299.09 0.029271
+325.49 0.026876
+351.88 0.024569
+378.28 0.022345
+404.68 0.020196
+431.07 0.018114
+457.47 0.01609
+483.86 0.014117
+510.26 0.012186
+536.66 0.010299
+563.05 0.0084583
+589.45 0.0066722
+615.84 0.0049585
+642.24 0.0033428
+#[Ajuste]: 106
+#3
+#0.058857
+#1.3216
+#-0.088995
+#[Calidad]: 246.3 0.0340767 713.6 0 0.97 642.24

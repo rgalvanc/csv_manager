@@ -1,0 +1,79 @@
+#[Nombre]:1-METHYLCYCLOPENTENE
+#[CASN]:693-89-0
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C6H10
+#[SMILES]:C1(C)=CCCC1
+#[Structure]:-C(CH3)CHCH2CH2CH2-
+#[MW]:82.1436;
+#[TC]:542;
+#[PC]:4.13e+06;
+#[VC]:0.303;
+#[ZC]:0.278;
+#[MP]:146.62;
+#[TPT]:146.62;
+#[TPP]:0.00397867;
+#[NBP]:348.64;
+#[HFOR]:-3.8e+06;
+#[GFOR]:1.038e+08;
+#[ENT]:326400;
+#[HSTD]:-3.644e+07;
+#[GSTD]:1e+08;
+#[SSTD]:228000;
+#[HFUS]:;
+#[HCOM]:-3.534e+09;
+#[ACEN]:0.23179;
+#[RG]:3.262e-10;
+#[DM]:0;
+#[VDWV]:0.0567;
+#[VDWA]:7.29e+08;
+#[RI]:1.4294;
+#[AIT]:;
+#[PAR]:232.9;
+#[HSUB]:4.25e+07;
+#[LVOL]:0.105974;
+#[SOLP]:16870;
+#[FP]:256;
+#[FLVL]:1.3;
+#[FLTL]:253;
+#[FLVU]:9.8;
+#[FLTU]:289;
+#[DC]:2.083;
+#[RefID]:2132
+#[Ref]:Timmermans, J., Hennault-Roland, Mdme.Travaux du Bureau International d'Etalons Physico-Chimiques. Studies of the Physical Constants of Twenty Organic Compounds, J. Chim. Phys., 34, 1937, 693
+#[Year]:1937
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+288.15 0.02432
+293.15 0.02382
+303.15 0.02258
+#[Ajuste]: 106
+#2
+#0.062587
+#1.24
+#[Calidad]: 146.62 0.042328 542 0 2 488
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+146.62 0.042624
+184.53 0.037308
+222.44 0.032309
+260.35 0.027612
+298.26 0.023178
+336.16 0.018942
+374.07 0.014839
+411.98 0.010849
+449.89 0.0070278
+487.8 0.003531

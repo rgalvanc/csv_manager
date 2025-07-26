@@ -1,0 +1,97 @@
+#GEM-Registro: rid=1496 gem_nr=428 493-01-6 cis-decahydronaphthalene
+#[Syn]: cis-decahydronaphthalene
+#[Syn]: cis-Decahydronaphthalin
+#[Syn]: C1CCC2CCCCC2C1
+#[Syn]: cis-Decalin
+#[Syn]: cis-bicyclo(4.4.0)decane
+#[Syn]: C10H18
+#id .....:696
+#TabNr   : 607
+#Tmin    : 284.95
+#Tmax    : 456.75
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/103972
+284.95 0.03152
+284.95 0.03182
+306.75 0.02931
+306.75 0.02942
+333.05 0.02667
+333.05 0.0268
+350.85 0.0251
+373.25 0.02313
+373.25 0.0232
+456.75 0.01634
+456.75 0.01633
+#PRP-4892i.1922
+#Herz,W.;Schuftan,P. "Physicochemical investigations at tetralin and decalin",Z. Phys. Chem. Stoechiom. Verwandtschaftsl., 101,269-285 (1922)
+#DOI:
+
+
+#id .....:981
+#TabNr   : 2150
+#Tmin    : 293.15
+#Tmax    : 353.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/56630
+293.15 0.03218
+353.15 0.02641
+#PRP-8076i.1981
+#Koroesi,G.;Kovats,E.S. "Density and surface tension of 83 organic liquids",J. Chem. Eng. Data, 26[3],323-332 (1981)
+#DOI:10.1021/je00025a032
+
+
+#id .....:1150
+#TabNr   : 1463
+#Tmin    : 243.15
+#Tmax    : 453.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55639
+243.15 0.03802 0.00038
+253.15 0.03683 0.00037
+263.15 0.03565 0.00036
+273.15 0.0345 0.00035
+283.15 0.03336 0.00033
+293.15 0.03218 0.00032
+303.15 0.03101 0.00031
+313.15 0.02981 0.0003
+323.15 0.02863 0.00029
+333.15 0.02767 0.00028
+343.15 0.02682 0.00027
+353.15 0.02588 0.00026
+363.15 0.02495 0.00025
+373.15 0.02404 0.00024
+383.15 0.02314 0.00023
+393.15 0.02225 0.00022
+403.15 0.02138 0.00021
+413.15 0.02056 0.00021
+423.15 0.01976 0.0002
+433.15 0.01889 0.00019
+443.15 0.01804 0.00018
+453.15 0.01718 0.00017
+#PRP-7986i.1941
+#Seyer,W.F.;Davenport,C.H. "The densities and surface tensions of cis- and trans-decahydronaphthalene between -30 and 180 degrees centigrade",J. Am. Chem. Soc., 63,2425-2427 (1941)
+#DOI:10.1021/ja01854a031
+
+
+#id .....:1884
+#TabNr   : 876
+#Tmin    : 298.15
+#Tmax    : 298.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/54946
+298.15 0.03224 3e-05
+#PRP-7946i.1970
+#Lam,V.T.;Benson,G.C. "Surface tension of binary liquid systems. I. Mixtures of non-electrolytes",Can. J. Chem., 48,3773-3781 (1970)
+#DOI:10.1139/v70-637
+
+
+#id .....:2302
+#TabNr   : 986
+#Tmin    : 287.15
+#Tmax    : 287.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/55111
+287.15 0.0323
+#PRP-7965i.1951
+#Green,S.J.;Olden,M.J.F. "The insoluble matter of coal tar. VII. Dilution of tars",J. Appl. Chem., 1,433-443 (1951)
+#DOI:10.1002/jctb.5010011003

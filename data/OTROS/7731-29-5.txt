@@ -1,0 +1,14 @@
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-8
+#[by]:rodrigo
+ 298.15    29.90
+@m
+#[label]:Naef and Acree (2018).
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:Naef, R., & Acree, W. E. (2018).
+#[date]:2024-12-8
+#[by]:rodrigo
+    293.15  27.69

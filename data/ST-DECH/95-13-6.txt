@@ -1,0 +1,32 @@
+#GEM-Registro: rid=1221 gem_nr=240 95-13-6 1H-indene
+#[Syn]: 1H-indene
+#[Syn]: 1H-Inden
+#[Syn]: c1(CC=C2)c2cccc1
+#[Syn]: indene
+#[Syn]: Inden
+#[Syn]: indonaphthene
+#[Syn]: Indonaphthen
+#[Syn]: C9H8
+#id .....:2685
+#TabNr   : 343
+#Tmin    : 293.15
+#Tmax    : 333.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/102435
+293.15 0.0389
+333.15 0.0328
+#PRP-4090i.1943
+#Breitenbach,J.W.;Bremer,G. "Polymerization of indene",Ber. Dtsch. Chem. Ges. B, 76,1124-1124 (1943)
+#DOI:10.1002/cber.19430761109
+
+
+#id .....:4027
+#TabNr   : 3850
+#Tmin    : 303.65
+#Tmax    : 303.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97385
+303.65 0.03699
+#PRP-14581i.1934
+#Ray,S.K. "Parachor and ring structure. I.",J. Indian Chem. Soc., 11,499-501 (1934)
+#DOI:

@@ -1,0 +1,17 @@
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-8
+#[by]:rodrigo
+273.15 0.02929
+308.15 0.02626
+343.15 0.02331
+378.15 0.02046
+413.15 0.01769
+448.15 0.01503
+483.15 0.01248
+518.15 0.01005
+553.15 0.00776
+588.15 0.00562
+623.15 0.00367

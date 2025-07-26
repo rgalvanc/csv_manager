@@ -1,0 +1,67 @@
+#[Nombre]:CYCLOOCTANE
+#[CASN]:292-64-8
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1CCCCCCC1
+#[Structure]:-(CH2)8-
+#[MW]:112.213;
+#[TC]:647.2;
+#[PC]:3.56e+06;
+#[VC]:0.41;
+#[ZC]:0.271;
+#[MP]:287.95;
+#[TPT]:287.95;
+#[TPP]:401.586;
+#[NBP]:424.29;
+#[HFOR]:-1.258e+08;
+#[GFOR]:8.997e+07;
+#[ENT]:366800;
+#[HSTD]:-1.6774e+08;
+#[GSTD]:7.93e+07;
+#[SSTD]:262000;
+#[HFUS]:2.41e+06;
+#[HCOM]:-4.91318e+09;
+#[ACEN]:0.252353;
+#[RG]:4.125e-10;
+#[DM]:0;
+#[VDWV]:0.08184;
+#[VDWA]:1.08e+09;
+#[RI]:1.4563;
+#[PAR]:313.5;
+#[HSUB]:4.63e+07;
+#[LVOL]:0.134909;
+#[SOLP]:17460;
+#[DC]:2.116;
+#[FP]:303.15;
+#[FLVL]:0.9;
+#[FLTL]:301;
+#[FLVU]:6.3;
+#[FLTU]:341;
+#[AIT]:503.15;
+#[SOLW]:9.78617e-07;
+#[HLC]:763445;
+#[ACCW]:1.01589e+06;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+293.15 0.02984
+303.15 0.02875
+313.15 0.02766
+323.15 0.02657
+333.15 0.02548
+343.15 0.02439
+353.15 0.0233
+363.15 0.02221
+373.15 0.02112
+#[Ajuste]: 106
+#2
+#0.06729
+#1.3451
+#[Calidad]: 287.95 0.030485 647.2 0 0.3 373

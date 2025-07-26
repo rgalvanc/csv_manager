@@ -1,0 +1,81 @@
+#[Nombre]:METHYLCYCLOPENTANE
+#[CASN]:96-37-7
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:N-CYCLOPENTANES
+#[Formula]:C6H12
+#[SMILES]:C1(C)CCCC1
+#[Structure]:(C5H9)CH3
+#[MW]:84.1595;
+#[TC]:532.7;
+#[PC]:3.79e+06;
+#[VC]:0.319;
+#[ZC]:0.273;
+#[MP]:130.73;
+#[TPT]:130.73;
+#[TPP]:0.000224525;
+#[NBP]:344.96;
+#[HFOR]:-1.062e+08;
+#[GFOR]:3.63e+07;
+#[ENT]:339900;
+#[HSTD]:-1.3774e+08;
+#[GSTD]:3.2231e+07;
+#[SSTD]:247780;
+#[HFUS]:6.929e+06;
+#[HCOM]:-3.6741e+09;
+#[ACEN]:0.228759;
+#[RG]:3.299e-10;
+#[DM]:0;
+#[VDWV]:0.06017;
+#[VDWA]:7.52e+08;
+#[RI]:1.407;
+#[AIT]:602;
+#[PAR]:243.1;
+#[HSUB]:4.33e+07;
+#[LVOL]:0.113047;
+#[SOLP]:16060;
+#[DC]:1.9853;
+#[FLVL]:1.2;
+#[FLTL]:248;
+#[FLTU]:281.3;
+#[FLVU]:8.4;
+#[FP]:249;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+253.15 0.027
+263.15 0.0258
+273.15 0.02463
+283.15 0.02347
+293.15 0.0223
+298.15 0.02172
+303.15 0.02114
+313.15 0.01998
+323.15 0.01881
+333.15 0.01765
+343.15 0.01649
+353.15 0.0153
+#[Ajuste]: 106
+#2
+#0.061327
+#1.2693
+#[Calidad]: 130.73 0.042897 532.7 0 0.8 353
+
+
+#[RefID]:50
+#[Ref]:Timmermans, J.Physico-Chemical Constants of Pure Organic Substances, Vol II, Elsevier, New York, 1965, Supplement to Vol I published in 1950
+#[Year]:1965
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+288.15 0.02274
+293.15 0.02218
+303.15 0.02106

@@ -1,0 +1,27 @@
+#GEM-Registro: rid=1436 gem_nr=368 142-29-0 cyclopentene
+#[Syn]: cyclopentene
+#[Syn]: Cyclopenten
+#[Syn]: C1=CCCC1
+#[Syn]: C5H8
+#id .....:462
+#TabNr   : 524
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97259
+286.65 0.02356
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:1997
+#TabNr   : 2399
+#Tmin    : 290.35
+#Tmax    : 290.35
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62173
+290.35 0.02808
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323

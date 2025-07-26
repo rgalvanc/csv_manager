@@ -1,0 +1,113 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+#[BibTex]:WW97-38V2
+#[date]:2024-11-22
+#[by]:rodrigo
+ 14.8   23.00
+ 19.5   22.27
+ 20.0   22.30
+ 40.2   19.92
+ 41.2   19.88
+@Cm
+#[label]:WW97-39W1
+#[Ref]:Wibaut, J.P., Hoog, H., Langedijk, S.L., Overhoff, J., Smittenberg, J.: Recl.Trav.Chim.Pays-Bas 58 (1939) 329
+#[BibTex]:WW97-39W1
+#[date]:2024-11-22
+#[by]:rodrigo
+ 20.0   22.17
+@Cm
+#[label]:WW97-72J1
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841
+#[BibTex]:WW97-72J1
+#[date]:2024-11-22
+#[by]:rodrigo
+ 10.0 23.47
+ 20.0 22.30
+ 30.0 21.14
+ 40.0 19.98
+!50.0 18.18
+ 60.0 17.65
+@Cm
+#[label]:WW97-72V1
+#[Ref]:Vargaftik, N.B.: Dictionary of Thermophysical Properties of
+#[BibTex]:WW97-72V1
+#[date]:2024-11-22
+#[by]:rodrigo
+13.5 24.1
+@cm
+#[label]:Goussard et al. (2017)
+#[Ref]:V. Goussard, F. Duprat, V. Gerbaud, J. L. Ploix, G. Dreyfus, V. Nardello-Rataj y J. M. Aubry, “Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils”, Journal of Chemical Information and Modeling 57, 2986-2995 (2017).
+#[BibTex]:Goussard et al. (2017)
+#[date]:2024-11-25
+#[by]:rodrigo
+25.0 21.7
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-11-25
+#[by]:rodrigo
+298.15 21.65
+@Cm
+#[label]:Lide (2005)
+#[Ref]:D.R.Lide, CRC handbook of chemistry and physics, vol. 86 (CRC press, 2005)
+#[BibTex]:
+#[date]:2024-11-27
+#[by]:rodrigo
+10.0 23.47
+25.0 21.72
+50.0 18.82
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-12-7
+#[by]:rodrigo
+13.3 23.30
+@m
+#[label]: Delgado and Diaz (2006)
+#[Ref]:Delgado, E. J., & Diaz, G. A. (2006). A molecular structure based model for predicting surface tension of organic compounds. SAR and QSAR in Environmental Research, 17(5), 483-496.
+#[BibTex]:
+#[date]:2024-12-7
+#[by]:rodrigo
+    298    21.70
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-7
+#[by]:rodrigo
+    253.15  0.02700
+    353.15  0.01530
+@m
+#[label]:Naef and Acree (2018).
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+#[BibTex]:Naef, R., & Acree, W. E. (2018).
+#[date]:2024-12-7
+#[by]:rodrigo
+    293.15  22.30
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+293.15 0.0223
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-4
+#[by]:rodrigo
+253.15 0.02700
+273.15 0.02466
+293.15 0.02232
+313.15 0.01998
+333.15 0.01765
+353.15 0.01533
+373.15 0.01310
+393.15 0.01100
+413.15 0.00902
+433.15 0.00715
+453.15 0.00540

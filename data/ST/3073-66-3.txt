@@ -1,0 +1,90 @@
+#[Nombre]:1,1,3-TRIMETHYLCYCLOHEXANE
+#[CASN]:3073-66-3
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C9H18
+#[SMILES]:CC(CC1C)(CCC1)C
+#[Structure]:(C6H9)(CH3)3
+#[SYN]:CYCLOGERANIOLANE
+#[SYN]:1,1,3-TRIMETHYL CYCLOHEXANE
+#[SYN]:1,1,3-TRIMETHYCYCLOHEXANE
+#[MW]:126.239;
+#[TC]:611.3;
+#[PC]:2.978e+06;
+#[VC]:0.469;
+#[ZC]:0.275;
+#[TPT]:207.4;
+#[TPP]:0.761;
+#[LVOL]:0.1629;
+#[HFOR]:-2.374e+08;
+#[GFOR]:1.176e+07;
+#[ENT]:392100;
+#[HSTD]:-2.774e+08;
+#[GSTD]:1.573e+06;
+#[SSTD]:292100;
+#[HFUS]:7.37e+06;
+#[HCOM]:-5.441e+09;
+#[ACEN]:0.27533;
+#[RG]:4.174e-10;
+#[SOLP]:15300;
+#[DM]:0;
+#[VDWA]:9.387e+08;
+#[VDWV]:0.09028;
+#[FP]:291.15;
+#[FLVL]:0.818;
+#[FLTL]:288;
+#[FLVU]:5.37;
+#[FLTU]:324;
+#[AIT]:583;
+#[HSUB]:5.17e+07;
+#[PAR]:356.5;
+#[DC]:2.047;
+#[NBP]:409.78;
+#[MP]:207.4;
+#[RI]:1.42725;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+207.43 0.032003
+407.17 0.013518
+441.19 0.010803
+475.21 0.0081812
+509.24 0.0056837
+543.26 0.0033729
+577.28 0.0013665
+#[Ajuste]: 106
+#3
+#0.052369
+#1.1973
+#0.062456
+#[Calidad]: 207.4 0.031606 611.3 0 2.13 373.15
+
+
+#[RefID]:9994
+#[Ref]:Thermodynamics Research CenterTRC - Thermodynamic Tables -Hydrocarbons, The Texas A&M University System, College Station, TX 77843-3111, 1994
+#[Year]:1994
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+353.15 0.018
+363.15 0.017
+373.15 0.016
+273.15 0.0253
+283.15 0.0244
+293.15 0.0235
+298.15 0.023
+303.15 0.0226
+313.15 0.0217
+323.15 0.02076
+263.15 0.0262
+343.15 0.0189
+333.15 0.0198

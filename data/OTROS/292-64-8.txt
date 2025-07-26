@@ -1,0 +1,68 @@
+@Cm
+#[label]: WW97-33R1
+#[Ref]:
+#[BibTeX]: WW97
+#[date]:2024-11-30
+#[by]:rodrigo
+ 17.0 30.17
+ 60.0 25.35
+@Cm
+#[label]: WW97-56B3
+#[Ref]:Butta, E.: Ricerca Sci. 26 (1956) 3643
+#[BibTeX]: WW97
+#[date]:2024-11-30
+#[by]:rodrigo
+  20.0  31.46
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+293.15 0.02984
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+283.15 0.03093
+303.15 0.02869
+323.15 0.02648
+343.15 0.02431
+363.15 0.02218
+383.15 0.02010
+403.15 0.01809
+423.15 0.01616
+443.15 0.01431
+463.15 0.01256
+483.15 0.01091
+@Cm
+#[label]:Barber et al. (2007)
+#[Ref]:Barber, P., Asakawa, T., & Christenson, H. K. (2007). What determines the size of liquid capillary condensates below the bulk melting point?. The Journal of Physical Chemistry C, 111(5), 2141-2148.
+#[BibTex]:
+#[date]:2025-04-02
+#[by]:rodrigo
+22 31
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+ 298.15    22.55
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+#[BibTex]:
+#[date]:2024-12-21
+#[by]:rodrigo
+25  29.3
+@m
+#[label]:Vakili et al. (2021)
+#[Ref]:Vakili-Nezhaad,G.R.;Al-Wadhahi,M.;Al-Haddabi,S.;Vakilinejad,A.;Acree,W.E., "Surface tension of binary organic mixtures based on a new dimensionless number", J. Chem. Thermodyn., 152, 106292-1-106292-21, 2021, 0021-9614
+#[BibTex]:
+#[date]:2025-03-20
+#[by]:rodrigo
+298.2 29.33
+303.2 28.74
+308.2 28.22
+313.2 27.65

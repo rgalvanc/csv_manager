@@ -1,0 +1,65 @@
+#[Nombre]:1-METHYLCYCLOHEXANOL
+#[CASN]:590-67-0
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C7H14O
+#[SMILES]:OC1(C)CCCCC1
+#[Structure]:-C(CH3)(OH)(CH2)4CH2-
+#[MW]:114.185;
+#[TC]:686;
+#[PC]:4e+06;
+#[VC]:0.374;
+#[ZC]:0.262;
+#[MP]:299.15;
+#[TPT]:299.15;
+#[TPP]:257.083;
+#[NBP]:441.15;
+#[HFOR]:-3.32e+08;
+#[GFOR]:-1.29e+08;
+#[ENT]:375000;
+#[HSTD]:-3.88172e+08;
+#[GSTD]:-1.437e+08;
+#[SSTD]:236900;
+#[HCOM]:-4.058e+09;
+#[ACEN]:0.221299;
+#[RG]:3.67e-10;
+#[DM]:5.5e-30;
+#[VDWV]:0.07505;
+#[VDWA]:9.55e+08;
+#[RI]:1.4567;
+#[AIT]:568.15;
+#[HFUS]:1.4322e+07;
+#[LVOL]:0.123222;
+#[SOLP]:19910;
+#[FLVL]:1;
+#[FLTL]:321;
+#[FLVU]:7.2;
+#[FLTU]:361;
+#[FP]:325;
+#[DC]:9.896;
+#[PAR]:296.3;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+299.15 0.032893
+330.97 0.029489
+362.8 0.026226
+394.62 0.023084
+426.45 0.020037
+458.27 0.01707
+490.1 0.014177
+521.92 0.011366
+553.75 0.0086579
+585.57 0.0060902
+617.4 0.0037215
+#[Ajuste]: 106
+#2
+#0.066939
+#1.2423
+#[Calidad]: 299.15 0.032856 686 0 3 617

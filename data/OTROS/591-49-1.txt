@@ -1,0 +1,53 @@
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+14.2    27.30
+20.0    26.66
+41.4    24.10
+61.1    22.11
+@Cm
+#[label]:WW97-72J1
+#[Ref]:Jasper, J.J.: J.Phys.Chem.Ref.Data 1 (1972) 841
+10.0    27.70
+20.0    26.60
+30.0    25.49
+40.0    24.38
+50.0    23.27
+60.0    22.17
+70.0    21.06
+80.0    19.95
+90.0    18.85
+100.0   17.74
+@
+#[label]:Hopfe (1990)
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+293.15  0.0266
+@
+#[label]:Liessmann (1995)
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+253.15  0.03097
+273.15  0.02871
+293.15  0.02647
+313.15  0.02425
+333.15  0.02207
+353.15  0.01992
+373.15  0.01782
+393.15  0.01577
+413.15  0.01379
+433.15  0.01188
+453.15  0.01006
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-10
+#[by]:rodrigo
+ 298.15    26.60
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+25  26.0
+@m
+#[label]:Naef and Acree (2018)
+#[Ref]:Naef, R., & Acree, W. E. (2018). Calculation of the surface tension of ordinary organic and ionic liquids by means of a generally applicable computer algorithm based on the group-additivity method. Molecules, 23(5), 1224.
+293.15  26.60

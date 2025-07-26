@@ -1,0 +1,85 @@
+#[Nombre]:ISOPROPYLCYCLOHEXANE
+#[CASN]:696-29-7
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C9H18
+#[SMILES]:C1CCCCC1C(C)C
+#[Structure]:(C6H11)CH(CH3)2
+#[SYN]:(1-METHYL ETHYL)CYCLOHEXANE
+#[SYN]:HEXAHYDROCUMENE
+#[SYN]:NORMANTHANE
+#[MW]:126.239;
+#[TC]:627;
+#[PC]:2.85e+06;
+#[VC]:0.464;
+#[ZC]:0.254;
+#[MP]:183.76;
+#[TPT]:183.76;
+#[TPP]:0.00294342;
+#[NBP]:427.91;
+#[HFOR]:-1.95e+08;
+#[GFOR]:4.9e+07;
+#[ENT]:405000;
+#[HSTD]:-2.39451e+08;
+#[GSTD]:3.746e+07;
+#[SSTD]:298000;
+#[HFUS]:8.86e+06;
+#[HCOM]:-5.478e+09;
+#[ACEN]:0.329509;
+#[RG]:4.237e-10;
+#[DM]:0;
+#[VDWV]:0.09091;
+#[VDWA]:1.156e+09;
+#[RI]:1.43861;
+#[AIT]:556.15;
+#[PAR]:354.8;
+#[HSUB]:5.87e+07;
+#[LVOL]:0.158146;
+#[SOLP]:16280;
+#[FP]:308.15;
+#[FLVU]:5.9;
+#[FLTU]:342;
+#[FLTL]:307.1;
+#[FLVL]:1.06;
+#[DC]:2.078;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+263.15 0.0294
+273.15 0.0284
+283.15 0.0268
+293.15 0.0258
+298.15 0.0253
+303.15 0.0249
+313.15 0.0239
+323.15 0.0229
+333.15 0.022
+#[Ajuste]: 106
+#2
+#0.0595
+#1.301
+#[Calidad]: 183.76 0.037892 627 0 1.6 283
+
+
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+278.15 0.02798
+283.15 0.02748
+293.15 0.02648
+303.15 0.0255
+313.15 0.02449
+323.15 0.0235
+333.15 0.02251

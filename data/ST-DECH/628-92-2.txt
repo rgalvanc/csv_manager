@@ -1,0 +1,15 @@
+#GEM-Registro: rid=1437 gem_nr=369 628-92-2 cycloheptene
+#[Syn]: cycloheptene
+#[Syn]: Cyclohepten
+#[Syn]: C1=CCCCCC1
+#[Syn]: C7H12
+#id .....:463
+#TabNr   : 525
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97267
+286.65 0.02828
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:

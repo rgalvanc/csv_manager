@@ -1,0 +1,63 @@
+#[Nombre]:trans-1,3-DIMETHYLCYCLOHEXANE
+#[CASN]:2207-03-6
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C8H16
+#[SMILES]:C1[C@](C)([H])(C[C@]([H])(C)(CC1))
+#[Structure]:-CH(CH3)CH2CH(CH3)(CH2)3-
+#[MW]:112.213;
+#[TC]:598;
+#[PC]:2.93843e+06;
+#[VC]:0.46;
+#[ZC]:0.272;
+#[MP]:183.07;
+#[TPT]:183.05;
+#[TPP]:0.0422148;
+#[NBP]:397.61;
+#[HFOR]:-1.76565e+08;
+#[GFOR]:3.63171e+07;
+#[ENT]:376225;
+#[HSTD]:-2.1569e+08;
+#[GSTD]:2.7069e+07;
+#[SSTD]:276270;
+#[HFUS]:9.86587e+06;
+#[HCOM]:-4.86695e+09;
+#[ACEN]:0.23346;
+#[RG]:3.982e-10;
+#[DM]:0;
+#[VDWV]:0.08068;
+#[VDWA]:1.021e+09;
+#[RI]:1.42843;
+#[AIT]:579;
+#[PAR]:318.7;
+#[HSUB]:5.25e+07;
+#[LVOL]:0.143768;
+#[SOLP]:16000;
+#[FLVU]:6.5;
+#[FLTU]:319;
+#[FLTL]:283.3;
+#[FLVL]:1;
+#[FP]:285;
+#[DC]:2.05;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+273.15 0.0267
+283.15 0.0257
+293.15 0.02467
+298.15 0.02416
+303.15 0.02366
+313.15 0.02265
+323.15 0.0216
+333.15 0.0206
+#[Ajuste]: 106
+#2
+#0.05813
+#1.2726
+#[Calidad]: 183.05 0.036512 598 0 0.1 273

@@ -1,0 +1,75 @@
+#[Nombre]:STIGMASTEROL
+#[CASN]:83-48-7
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C29H48O
+#[SMILES]:CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@H]3CC=C4C[C@H](O)CC[C@@]4(C)[C@H]3CC[C@]12C)C(C)C
+#[Structure]:POLYRING COMPOUND
+#[SYN]:24-ETHYLCHOLESTA-5,22-DIENE-3beta-OL
+#[SYN]:beta-STIGMASTEROL
+#[SYN]:delta5-STIGMASTEROL
+#[SYN]:STIGMASTA-5,22-DIENE-3beta-OL
+#[SYN]:STIGMASTERIN
+#[MW]:412.691;
+#[TC]:953.6;
+#[PC]:1.138e+06;
+#[VC]:1.44;
+#[ZC]:0.207;
+#[MP]:443.15;
+#[TPT]:443.15;
+#[TPP]:0.459;
+#[NBP]:778;
+#[HFOR]:-4.374e+08;
+#[GFOR]:3.439e+08;
+#[ENT]:784900;
+#[HSTD]:-6.231e+08;
+#[GSTD]:2.304e+08;
+#[SSTD]:542800;
+#[HFUS]:2.77e+07;
+#[HCOM]:-1.659e+10;
+#[ACEN]:1.0631;
+#[RG]:8.23e-10;
+#[DM]:6.44e-30;
+#[RI]:1.3586;
+#[AIT]:;
+#[PAR]:1048;
+#[HSUB]:1.53e+08;
+#[LVOL]:0.3862;
+#[SOLP]:17390;
+#[VDWA]:3.051e+09;
+#[VDWV]:0.2766;
+#[FLVL]:0.274;
+#[FLTL]:559;
+#[FLVU]:5.32;
+#[FLTU]:645;
+#[FP]:561;
+#[DC]:7.767;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+443.15 0.054122
+470.82 0.049798
+498.5 0.04566
+526.17 0.041705
+553.84 0.037927
+581.51 0.034323
+609.19 0.030885
+636.86 0.027607
+664.53 0.02448
+692.2 0.021495
+719.88 0.018643
+747.55 0.015917
+775.22 0.013311
+802.89 0.010824
+830.57 0.0084585
+#[Ajuste]: 106
+#2
+#0.12429
+#1.3528
+#[Calidad]: 443.15 0.053366 953.6 0 7.95 830.57

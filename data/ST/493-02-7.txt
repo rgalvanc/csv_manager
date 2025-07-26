@@ -1,0 +1,104 @@
+#[Nombre]:trans-DECAHYDRONAPHTHALENE
+#[CASN]:493-02-7
+#[Familia]:MULTIRING CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C10H18
+#[SMILES]:C1C[C@@]2(CCCC[C@]2(CC1)([H]))([H])
+#[Structure]:(CH2)4CHCH(CH2)4
+#[SYN]:DECAHYDRONAPHTHALENE, trans-
+#[MW]:138.25;
+#[TC]:687;
+#[PC]:3.2e+06;
+#[VC]:0.48;
+#[ZC]:0.269;
+#[MP]:242.79;
+#[TPT]:242.79;
+#[TPP]:1.459;
+#[NBP]:460.46;
+#[HFOR]:-1.8217e+08;
+#[GFOR]:7.355e+07;
+#[ENT]:374550;
+#[HSTD]:-2.306e+08;
+#[GSTD]:5.789e+07;
+#[SSTD]:264930;
+#[HFUS]:1.441e+07;
+#[HCOM]:-5.88088e+09;
+#[ACEN]:0.299295;
+#[RG]:4.314e-10;
+#[DM]:0;
+#[VDWV]:0.09312;
+#[VDWA]:1.08e+09;
+#[RI]:1.46715;
+#[AIT]:528.15;
+#[PAR]:370.6;
+#[HSUB]:6.38e+07;
+#[LVOL]:0.15952;
+#[SOLP]:16980;
+#[DC]:2.184;
+#[FLTL]:322;
+#[FLTU]:363;
+#[FLVL]:0.71;
+#[FLVU]:4.9;
+#[FP]:327.15;
+#[RefID]:6554
+#[Ref]:Huckel, W.The Eotvos Constants of Cyclohexane, Methylcyclohexane and the Decalins, Suom. Kemistil., 17B, 1944, 7
+#[Year]:1944
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03056
+428.15 0.01701
+#[Ajuste]: 106
+#2
+#0.062399
+#1.3179
+#[Calidad]: 242.79 0.035124 687 0 2.3 453
+
+
+#[RefID]:6553
+#[Ref]:Seyer, W.F., Walker, R.D.The Densities and Surface Tensions of cis- and trans-Decahydronaphthalene between -30 and 180 K, J. Am. Chem. Soc., 63, 1941, 2425
+#[Year]:1941
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+243.15 0.03529
+253.15 0.03414
+263.15 0.03295
+273.15 0.03191
+283.15 0.03087
+293.15 0.02989
+303.15 0.02887
+313.15 0.02781
+323.15 0.02677
+333.15 0.02582
+343.15 0.02482
+353.15 0.02395
+363.15 0.02302
+373.15 0.02202
+383.15 0.02105
+393.15 0.02022
+403.15 0.01939
+413.15 0.01865
+423.15 0.01785
+433.15 0.01698
+443.15 0.01617
+453.15 0.01544
+
+
+#[RefID]:1620
+#[Ref]:Koroesi, G., Kovats, E.Density and Surface Tension of 83 Organic Liquids, J. Chem. Eng. Data, 26, 1981, 323-332
+#[Year]:1981
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+293.15 0.03015
+353.15 0.02459

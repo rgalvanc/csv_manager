@@ -1,0 +1,30 @@
+#GEM-Registro: rid=1438 gem_nr=370 591-49-1 1-methylcyclohexene
+#[Syn]: 1-methylcyclohexene
+#[Syn]: 1-Methylcyclohexen
+#[Syn]: CC1=CCCCC1
+#[Syn]: C7H12
+#id .....:464
+#TabNr   : 526
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97264
+286.65 0.0272
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:1582
+#TabNr   : 2291
+#Tmin    : 298.15
+#Tmax    : 373.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/129854
+298.15 0.0258 0.00129
+323.15 0.0235 0.001175
+348.15 0.0212 0.00106
+373.15 0.0189 0.000945
+#PRP-8697i.1977
+#Moerke,K.;Roscher,T. "Determination of the surface tension of some hydrocarbons",Leuna-Protokoll, ,12232 (1977)
+#DOI:

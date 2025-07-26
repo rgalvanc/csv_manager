@@ -1,0 +1,75 @@
+#[Nombre]:trans-2,n-HEXYL-DECAHYDRONAPHTHALENE
+#[CASN]:103554-13-8
+#[Familia]:MULTIRING CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C16H30
+#[SMILES]:C1C2C(CCC1)CC[C@@H](C2)CCCCCC
+#[Structure]:(C6H10)(C4H7)(CH2)5CH3
+#[SYN]:NAPHTHALENE, 2-HEXYLDECAHYDRO-
+#[SYN]:HEXYLDECALIN
+#[SYN]:n-HEXYL DECALIN
+#[MW]:222.409;
+#[TC]:777.2;
+#[PC]:1.814e+06;
+#[VC]:0.816;
+#[ZC]:0.229;
+#[MP]:233.7;
+#[TPT]:233.7;
+#[TPP]:0.000404;
+#[NBP]:567.9;
+#[LVOL]:0.2262;
+#[HFOR]:-3.276e+08;
+#[GFOR]:7.894e+07;
+#[ENT]:688500;
+#[HSTD]:-4.092e+08;
+#[GSTD]:4.573e+07;
+#[SSTD]:526200;
+#[HFUS]:5.83e+07;
+#[HCOM]:-9.514e+09;
+#[ACEN]:0.466839;
+#[RG]:6.419e-10;
+#[SOLP]:16890;
+#[DM]:0;
+#[VDWA]:1.946e+09;
+#[VDWV]:0.1556;
+#[RI]:1.58;
+#[FLVL]:0.475;
+#[FLTL]:394;
+#[FLVU]:5.5;
+#[FLTU]:455;
+#[AIT]:513;
+#[HSUB]:1.03e+08;
+#[PAR]:606.5;
+#[DC]:2.327;
+#[FP]:396;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+233.7 0.062415
+264.75 0.057119
+295.8 0.052067
+326.86 0.047253
+357.91 0.042676
+388.96 0.038326
+420.01 0.034195
+451.06 0.030269
+482.12 0.026532
+513.17 0.022969
+544.22 0.019563
+575.27 0.016306
+606.32 0.013195
+637.38 0.010238
+668.43 0.007457
+699.48 0.004888
+#[Ajuste]: 106
+#3
+#0.11117
+#1.7511
+#-0.43912
+#[Calidad]: 233.7 0.0623008 777.2 0 0.25 575.27

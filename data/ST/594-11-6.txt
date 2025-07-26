@@ -1,0 +1,77 @@
+#[Nombre]:METHYLCYCLOPROPANE
+#[CASN]:594-11-6
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C4H8
+#[SMILES]:CC1CC1
+#[Structure]:(C3H5)CH3
+#[SYN]:MONOMETHYL CYCLOPROPANE
+#[SYN]:1-METHYLCYCLOPROPANE
+#[SYN]:METHYL CYCLOPROPANE
+#[SYN]:METHYLCYCLOPROPAN
+#[SYN]:CYCLOPROPYLMETHANE
+#[MW]:56.1063;
+#[TC]:440.5;
+#[PC]:4.514e+06;
+#[VC]:0.217;
+#[ZC]:0.267;
+#[MP]:96.12;
+#[TPT]:96.12;
+#[TPP]:4.92e-05;
+#[NBP]:273.85;
+#[LVOL]:0.08772;
+#[HFOR]:2.3148e+07;
+#[GFOR]:1.025e+08;
+#[ENT]:279600;
+#[HSTD]:2.3148e+07;
+#[GSTD]:1.025e+08;
+#[SSTD]:279600;
+#[HFUS]:2.8e+06;
+#[HCOM]:-2.56444e+09;
+#[ACEN]:0.153903;
+#[RG]:2.384e-10;
+#[SOLP]:14710;
+#[DM]:4.6364e-31;
+#[VDWA]:5.39e+08;
+#[VDWV]:0.04091;
+#[RI]:1.39;
+#[FP]:201;
+#[FLVL]:1.66;
+#[FLTL]:198;
+#[FLVU]:10;
+#[FLTU]:225;
+#[AIT]:524;
+#[HSUB]:3.06e+07;
+#[PAR]:169.5;
+#[DC]:1.973;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+96.12 0.039441
+116.14 0.036441
+136.16 0.033549
+156.19 0.030762
+176.21 0.028081
+196.23 0.025499
+216.25 0.023008
+236.27 0.020594
+256.3 0.01824
+276.32 0.015932
+296.34 0.013659
+316.36 0.011418
+336.38 0.0092169
+356.41 0.0070733
+376.43 0.0050214
+396.45 0.0031111
+#[Ajuste]: 106
+#3
+#0.052031
+#1.1675
+#0.054002
+#[Calidad]: 96.12 0.0389213 440.5 0 1.68 396.45

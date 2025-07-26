@@ -1,0 +1,83 @@
+#[Nombre]:CYCLOHEXANE
+#[CASN]:110-82-7
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C6H12
+#[SMILES]:C1CCCCC1
+#[Structure]:-(CH2)6-
+#[SYN]:HEXAHYDROBENZENE
+#[SYN]:HEXAMETHYLENE
+#[SYN]:HEXANAPHTHENE
+#[MW]:84.1595;
+#[TC]:553.8;
+#[PC]:4.08e+06;
+#[VC]:0.308;
+#[ZC]:0.273;
+#[MP]:279.69;
+#[TPT]:279.69;
+#[TPP]:5362.51;
+#[NBP]:353.87;
+#[HFOR]:-1.233e+08;
+#[GFOR]:3.191e+07;
+#[ENT]:297276;
+#[HSTD]:-1.5615e+08;
+#[GSTD]:2.677e+07;
+#[SSTD]:204350;
+#[HFUS]:2.74e+06;
+#[HCOM]:-3.656e+09;
+#[ACEN]:0.208054;
+#[RG]:3.242e-10;
+#[DM]:0;
+#[VDWV]:0.0614;
+#[VDWA]:8.1e+08;
+#[RI]:1.42354;
+#[AIT]:518.15;
+#[PAR]:241.2;
+#[HSUB]:3.63e+07;
+#[LVOL]:0.108856;
+#[SOLP]:16730;
+#[DC]:2.0243;
+#[FLVL]:1.3;
+#[FLTU]:288;
+#[FLTL]:257.2;
+#[FP]:255.93;
+#[FLVU]:7.8;
+#[SOLW]:1.30038e-05;
+#[HLC]:949721;
+#[ACCW]:72857.7;
+#[RefID]:8
+#[Ref]:Kirk-OthmerEncyclopedia of Chemical Technology, 2nd ed., Interscience, New York, 1966, 22 Vols + Suppl
+#[Year]:1966
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+293.15 0.0253
+#[Ajuste]: 106
+#2
+#0.065774
+#1.2695
+#[Calidad]: 279.69 0.026935 553.8 0 0.5 363
+
+
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+283.15 0.02643
+293.15 0.02524
+298.15 0.02465
+303.15 0.02406
+313.15 0.02287
+323.15 0.02168
+333.15 0.02049
+343.15 0.0193
+353.15 0.01812
+363.15 0.0169

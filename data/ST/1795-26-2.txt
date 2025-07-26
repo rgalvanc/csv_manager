@@ -1,0 +1,78 @@
+#[Nombre]:1-trans-3,5-TRIMETHYLCYCLOHEXANE
+#[CASN]:1795-26-2
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:
+#[Formula]:C9H18
+#[SMILES]:C1[C@](C)([H])(C[C@]([H])(C)(C[C@]1([H])(C)))
+#[Structure]:-CH(CH3)CH2CH(CH3)CH2CH(CH3)CH2-
+#[SYN]:1alpha, 3alpha, 5beta-TRIMETHYLCYCLOHEXANE
+#[MW]:126.239;
+#[TC]:602.2;
+#[PC]:2.84e+06;
+#[VC]:0.472;
+#[ZC]:0.268;
+#[MP]:188.75;
+#[TPT]:188.75;
+#[TPP]:0.0239192;
+#[NBP]:413.7;
+#[HFOR]:-2.0656e+08;
+#[GFOR]:3.995e+07;
+#[ENT]:400000;
+#[HSTD]:-2.50805e+08;
+#[GSTD]:2.959e+07;
+#[SSTD]:286300;
+#[HFUS]:1.04e+07;
+#[HCOM]:-5.555e+09;
+#[ACEN]:0.367112;
+#[RG]:4.44e-10;
+#[DM]:0;
+#[VDWV]:0.0908999;
+#[VDWA]:1.155e+09;
+#[RI]:1.4287;
+#[AIT]:587.15;
+#[HSUB]:5.58e+07;
+#[LVOL]:0.162894;
+#[SOLP]:15990;
+#[FP]:292.15;
+#[FLVU]:6.9;
+#[FLTU]:329;
+#[FLTL]:290.7;
+#[FLVL]:1;
+#[DC]:2.049;
+#[PAR]:361.5;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: Staff
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+188.75 0.036405
+224.07 0.032232
+259.4 0.0283
+294.72 0.024599
+330.04 0.021107
+365.36 0.017795
+400.69 0.014639
+436.01 0.011621
+471.33 0.008736
+506.66 0.005994
+#[Ajuste]: 106
+#2
+#0.057781
+#1.25498
+#[Calidad]: 188.75 0.0360433 602.2 0 4.6 507
+
+
+#[RefID]:5366
+#[Ref]:Doss, M.P.Physical Constants of the Principal Hydrocarbons, 3rd ed., New York City, 1942
+#[Year]:1942
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Undocumented
+#[ESource]: Staff
+#[Error]: < 10%
+#[Acp]: A
+293.15 0.02476

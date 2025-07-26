@@ -1,0 +1,69 @@
+#GEM-Registro: rid=1433 gem_nr=365 110-83-8 cyclohexene
+#[Syn]: cyclohexene
+#[Syn]: Cyclohexen
+#[Syn]: C1CCC=CC1
+#[Syn]: 1,2,3,4-tetrahydrobenzene
+#[Syn]: cyclohexylene
+#[Syn]: Cyclohexylen
+#[Syn]: C6H10
+#id .....:457
+#TabNr   : 519
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97263
+286.65 0.02772
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:1986
+#TabNr   : 2388
+#Tmin    : 290.55
+#Tmax    : 334.95
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62180
+295.85 0.02623
+315.05 0.02396
+334.95 0.02169
+290.55 0.02688
+315.25 0.02389
+334.25 0.02164
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:3220
+#TabNr   : 3560
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96872
+293.15 0.0266 4e-05
+#PRP-14534i.1944
+#Smith,G.W. "The measurement of boundary tension by the pendent-drop method II. Hydrocarbons.",J. Phys. Chem., 48,168-172 (1944)
+#DOI:10.1021/j150436a002
+
+
+#id .....:4223
+#TabNr   : 3891
+#Tmin    : 243.15
+#Tmax    : 343.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2010-NOV/194367
+243.15 0.03328
+253.15 0.03199
+263.15 0.0303
+273.15 0.02925
+283.15 0.02789
+293.15 0.02654
+303.15 0.02522
+313.15 0.02398
+323.15 0.02278
+333.15 0.02154
+343.15 0.02038
+#SLE-40892d.1933
+#Seyer,W.F.;King,E.G. "Systems of sulfur dioxide and hydrogen derivatives of benzene",J. Am. Chem. Soc., 55,3140-3149 (1933)
+#DOI:10.1021/ja01335a015

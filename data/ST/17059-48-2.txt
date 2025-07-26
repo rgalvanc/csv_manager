@@ -1,0 +1,74 @@
+#[Nombre]:1,6-DIMETHYLINDAN
+#[CASN]:17059-48-2
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:INDANES
+#[Formula]:C11H14
+#[SMILES]:CC1CCC2=C1C=C(C=C2)C
+#[Structure]:C6H3(CH3)2(CH2)2(CH)
+#[SYN]:1,6-DIMETHYL-2,3-DIHYDRO-1H-INDENE
+#[SYN]:2,3-DIHYDRO-1,6-DIMETHYL-1H-INDENE
+#[MW]:146.233;
+#[TC]:717.3;
+#[PC]:3.098e+06;
+#[VC]:0.5;
+#[ZC]:0.26;
+#[MP]:199.3;
+#[TPT]:199.3;
+#[TPP]:0.00134;
+#[NBP]:485.15;
+#[LVOL]:0.1576;
+#[HFOR]:5.858e+06;
+#[GFOR]:1.757e+08;
+#[ENT]:408300;
+#[HSTD]:-4.54e+07;
+#[GSTD]:1.591e+08;
+#[SSTD]:291900;
+#[HFUS]:1.41e+07;
+#[HCOM]:-5.976e+09;
+#[ACEN]:0.325863;
+#[RG]:4.592e-10;
+#[SOLP]:17590;
+#[DM]:1.41e-30;
+#[VDWA]:1.216e+09;
+#[VDWV]:0.0979;
+#[RI]:1.5209;
+#[FP]:344;
+#[FLVL]:0.722;
+#[FLTL]:341;
+#[FLVU]:6.2;
+#[FLTU]:390;
+#[AIT]:531;
+#[HSUB]:6.74e+07;
+#[PAR]:372.4;
+#[DC]:2.409;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 10%
+#[Acp]: A
+199.3 0.041542
+229.05 0.038264
+258.8 0.035115
+288.55 0.032095
+318.31 0.029198
+348.06 0.026423
+377.81 0.02376
+407.56 0.0212
+437.31 0.018728
+467.06 0.016331
+496.81 0.013999
+526.56 0.011727
+556.32 0.0095157
+586.07 0.0073795
+615.82 0.0053399
+645.57 0.003436
+#[Ajuste]: 106
+#3
+#0.063724
+#1.3755
+#-0.12493
+#[Calidad]: 199.3 0.0411864 717.3 0 1.2 645.57

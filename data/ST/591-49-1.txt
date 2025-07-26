@@ -1,0 +1,86 @@
+#[Nombre]:1-METHYLCYCLOHEXENE
+#[CASN]:591-49-1
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C7H12
+#[SMILES]:CC1CCCCC=1
+#[Structure]:-C(CH3)C5H9-
+#[SYN]:1-METHYL-1-CYCLOHEXENE
+#[SYN]:1-METHYLCYCLOHEX-1-ENE
+#[SYN]:1-METHYLCYCLOHEXENE-1
+#[SYN]:alpha-METHYLCYCLOHEXENE
+#[SYN]:CYCLOHEXENE, 1-METHYL
+#[MW]:96.1702;
+#[TC]:588.1;
+#[PC]:3.755e+06;
+#[VC]:0.349;
+#[ZC]:0.268;
+#[MP]:152.72;
+#[TPT]:152.72;
+#[TPP]:0.000186;
+#[NBP]:383.45;
+#[LVOL]:0.1192;
+#[HFOR]:-4.332e+07;
+#[GFOR]:9.784e+07;
+#[ENT]:350800;
+#[GSTD]:8.995e+07;
+#[SSTD]:250400;
+#[HFUS]:7.68e+06;
+#[HCOM]:-4.1243e+09;
+#[ACEN]:0.253495;
+#[RG]:3.604e-10;
+#[SOLP]:17310;
+#[DM]:9.61e-31;
+#[VDWA]:8.64e+08;
+#[VDWV]:0.06693;
+#[FLVL]:1.06;
+#[FLTL]:276;
+#[FLVU]:5.9;
+#[FLTU]:307;
+#[HSUB]:5.54e+07;
+#[PAR]:261.8;
+#[DC]:2.242;
+#[HSTD]:-8.115e+07;
+#[FP]:276.15;
+#[AIT]:493.15;
+#[RI]:1.44784;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+152.72 0.03951
+183.33 0.035766
+213.94 0.032198
+244.54 0.028803
+396.14 0.014076
+428.14 0.011271
+460.13 0.008558
+492.12 0.005968
+524.11 0.00356
+556.11 0.001458
+#[Ajuste]: 106
+#3
+#0.056284
+#1.2168
+#0.034164
+#[Calidad]: 152.72 0.0389344 588.1 0 2.13 275.15
+
+
+#[RefID]:4856
+#[Ref]:Huckel, W., Harder, H.Die Oberflachenspannung Einiger Alicyclischer Kohlenwassestoffe, Ber. Dtsch. Chem. Ges., 80, 1947, 357
+#[Year]:1947
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+275.15 0.02532
+304.15 0.02262
+334.15 0.01985
+364.15 0.01708

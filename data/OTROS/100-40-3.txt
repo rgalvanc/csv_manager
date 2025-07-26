@@ -1,0 +1,32 @@
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-04-29
+#[by]:rodrigo
+253.15 0.03116
+283.15 0.02795
+313.15 0.02481
+343.15 0.02174
+373.15 0.01874
+403.15 0.01583
+433.15 0.01300
+463.15 0.01028
+493.15 0.00769
+523.15 0.00524
+553.15 0.00298
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+#[date]:2024-12-10
+#[by]:rodrigo
+ 298.15    26.61
+@
+#[label]:Gharagheizi et al. (2011)
+#[Ref]:Gharagheizi, F., Eslamimanesh, A., Tirandazi, B., Mohammadi, A. H., & Richon, D. (2011). Handling a very large data set for determination of surface tension of chemical compounds using quantitative structure–property relationship strategy. Chemical engineering science, 66(21), 4991-5023.
+#[BibTex]:
+#[date]:2024-12-10
+#[by]:rodrigo
+164.00 0.04288
+460.00 0.01041

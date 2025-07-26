@@ -1,0 +1,137 @@
+#[Nombre]:CYCLOPENTANOL
+#[CASN]:96-41-3
+#[Familia]:CYCLOALIPHATIC ALCOHOLS
+#[SubFamilia]:
+#[Formula]:C5H10O
+#[SMILES]:C1CCC(O)C1
+#[Structure]:-CH2CH2CH2CH(OH)CH2-
+#[SYN]:CYCLOPENTYL ALCOHOL
+#[SYN]:HYDROXYCYCLOPENTANE
+#[SYN]:1-HYDROXYCYCLOPENTANE
+#[SYN]:1-CYCLOPENTANOL
+#[SYN]:CYCLO-PENTANOL
+#[SYN]:CYCLOVALERANOL
+#[MW]:86.1323;
+#[TC]:619.5;
+#[PC]:4.9e+06;
+#[VC]:0.288;
+#[ZC]:0.274;
+#[MP]:255.6;
+#[TPT]:255.6;
+#[TPP]:5.59;
+#[NBP]:413.95;
+#[LVOL]:0.09138;
+#[HFOR]:-2.43e+08;
+#[GFOR]:-1.113e+08;
+#[HSTD]:-3.0029e+08;
+#[GSTD]:-1.278e+08;
+#[SSTD]:206270;
+#[HFUS]:1.5352e+06;
+#[HCOM]:-2.87642e+09;
+#[ACEN]:0.427071;
+#[RG]:3.129e-10;
+#[SOLP]:24480;
+#[DM]:5.7372e-30;
+#[VDWA]:6.86e+08;
+#[VDWV]:0.0546;
+#[RI]:1.4513;
+#[FP]:324.15;
+#[FLVL]:1.41;
+#[FLTL]:321;
+#[FLVU]:9.19;
+#[FLTU]:354;
+#[AIT]:648.15;
+#[HSUB]:6.24e+07;
+#[PAR]:218.3;
+#[DC]:16.81;
+#[ENT]:343100;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+255.6 0.037197
+403.94 0.02153
+434.74 0.018339
+465.53 0.015097
+496.33 0.011803
+527.12 0.0085
+557.91 0.005274
+588.71 0.00229
+#[Ajuste]: 106
+#2
+#0.067869
+#1.1077
+#[Calidad]: 255.6 0.0376467 619.5 0 6.6 588.71
+
+
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+303.15 0.03201
+313.15 0.031
+323.15 0.02998
+333.15 0.02897
+343.15 0.02796
+353.15 0.02695
+363.15 0.02594
+373.15 0.02493
+293.15 0.03302
+
+
+#[RefID]:33022
+#[Ref]:Azizian, S., Bashavard, N.Surface properties of diluted solutions of cyclohexanol and cyclopentanol in ethylene glycol, J. Colloid Interface Sci., 282, 2005, 428-433
+#[Year]:2005
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+323.15 0.02971
+318.15 0.03024
+313.15 0.03064
+308.15 0.03121
+298.15 0.03219
+303.15 0.0317
+
+
+#[RefID]:2132
+#[Ref]:Timmermans, J., Hennault-Roland, Mdme.Travaux du Bureau International d'Etalons Physico-Chimiques. Studies of the Physical Constants of Twenty Organic Compounds, J. Chim. Phys., 34, 1937, 693
+#[Year]:1937
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+288.15 0.0336
+293.15 0.03307
+303.15 0.03212
+
+
+#[RefID]:4856
+#[Ref]:Huckel, W., Harder, H.Die Oberflachenspannung Einiger Alicyclischer Kohlenwassestoffe, Ber. Dtsch. Chem. Ges., 80, 1947, 357
+#[Year]:1947
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Primary
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+353.65 0.02689
+330.75 0.0292
+308.05 0.03149
+291.45 0.03321
+308.05 0.03179
+291.45 0.03294

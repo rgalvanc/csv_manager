@@ -1,0 +1,8 @@
+@m
+#[label]:DiNicola and Pierantozzi (2015)
+#[Ref]:Di Nicola, G., & Pierantozzi, M. (2015). Surface tension of alcohols: a scaled equation and an artificial neural network. Fluid Phase Equilibria, 389, 16-27.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+  863.1 5.203
+  421.65 47.189

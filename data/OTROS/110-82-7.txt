@@ -1,0 +1,431 @@
+@Cm
+#[label]:WW97-31G1
+#[Ref]:Godchot, M., Cauquil, G.: C.R.Hebd.Seances Acad.Sci.192 (1931) 1560
+#[BibTex]:ww
+13.5 23.53
+@Cm
+#[label]:WW97-33M1
+#[Ref]:MacFarlane, W., Wright, R.: J.Chem.Soc. (1933) 114
+#[BibTex]:ww
+25.0 23.94
+@Cm
+#[label]:WW97-35T1
+#[Ref]:Trieschmann, H.G.: Z.Phys.Chem., Abt. B 29 (1935) 328
+#[BibTex]:ww
+22.0 24.65
+@Cm
+#[label]:WW97-38V2
+#[Ref]:
+#[BibTex]:ww
+20.0 25.05
+22.4 24.53
+25.3 24.07
+42.9 22.24
+@Cm
+#[label]:WW97-39W1
+#[Ref]:Wibaut, J.P., Hoog, H., Langedijk, S.L., Overhoff, J.,Smittenberg, J.: Recl.Trav.Chim.Pays-Bas 58 (1939) 329
+#[BibTex]:ww
+20.0 25.0
+@Cm
+#[label]:WW97-42W1
+#[Ref]:
+#[BibTex]:ww
+22.0 24.66
+@Cm
+#[label]:WW97-43W2
+#[Ref]:Wolf, K.L.: Theoretische Chem., Leipzig (1943) 499, 642
+#[BibTex]:ww
+20.0 24.72
+@Cm
+#[label]:WW97-44H1
+#[Ref]:
+#[BibTex]:ww
+20.0 26.07
+40.0 22.95
+60.0 19.92
+70.0 18.52
+@Cm
+#[label]:WW97-44S1
+#[Ref]:Smith, G.W.: J.Phys.Chem. 48 (1944) 168
+#[BibTex]:ww
+20.0 25.2
+@Cm
+#[label]:WW97-47H1
+#[Ref]:Hueckel, W., Harder, H.: Chem.Ber. 80 (1947) 357
+#[BibTex]:ww
+6.4 26.96
+16.3 25.69
+35.5 23.24
+56.8 20.79
+76.8 18.61
+@Cm
+#[label]:WW97-48T2
+#[Ref]:
+#[BibTex]:ww
+20.0 25.1
+@Cm
+#[label]:WW97-50T1
+#[Ref]:Teitel'baum, B.Ya., Gortalova, T.A., Ganelina, S.G.:Kolloidn.Zh. 12 (1950) 294
+#[BibTex]:ww
+10.0 25.84
+15.0 25.36
+20.0 24.74
+25.0 24.25
+30.0 23.63
+35.0 23.08
+40.0 22.39
+45.0 21.77
+50.0 21.28
+55.0 20.66
+60.0 20.25
+@Cm
+#[label]:WW97-53M1
+#[Ref]:Mukherjee, A.K.: J.Indian Chem.Soc. 30 (1953) 670
+#[BibTex]:ww
+30.0 25.4
+60.0 21.5
+@Cm
+#[label]:WW97-64E1
+#[Ref]:Evans, H.B., Jr., Clever, H.L.: J.Phys.Chem. 68 (1964) 3433
+#[BibTex]:ww
+ 30.0  23.77
+@Cm
+#[label]:WW97-68S2
+#[Ref]:Suri, S.K., Ramakrishna, V.: J.Phys.Chem. 72 (1968) 3073
+#[BibTex]:ww
+ 20.0 25.00
+ 30.0 23.85
+@Cm
+#[label]:WW97-70L1
+#[Ref]:Lam, V.T., Benson, G.C.: Can.J.Chem. 24 (1970) 3773
+#[BibTex]:ww
+20.0 24.38
+@Cm
+#[label]:WW97-70R1
+#[Ref]:Ramakrishna, V., Patel, M.: Indian J.Chem. 8 (1970) 256
+#[BibTex]:ww
+35.0 23.23
+@Cm
+#[label]:WW97-70W1
+#[Ref]:Wright, E.H.M., Akhtar, B.A.: J.Chem.Soc. B (1970) 151
+#[BibTex]:ww
+30.0 23.90
+@Cm
+#[label]:WW97-70S2
+#[Ref]:Siskova, M., Secova, V.: Collect.Czech.Chem.Commun. 35 (1970) 2702
+#[BibTex]:ww
+ 20.0  25.00
+ 40.0  22.74
+@Cm
+#[label]:WW97-72M1
+#[Ref]:Mahl, B.S., Chopra, S.L., Singh, P.P.: Z.Phys.Chem. (Leipzig) 249 (1972) 337
+#[BibTex]:ww
+15.0 25.70
+@Cm
+#[label]:WW97-72V1
+#[Ref]:Vargaftik, N.B.: Dictionary of Thermophysical Properties of
+#[BibTex]:ww
+10.0 26.15
+20.0 24.65
+25.0 24.35
+30.0 23.75
+40.0 22.45
+50.0 21.35
+75.0 18.35
+@Cm
+#[label]:WW97-74J1
+#[Ref]:Jain, D.V.S., Singh, S.: Indian J.Chem. 12 (1974) 714
+#[BibTex]:ww
+ 25.0  24.36
+ 35.0  23.40
+ 25.0  24.50
+ 35.0  23.37
+@Cm
+#[label]:WW97-74M1
+#[Ref]:Myers, R.S., Clever, H.L.: J.Chem.Thermodyn. 6 (1974) 949
+#[BibTex]:ww
+30.0 23.47
+@Cm
+#[label]:WW97-76M1
+#[Ref]:Myers, R.S., Angel, G.P., Clever, H.L.: Colloid Interface Sci. (1976) 443
+#[BibTex]:ww
+30.0 23.74
+@Cm
+#[label]:WW97-81K1
+#[Ref]:Koroesi, G., Kovats, E. sz.: J.Chem.Eng.Data 26 (1981) 323
+#[BibTex]:ww
+ 20.0   25.16
+ 80.0   17.99
+@Cm
+#[label]:WW97-83M1
+#[Ref]:McLure, I.A., Edmonds, B., Lal, M.: J.Colloid Interface Sci. 91 (1983) 361
+#[BibTex]:ww
+30.0 23.80
+@Cm
+#[label]:WW97-84S1
+#[Ref]:Siskova, M., Hampl, P.: Collect.Czech.Chem.Commun. 49 (1984) 903
+#[BibTex]:ww
+20.0 25.04
+@Cm
+#[label]:WW97-91S1
+#[Ref]:Segado, A.R., Aguilar, A.M., Patino, J.M.R.: Tenside Surf.Det. 28 (1991) 132
+#[BibTex]:ww
+ 10.0  26.1
+ 20.0  25.0
+ 30.0  24.0
+ 40.0  22.9
+ 50.0  21.6
+ 60.0  20.5
+@Cm
+#[label]:WW97-92K1
+#[Ref]:Kanade, B.V., Vakharia, M.N., Pandya, M.V., Patel, B.M., Patel, A.T., Oswal, S.L.: Indian J.Technol. 30 (1992) 308
+#[BibTex]:ww97
+30.0 23.83
+@Cm
+#[label]:WW97-92S1
+#[Ref]: Segado, A.R., Aguilar, A.M., Patino, J.M.R.: Tenside Surf.Det.28 (1992) 132
+#[BibTex]:ww
+10.0 26.1
+20.0 25.0
+30.0 24.0
+40.0 22.9
+50.0 21.6
+60.0 20.5
+@Cm
+#[label]:WW97-94H1
+#[Ref]:Herrmann, L.: diploma thesis, Martin-Luther-Universitaet Halle-Wittenberg (1994)
+#[BibTex]:ww
+20.0 24.70
+@m
+#[label]:WW97-96K1
+#[Ref]:Kaur, S., Lark, B.S., Aggarwal, S.K., Singh, S.: Indian J.Chem. A 35 (1996) 832
+#[BibTex]:ww
+298.15 24.42
+308.15 23.22
+@m
+#[label]:WW97-96W1
+#[Ref]:Wadewitz, T.: unpublished data, personal communication (1996)
+#[BibTex]:ww
+279.335   26.37
+282.82    25.99
+287.81    25.35
+297.81    24.20
+307.86    23.02
+317.855   21.84
+327.88    20.71
+337.93    19.57
+@m
+#[label]:WW08-2001GOM1
+#[Ref]:Gomez-Diaz, D., Mejuto, J.C., Navaza, J.M.: J. Chem. Eng. Data 46 (2001) 720.
+#[BibTex]:ww
+ 298.15  25.10
+ 303.15  24.10
+ 308.15  23.50
+ 313.15  22.90
+ 318.15  22.20
+ 323.15  21.70
+@m
+#[label]:WW08-2001PAN1
+#[Ref]:Pandey, J.D., Soni, N.K., Singh, V.K., Sanguri, V.: Phys. Chem. Liq. 39 (2001) 763.
+#[BibTex]:ww
+298.15  24.01
+@m
+#[label]:WW08-2003KAH1
+#[Ref]:Kahl, H., Wadewitz, T., Winkelmann, J.: J. Chem. Eng. Data 48 (2003) 580.
+#[BibTex]:ww
+279.33  26.37
+282.82  25.99
+287.81  25.34
+297.82  24.20
+307.86  23.02
+317.86  21.84
+327.88  20.71
+337.93  19.57
+@m
+#[label]:WW08-2003KAH2
+#[Ref]:Kahl, H., Wadewitz, T., Winkelmann, J.: J. Chem. Eng. Data 48 (2003) 1500.
+#[BibTex]:ww
+ 287.81  25.34
+ 297.82  24.20
+ 307.86  23.02
+ 317.86  21.84
+@m
+#[label]:WW08-2006AZI1
+#[Ref]:Azizian, S., Bashavard, N., Yakyaei, B.: J. Chem. Eng. Data 51 (2006) 56.
+#[BibTex]:ww
+293.15  25.06
+298.15  24.45
+313.15  22.71
+@m
+#[label]:WW08-2006ROM2
+#[Ref]:Romero, C., Giner, B., Haro, M., Artigas, H., Lafuente, C.: J. Chem. Thermodynamics 38 (2006) 871.
+#[BibTex]:ww
+ 283.15  26.28
+ 298.15  24.73
+ 313.15  22.93
+@m
+#[label]:WW16-2008AZI1
+#[Ref]:Azizian, S., Bashavard, N.: J. Chem. Eng. Data 53 (2008) 2422, 2919
+#[BibTex]:ww
+ 293.15    25.06
+ 298.15    24.45
+ 303.15    23.87
+ 308.15    23.21
+ 313.15    22.71
+ 318.15    22.05
+ 323.15    21.45
+@Cm
+#[label]:Lam and Benson (1970)
+#[Ref]:Lam, V. T., & Benson, G. C. (1970). Surface tensions of binary liquid systems. I. Mixtures of nonelectrolytes. Canadian Journal of Chemistry, 48(24), 3773-3781.
+#[BibTex]:
+#[date]:2025-03-18
+#[by]:rodrigo
+20  24.81
+25  24.38
+30  23.78
+@Cm
+#[label]: Jasper (1972)
+#[Ref]:Jasper, J. J. (1972). The surface tension of pure liquid compounds. Journal of physical and chemical reference data, 1(4), 841-1010.
+#[BibTex]: Jasper (1972)
+ 5  27.13
+ 10 26.43
+ 20 25.21
+ 30 24.06
+ 40 22.87
+ 50 21.68
+ 60 20.49
+ 70 19.30
+@
+#[label]:DETHERM-Hopfe1990
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-03-1
+#[by]:rodrigo
+293.15 0.02498
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+273.15 0.02770
+298.15 0.02470
+323.15 0.02170
+348.15 0.01874
+373.15 0.01580
+398.15 0.01302
+423.15 0.01040
+448.15 0.00797
+473.15 0.00570
+498.15 0.00360
+523.15 0.00170
+@Cm
+#[label]:Lubetkin et al. (1996)
+#[Ref]:Lubetkin, S. D., & Akhtar, M. (1996). The variation of surface tension and contact angle under applied pressure of dissolved gases, and the effects of these changes on the rate of bubble nucleation. Journal of colloid and interface science, 180(1), 43-60.
+#[BibTex]:
+#[date]:2025-04-18
+#[by]:rodrigo
+25 25.7
+@m
+#[label]: Gómez-Díaz et al. (2002)
+#[Ref]:Gómez-Díaz, D., Mejuto, J. C., Navaza, J. M., & Rodríguez-Álvarez, A. (2002). Viscosities, densities, surface tensions, and refractive indexes of 2, 2, 4-trimethylpentane+ cyclohexane+ decane ternary liquid systems at 298.15 K. Journal of Chemical & Engineering Data, 47(4), 872-875.
+#[BibTex]:
+298.15 24.92
+@Cm
+#[label]:Chong-Hui Gu et al. (2004)
+#[Ref]:Gu, C. H., Li, H., Gandhi, R. B., & Raghavan, K. (2004). Grouping solvents by statistical analysis of solvent property parameters: implication to polymorph screening. International journal of pharmaceutics, 283(1-2), 117-125.
+#[date]:2025-04-18
+#[by]:rodrigo
+25 24.648
+@m
+#[label]:Villares (2005)
+#[Ref]:Villares, A., Giner, B., Artigas, H., Lafuente, C., Royo, F.M.: J. Solution Chem. 34 (2005) 185.
+#[BibTex]:villares2005study
+298.15 24.57
+313.15 22.83
+@m
+#[label]:Jouyban et al.(2011)
+#[Ref]:Jouyban, A., Fakhree, M. A., Shayanfar, A., & Ghafourian, T. (2011). QSPR modeling using Catalan solvent and solute parameters. Journal of the Brazilian Chemical Society, 22, 684-692.
+#[BibTex]:
+#[date]:2025-02-28
+#[by]:rodrigo
+298.15 24.98
+@
+#[label]: Zheng et al. (2017)
+#[Ref]:Tian, J., Zheng, M., Yi, H., Zhang, L., & Liu, S. (2017). Corresponding state-based correlations for the surface tension of saturated fluids. Modern Physics Letters B, 31(10), 1750110.
+#[BibTex]:
+ 279.47 0.0269
+@
+#[label]:DETHERM-Wang2011
+#[Ref]:Wang,J.Y.;Zhang,X.J.;Liu,Y.M.;Hu,Y.Q., "Interfacial Tensions of Imidazolium-Based Ionic Liquids with N-Alkanes and Cyclohexane", J. Chem. Eng. Data, 56, 10, 3734-3737, 2011 0021-9568
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+288.15 0.02558
+298.15 0.02473
+308.15 0.02326
+318.15 0.02222
+328.15 0.02132
+@
+#[label]:DETHERM-Yang2019
+#[Ref]:Yang,H.E.;Bae,Y.C., "Thermodynamic analysis of phase equilibrium and surface tension of ternary polymer solutions", AIChE J., 65, 9, 16679-1-16679-10, 2019 0001-1541
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+308.15 0.023
+@m
+#[label]:Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). "Surface tension—Organic compounds". In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTex]:Yaws and Richmond (2009)
+ 298.15    24.65
+@m
+#[label]:Biscay et al. (2009)
+#[Ref]:Biscay, F., Ghoufi, A., Lachet, V., & Malfreyt, P. (2009). Calculation of the surface tension of cyclic and aromatic hydrocarbons from Monte Carlo simulations using an anisotropic united atom model (AUA). Physical Chemistry Chemical Physics, 11(29), 6132-6147.
+#[BibTex]:
+#[date]:2025-03-21
+#[by]:rodrigo
+300 24.4
+350 18.5
+400 12.9
+450 7.9
+@m
+#[label]:Alekperov and Mirzayeva (2022)
+#[Ref]:Alekperov, A. S., & Mirzayeva, G. G. SURFACE TENSION OF CYCLIC LIQUID HYDROCARBONS. Physical Research, 4(3), 160-164.
+#[BibTex]:
+#[date]:2025-03-22
+#[by]:rodrigo
+273  26.87
+283  26.15
+293  24.95
+298  24.35
+303  23.75
+313  22.45
+323  21.35
+348  18.35
+!373  17.22
+@m
+#[label]:Damp et al.(2024)
+#[Ref]: Damp, P., Sun, Y., Schulz, P. S., Koller, T. M., & Fröba, A. P. (2024). Liquid Viscosity and Surface Tension of Cyclohexane Between 280 and 473 K by Surface Light Scattering. International Journal of Thermophysics, 45(11), 154.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+280.17 25.89
+283.17 25.59
+293.16 24.30
+303.16 23.13
+313.16 22.01
+313.19 22.08
+323.13 20.89
+348.11 18.20
+373.08 15.42
+398.05 12.77
+423.12 10.24
+448.09 7.790
+473.14 5.590
+@m
+#[label]:Wongsawa et al. (2018)
+#[Ref]:Wongsawa, T., Koonsang, T., Kunthakudee, N., Prapasawat, T., Maneeintr, K., & Pancharoen, U. (2018). The experimental investigations on viscosity, surface tension, interfacial tension and solubility of the binary and ternary systems for tributyl phosphate (TBP) extractant in various organic solvents with water: Thermodynamic NRTL model and molecular interaction approach. Journal of Molecular Liquids, 251, 229-237.
+#[BibTex]:
+#[date]:2025-04-18
+#[by]:rodrigo
+303.2 23.0

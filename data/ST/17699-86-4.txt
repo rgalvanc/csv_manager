@@ -1,0 +1,66 @@
+#[Nombre]:1-METHYL-4-VINYLCYCLOHEXENE
+#[CASN]:17699-86-4
+#[Familia]:CYCLOALKENES
+#[SubFamilia]:
+#[Formula]:C9H14
+#[SMILES]:C1(C)=CCC(C=C)CC1
+#[Structure]:-C(CH3)CHCH2CH(CHCH2)CH2CH2-
+#[MW]:122.207;
+#[TC]:626;
+#[PC]:3.12e+06;
+#[VC]:0.437;
+#[ZC]:0.262;
+#[MP]:180.6;
+#[TPT]:180.6;
+#[TPP]:0.0017;
+#[NBP]:425.15;
+#[HFOR]:3.642e+07;
+#[GFOR]:2.044e+08;
+#[ENT]:402300;
+#[HSTD]:-8.83699e+06;
+#[GSTD]:1.917e+08;
+#[SSTD]:293200;
+#[HFUS]:;
+#[HCOM]:-5.2251e+09;
+#[ACEN]:0.344497;
+#[RG]:4.266e-10;
+#[DM]:0;
+#[VDWV]:0.08334;
+#[VDWA]:1.111e+09;
+#[RI]:1.4701;
+#[AIT]:655;
+#[HSUB]:5.59e+07;
+#[LVOL]:0.14355;
+#[SOLP]:17260;
+#[FLVL]:0.9;
+#[FLTL]:305;
+#[FLVU]:5.7;
+#[FLTU]:342;
+#[FP]:307;
+#[DC]:2.178;
+#[PAR]:324.23;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+223 0.0341094
+257.04 0.0303284
+291.08 0.0267495
+325.12 0.0233613
+359.16 0.0201432
+393.2 0.017066
+427.24 0.0141001
+461.28 0.0112275
+495.32 0.00845147
+529.36 0.00580335
+563.4 0.00335315
+#[Ajuste]: 106
+#2
+#0.058586
+#1.24465
+#[Calidad]: 180.6 0.0383535 626 0 1.36 495

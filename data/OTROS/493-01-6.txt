@@ -1,0 +1,224 @@
+@cm
+#[label]: WW97-41S1
+#[Ref]:Seyer, W.F., Davenport, C.H.: J.Amer.Chem.Soc. 63 (1941) 2425
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ -30.0    38.02
+ -20.0    36.83
+ -10.0    35.65
+ 0.0      34.50
+ 10.0     33.36
+ 20.0     32.18
+ 30.0     31.01
+ 40.0     29.81
+ 50.0     28.63
+ 60.0     27.67
+ 70.0     26.82
+ 80.0     25.88
+ 90.0     24.95
+ 100.0    24.04
+ 110.0    23.14
+ 120.0    22.25
+ 130.0    21.38
+ 140.0    20.56
+ 150.0    19.76
+ 160.0    18.89
+ 170.0    18.04
+ 180.0    17.18
+@Cm
+#[label]: WW97-44H1
+#[Ref]:
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0      31.97
+ 40.0      30.02
+ 60.0      28.12
+ 80.0      26.30
+ 100.0     24.45
+ 155.0     19.12
+@Cm
+#[label]: WW97-70L1
+#[Ref]:Lam, V.T., Benson, G.C.: Can.J.Chem. 24 (1970) 3773
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 25.0   32.24
+@Cm
+#[label]: WW97-81K1
+#[Ref]:Koroesi, G., Kovats, E. sz.: J.Chem.Eng.Data 26 (1981) 323
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0      32.18
+ 80.0      26.41
+@m
+#[label]: WW97-87S1
+#[Ref]:Stephan, K., Hildwein, H.: Recommended Data of Selected Compounds and Binary Mixtures, Chemistry Data Series Vol. IV, Pts. 1+2, DECHEMA (1987)
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 230.18   38.666
+ 235.0    38.156
+ 240.0    37.630
+ 245.0    37.105
+ 250.0    36.581
+ 255.0    36.060
+ 260.0    35.540
+ 265.0    35.021
+ 270.0    34.505
+ 275.0    33.990
+ 280.0    33.477
+ 285.0    32.965
+ 290.0    32.456
+ 295.0    31.948
+ 300.0    31.442
+ 305.0    30.938
+ 310.0    30.436
+ 315.0    29.936
+ 320.0    29.437
+ 325.0    28.941
+ 330.0    28.446
+ 335.0    27.953
+ 340.0    27.463
+ 345.0    26.974
+ 350.0    26.487
+ 355.0    26.002
+ 360.0    25.520
+ 365.0    25.039
+ 370.0    24.560
+ 375.0    24.084
+ 380.0    23.609
+ 385.0    23.137
+ 390.0    22.667
+ 395.0    22.199
+ 400.0    21.733
+ 405.0    21.270
+ 410.0    20.809
+ 415.0    20.350
+ 420.0    19.894
+ 425.0    19.439
+ 430.0    18.988
+ 435.0    18.538
+ 440.0    18.091
+ 445.0    17.647
+ 450.0    17.205
+ 455.0    16.765
+ 460.0    16.329
+ 465.0    15.895
+ 470.0    15.463
+ 475.0    15.034
+ 480.0    14.608
+ 485.0    14.185
+ 490.0    13.764
+ 495.0    13.347
+ 500.0    12.932
+ 505.0    12.521
+ 510.0    12.112
+ 515.0    11.707
+ 520.0    11.304
+ 525.0    10.905
+ 530.0    10.509
+ 535.0    10.117
+ 540.0    9.7275
+ 545.0    9.3419
+ 550.0    8.9598
+ 555.0    8.5814
+ 560.0    8.2067
+ 565.0    7.8358
+ 570.0    7.4689
+ 575.0    7.1060
+ 580.0    6.7472
+ 585.0    6.3927
+ 590.0    6.0426
+ 595.0    5.6970
+ 600.0    5.3561
+ 605.0    5.0200
+ 610.0    4.6889
+ 615.0    4.3630
+ 620.0    4.0426
+ 625.0    3.7278
+ 630.0    3.4189
+ 635.0    3.1161
+ 640.0    2.8199
+ 645.0    2.5306
+ 650.0    2.2485
+ 655.0    1.9743
+ 660.0    1.7084
+ 665.0    1.4515
+ 670.0    1.2046
+ 675.0    0.9686
+ 680.0    0.7451
+ 685.0    0.5358
+ 690.0    0.3438
+ 695.0    0.1940
+ 700.0    0.0376
+@m
+#[label]: WW16-2009TSI1
+#[Ref]:Tsierkezos, N.G., Molinou, I.E.: Phys. Chem. Liq. 47 (2009) 172
+#[BibTeX]: WW16
+#[date]:2024-11-28
+#[by]:rodrigo
+ 283.15  33.1
+ 288.15  32.8
+ 298.15  32.1
+ 303.15  31.8
+@m
+#[label]: Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTeX]: Yaws and Richmond (2009)
+#[date]:2024-11-28
+#[by]:rodrigo
+ 298.15  31.66
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTeX]:
+#[date]:2024-11-29
+#[by]:rodrigo
+ 20.0   32.18
+ 70.0   26.82
+@Cm
+#[label]:Goussard et al. (2017)
+#[Ref]:Goussard, V., Duprat, F., Gerbaud, V., Ploix, J. L., Dreyfus, G., Nardello-Rataj, V., & Aubry, J. M. (2017). Predicting the surface tension of liquids: Comparison of four modeling approaches and application to cosmetic oils. Journal of chemical information and modeling, 57(12), 2986-2995.
+#[date]:2025-03-12
+25  30.6
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+243.15 0.03802
+278.15 0.03393
+313.15 0.02981
+348.15 0.02633
+383.15 0.02314
+418.15 0.02014
+453.15 0.01718
+488.15 0.01431
+523.15 0.01154
+558.15 0.00888
+593.15 0.00635
+@
+#[label]:DETHERM-Hopfe
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+293.15 0.03218
+@m
+#[label]:Naderifar et al.(2022)
+#[Ref]:Mir, S., Naderifar, A., Rahidi, A., & Alaei, M. (2022). Developing a facile graphitic carbon nitride (g-C3N4)-coated stainless steel mesh with different superhydrophilic/underwater superoleophobic and superoleophilic behavior for oil–water separation. Environmental Science and Pollution Research, 29(44), 66888-66901.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+293.15 31.5
+@Cm
+#[label]:Moreno et al.(2024)
+#[Ref]:Bailón Moreno, R., Bailón Ruiz, M. Á., & Shaikhah Arafat Aljadiri, A. (2024). Free Surface Energy and Hansen Solubility Parameter Vector Field. Interface Thickness.
+#[BibTex]:
+#[date]:2025-03-12
+#[by]:rodrigo
+25  31

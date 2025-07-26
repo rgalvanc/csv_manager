@@ -1,0 +1,70 @@
+#[Nombre]:CYCLOPROPANE
+#[CASN]:75-19-4
+#[Familia]:CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C3H6
+#[SMILES]:C1CC1
+#[Structure]:-CH2CH2CH2-
+#[SYN]:REFRIGERANT C270
+#[SYN]:TRIMETHYLENE
+#[MW]:42.0797;
+#[TC]:398;
+#[PC]:5.54e+06;
+#[VC]:0.162;
+#[ZC]:0.271;
+#[MP]:145.59;
+#[TPT]:145.59;
+#[TPP]:77.9601;
+#[NBP]:240.37;
+#[HFOR]:5.33e+07;
+#[GFOR]:1.044e+08;
+#[ENT]:237378;
+#[HSTD]:5.33e+07;
+#[GSTD]:1.044e+08;
+#[SSTD]:237378;
+#[HFUS]:5.44e+06;
+#[HCOM]:-1.9593e+09;
+#[ACEN]:0.127829;
+#[RG]:2.12e-10;
+#[DM]:0;
+#[VDWV]:0.03069;
+#[VDWA]:4.05e+08;
+#[RI]:1.3799;
+#[AIT]:771;
+#[HSUB]:2.9266e+07;
+#[LVOL]:0.0698958;
+#[SOLP]:14400;
+#[FLVL]:2.4;
+#[FLTL]:179;
+#[FLVU]:10.4;
+#[FLTU]:198;
+#[FP]:180;
+#[DC]:1.909;
+#[PAR]:132.6;
+#[HLC]:479195;
+#[SOLW]:0.000211448;
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Predicted
+#[Error]: < 5%
+#[Acp]: A
+145.59 0.037339
+166.59 0.033371
+187.59 0.029589
+208.59 0.02597
+229.59 0.022482
+250.59 0.019096
+271.59 0.015794
+292.59 0.012578
+313.59 0.0094702
+334.59 0.0065239
+355.59 0.0038307
+#[Ajuste]: 106
+#2
+#0.065892
+#1.2513
+#[Calidad]: 145.59 0.03727 398 0 4.4 356

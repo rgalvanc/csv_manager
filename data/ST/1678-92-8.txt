@@ -1,0 +1,86 @@
+#[Nombre]:n-PROPYLCYCLOHEXANE
+#[CASN]:1678-92-8
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C9H18
+#[SMILES]:C1CCCCC1CCC
+#[Structure]:(C6H11)CH2CH2CH3
+#[MW]:126.239;
+#[TC]:627;
+#[PC]:2.86e+06;
+#[VC]:0.483;
+#[ZC]:0.265;
+#[MP]:178.25;
+#[TPT]:178.25;
+#[TPP]:0.000874;
+#[NBP]:429.897;
+#[LVOL]:0.1599;
+#[HFOR]:-1.933e+08;
+#[GFOR]:4.757e+07;
+#[ENT]:419890;
+#[HSTD]:-2.374e+08;
+#[GSTD]:3.504e+07;
+#[SSTD]:314000;
+#[HCOM]:-5.47966e+09;
+#[ACEN]:0.353625;
+#[RG]:4.367e-10;
+#[SOLP]:16290;
+#[DM]:0;
+#[VDWA]:1.157e+09;
+#[VDWV]:0.09092;
+#[RI]:1.43478;
+#[FP]:308.15;
+#[FLVL]:0.781;
+#[FLTL]:304;
+#[FLVU]:5.54;
+#[FLTU]:343;
+#[AIT]:521.15;
+#[HSUB]:6.31e+07;
+#[PAR]:361.5;
+#[DC]:2.072;
+#[HFUS]:1.037e+07;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+323.15 0.0238
+343.15 0.0219
+333.15 0.02288
+313.15 0.02471
+303.15 0.02563
+298.15 0.02608
+293.15 0.02654
+283.15 0.02746
+273.15 0.0284
+263.15 0.0293
+#[Ajuste]: 106
+#2
+#0.058546
+#1.2424
+#[Calidad]: 178.25 0.0386387 627 0 2.53 595.46
+
+
+#[RefID]:1341
+#[Ref]:Sugden, S.The Variation of Surface Tension with Temperature and Some Related Functions, J. Chem. Soc., Trans., 125, 1924, 32
+#[Year]:1924
+#[DataType]: Predicted
+#[SType]: Staff
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+178.25 0.039336
+220.7 0.034361
+374.69 0.018824
+406.23 0.01603
+437.77 0.013321
+469.31 0.010687
+500.84 0.008133
+532.38 0.005683
+563.92 0.003395
+595.46 0.001392

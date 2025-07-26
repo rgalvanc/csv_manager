@@ -1,0 +1,82 @@
+#[Nombre]:n-OCTYLCYCLOHEXANE
+#[CASN]:1795-15-9
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C14H28
+#[SMILES]:C(CCCC1)(C1)CCCCCCCC
+#[Structure]:-CH((CH2)7CH3)(CH2)4CH2-
+#[SYN]:1-CYCLOHEXYL-OCTANE
+#[SYN]:OCTYLCYCLOHEXANE
+#[SYN]:1-CYCLOHEXYLOCTANE
+#[SYN]:n-OCTYL-CYCLOHEXANE
+#[SYN]:OCTANE, 1-CYCLOHEXYL
+#[SYN]:CYCLOHEXANE, n-OCTYL-
+#[MW]:196.372;
+#[TC]:717.7;
+#[PC]:1.863e+06;
+#[VC]:0.798;
+#[ZC]:0.249;
+#[TPT]:249;
+#[TPP]:0.00699;
+#[NBP]:536.75;
+#[LVOL]:0.242;
+#[HFOR]:-2.956e+08;
+#[GFOR]:8.942e+07;
+#[ENT]:618500;
+#[HSTD]:-3.627e+08;
+#[GSTD]:6.293e+07;
+#[SSTD]:482300;
+#[HFUS]:3.0125e+07;
+#[HCOM]:-8.532e+09;
+#[ACEN]:0.618089;
+#[RG]:6.67e-10;
+#[SOLP]:16440;
+#[DM]:0;
+#[VDWA]:1.832e+09;
+#[VDWV]:0.1421;
+#[RI]:1.4484;
+#[FP]:383;
+#[FLVL]:0.503;
+#[FLTL]:379;
+#[FLVU]:3.97;
+#[FLTU]:426;
+#[AIT]:513;
+#[HSUB]:1.02e+08;
+#[PAR]:558.4;
+#[DC]:2.109;
+#[MP]:249;
+#[RefID]:14109
+#[Ref]:Thermodynamics Research CenterTRC Thermodynamic Tables - Hydrocarbons, The Texas A & M University System, College Station, TX, 1998
+#[Year]:1998
+#[DataType]: Not Specified
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+333.15 0.0253
+323.15 0.0262
+313.15 0.027
+303.15 0.0279
+298.15 0.0284
+293.15 0.0288
+283.15 0.0297
+273.15 0.0306
+263.15 0.0315
+#[Ajuste]: 106
+#2
+#0.057324
+#1.3104
+#[Calidad]: 249 0.0327982 717.7 0 0.17 313.15
+
+
+#[RefID]:14931
+#[Ref]:Daubert, T.E., Danner, R.P.Technical Data Book - Petroleum Refining, 6th Ed., American Petroleum Institute, Washington, D.C., 1997
+#[Year]:1997
+#[DataType]: Not Specified
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 5%
+#[Acp]: A
+298.15 0.0284

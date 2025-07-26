@@ -1,0 +1,70 @@
+#[Nombre]:ETHYLCYCLOHEXANE
+#[CASN]:1678-91-7
+#[Familia]:ALKYLCYCLOHEXANES
+#[SubFamilia]:N-CYCLOHEXANES
+#[Formula]:C8H16
+#[SMILES]:C1CCCCC1(CC)
+#[Structure]:(C6H11)CH2CH3
+#[MW]:112.213;
+#[TC]:604;
+#[PC]:3.25e+06;
+#[VC]:0.419;
+#[ZC]:0.271;
+#[MP]:161.5;
+#[TPT]:161.5;
+#[TPP]:0.000315;
+#[NBP]:404.945;
+#[LVOL]:0.143036;
+#[HFOR]:-1.716e+08;
+#[GFOR]:4.028e+07;
+#[ENT]:380700;
+#[HSTD]:-2.121e+08;
+#[GSTD]:2.954e+07;
+#[SSTD]:280910;
+#[HFUS]:8.3341e+06;
+#[HCOM]:-4.87051e+09;
+#[ACEN]:0.311298;
+#[RG]:3.932e-10;
+#[SOLP]:16300;
+#[DM]:0;
+#[VDWA]:1.022e+09;
+#[VDWV]:0.08069;
+#[RI]:1.43073;
+#[FP]:291.15;
+#[FLVL]:0.9;
+#[FLTL]:287;
+#[FLVU]:6.6;
+#[FLTU]:326;
+#[AIT]:523;
+#[HSUB]:5.73e+07;
+#[PAR]:319.8;
+#[DC]:2.054;
+#[SOLW]:6.10154e-07;
+#[HLC]:2.78113e+06;
+#[ACCW]:1.62673e+06;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+353.15 0.0193
+343.15 0.0204
+333.15 0.02146
+323.15 0.02251
+313.15 0.02356
+303.15 0.02462
+298.15 0.02514
+293.15 0.02567
+283.15 0.02673
+273.15 0.02778
+263.15 0.0283
+253.15 0.0299
+#[Ajuste]: 106
+#2
+#0.059837
+#1.2797
+#[Calidad]: 161.5 0.0401839 604 0 1.67 263.15

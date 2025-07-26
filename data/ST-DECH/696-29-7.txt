@@ -1,0 +1,17 @@
+#GEM-Registro: rid=956 gem_nr=1542 696-29-7 (1-methylethyl)cyclohexane
+#[Syn]: (1-methylethyl)cyclohexane
+#[Syn]: (1-Methylethyl)cyclohexan
+#[Syn]: C1CCCCC1C(C)C
+#[Syn]: isopropylcyclohexane
+#[Syn]: Isopropylcyclohexan
+#[Syn]: C9H18
+#id .....:1019
+#TabNr   : 2890
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/88181
+293.15 0.02646 3e-05
+#PRP-13328i.1939
+#Wibaut,J.P.;Hoog,H.;Langedyk,S.L.;Overhoff,J.;Smittenberg,J. "A study on the preparation and the physical constants of a number of alkanes and cycloalkanes",Recl. Trav. Chim. Pays Bas, 58,329-376 (1939)
+#DOI:10.1002/recl.19390580409

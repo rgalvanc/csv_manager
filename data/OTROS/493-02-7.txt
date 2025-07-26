@@ -1,0 +1,209 @@
+@Cm
+#[label]: WW97-41S1
+#[Ref]:Seyer, W.F., Davenport, C.H.: J.Amer.Chem.Soc. 63 (1941) 2425
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ -30.0    35.29
+ -20.0    34.14
+ -10.0    32.95
+ 0.0      31.91
+ 10.0     30.87
+ 20.0     29.89
+ 30.0     28.87
+ 40.0     27.81
+ 50.0     26.77
+ 60.0     25.82
+ 70.0     24.82
+ 80.0     23.95
+ 90.0     23.02
+ 100.0    22.02
+ 110.0    21.05
+ 120.0    20.22
+ 130.0    19.39
+ 140.0    18.65
+ 150.0    17.85
+ 160.0    16.98
+ 170.0    16.17
+ 180.0    15.44
+@Cm
+#[label]: WW97-44H1
+#[Ref]:
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0    30.56
+ 40.0    28.71
+ 60.0    26.60
+ 80.0    24.38
+ 100.0   22.08
+ 155.0   17.01
+@Cm
+#[label]: WW97-70L1
+#[Ref]:Lam, V.T., Benson, G.C.: Can.J.Chem. 24 (1970) 3773
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+25.0    29.97
+@Cm
+#[label]: WW97-70R1
+#[Ref]:Ramakrishna, V., Patel, M.: Indian J.Chem. 8 (1970) 256
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+40.0    28.20
+@Cm
+#[label]: WW97-81K1
+#[Ref]:Koroesi, G., Kovats, E. sz.: J.Chem.Eng.Data 26 (1981) 323
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 20.0 30.15
+ 80.0 24.59
+@m
+#[label]: WW97-87S1
+#[Ref]:Stephan, K., Hildwein, H.: Recommended Data of Selected Compounds and Binary Mixtures, Chemistry Data Series Vol. IV, Pts. 1+2, DECHEMA (1987)
+#[BibTeX]: WW97
+#[date]:2024-11-28
+#[by]:rodrigo
+ 242.78   34.857
+ 245.0    34.631
+ 250.0    34.124
+ 255.0    33.619
+ 260.0    33.116
+ 265.0    32.615
+ 270.0    32.115
+ 275.0    31.617
+ 280.0    31.121
+ 285.0    30.627
+ 290.0    30.134
+ 295.0    29.643
+ 300.0    29.154
+ 305.0    28.667
+ 310.0    28.182
+ 315.0    27.699
+ 320.0    27.218
+ 325.0    26.738
+ 330.0    26.261
+ 335.0    25.785
+ 340.0    25.312
+ 345.0    24.841
+ 350.0    24.371
+ 355.0    23.904
+ 360.0    23.438
+ 365.0    22.975
+ 370.0    22.514
+ 375.0    22.055
+ 380.0    21.598
+ 385.0    21.144
+ 390.0    20.691
+ 395.0    20.241
+ 400.0    19.793
+ 405.0    19.348
+ 410.0    18.905
+ 415.0    18.464
+ 420.0    18.025
+ 425.0    17.589
+ 430.0    17.156
+ 435.0    16.725
+ 440.0    16.296
+ 445.0    15.870
+ 450.0    15.446
+ 455.0    15.026
+ 460.0    14.607
+ 465.0    14.192
+ 470.0    13.779
+ 475.0    13.369
+ 480.0    12.962
+ 485.0    12.558
+ 490.0    12.157
+ 495.0    11.759
+ 500.0    11.364
+ 505.0    10.972
+ 510.0    10.583
+ 515.0    10.197
+ 520.0    9.8149
+ 525.0    9.4359
+ 530.0    9.0603
+ 535.0    8.6883
+ 540.0    8.3199
+ 545.0    7.9552
+ 550.0    7.5942
+ 555.0    7.2371
+ 560.0    6.884
+ 565.0    6.5350
+ 570.0    6.1902
+ 575.0    5.8497
+ 580.0    5.5136
+ 585.0    5.1822
+ 590.0    4.8555
+ 595.0    4.5338
+ 600.0    4.2172
+ 605.0    3.9059
+ 610.0    3.6002
+ 615.0    3.3003
+ 620.0    3.0065
+ 625.0    2.7191
+ 630.0    2.4385
+ 635.0    2.1651
+ 640.0    1.8993
+ 645.0    1.6418
+ 650.0    1.3932
+ 655.0    1.1543
+ 660.0    0.9263
+ 665.0    0.7104
+ 670.0    0.5087
+ 675.0    0.3240
+@m
+#[label]: Yaws and Richmond (2009)
+#[Ref]:Yaws, C. L., & Richmond, P. C. (2009). Surface tension—Organic compounds. In Thermophysical Properties of Chemicals and Hydrocarbons (pp. 686-781).
+#[BibTeX]: Yaws and Richmond (2009)
+#[date]:2024-11-28
+#[by]:rodrigo
+ 298.15  29.38
+@Cm
+#[label]:Quayle (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTeX]:
+#[date]:2024-11-29
+#[by]:rodrigo
+ 20.0   29.89
+ 70.0   24.82
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+273.15	0.03191
+303.15	0.02887
+333.15	0.02582
+363.15	0.02298
+393.15	0.02022
+423.15	0.01781
+453.15	0.01544
+483.15	0.01308
+513.15	0.01080
+543.15	0.00859
+573.15	0.00648
+@
+#[label]:DETHERM-Hopfe
+#[Ref]:Hopfe,D., "Thermophysical data of Pure Substances", Data Compilation of FIZ CHEMIE Germany, 1, 1990
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+293.15 0.02989
+@
+#[label]:DETHERM-Luning
+#[Ref]:Luning-Prak,D.J.;Mungan,A.L.;Cowart,J.S.;Trulove,P.C., "Densities, Viscosities, Speeds of Sound, Bulk Moduli, Surface Tensions, and Flash Points of Binary Mixtures of Ethylcyclohexane or Methylcyclohexane with n-Dodecane or n-Hexadecane at 0.1 MPa", J. Chem. Eng. Data, 63, 5, 1642-1656, 2018 0021-9568
+#[BibTex]:
+#[date]:2025-02-5
+#[by]:rodrigo
+293.15 0.0305
+@Cm
+#[label]:Pereira et al.(2018)
+#[Ref]:Pereira, C. N., & Vebber, G. C. (2018). A novel semi-empirical method for adjusting solubility parameters to surface tension based on the use of Stefan's rule. Journal of Molecular Liquids, 272, 520-527.
+#[BibTeX]: WW97
+#[date]:2025-03-12
+#[by]:rodrigo
+25.0    29.90

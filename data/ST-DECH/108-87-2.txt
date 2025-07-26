@@ -1,0 +1,105 @@
+#GEM-Registro: rid=1080 gem_nr=176 108-87-2 methylcyclohexane
+#[Syn]: methylcyclohexane
+#[Syn]: Methylcyclohexan
+#[Syn]: C1CCCCC1(C)
+#[Syn]: hexahydrotoluene
+#[Syn]: C7H14
+#id .....:224
+#TabNr   : 2755
+#Tmin    : 291.95
+#Tmax    : 313.85
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/87549
+291.95 0.02386
+313.85 0.02155
+#PRP-13256i.1939
+#Cowan,D.M.;Jeffery,G.H.;Vogel,A.I. "Physical properties and chemical constitution. Part IV. Methylcyclohexane and the multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1862-1865 (1939)
+#DOI:10.1039/jr9390001862
+
+
+#id .....:458
+#TabNr   : 520
+#Tmin    : 286.65
+#Tmax    : 286.65
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/97262
+286.65 0.02421
+#PRP-4243i.1931
+#Godchot,M.;Cauquil,G. "",C. R. Hebd. Seances Acad. Sci., 192,1560-1562 (1931)
+#DOI:
+
+
+#id .....:644
+#TabNr   : 2874
+#Tmin    : 293.15
+#Tmax    : 293.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/88180
+293.15 0.02373 3e-05
+#PRP-13328i.1939
+#Wibaut,J.P.;Hoog,H.;Langedyk,S.L.;Overhoff,J.;Smittenberg,J. "A study on the preparation and the physical constants of a number of alkanes and cycloalkanes",Recl. Trav. Chim. Pays Bas, 58,329-376 (1939)
+#DOI:10.1002/recl.19390580409
+
+
+#id .....:1296
+#TabNr   : 749
+#Tmin    : 303.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/96970
+303.15 0.02276
+#PVD-12206d.1974
+#Myers,R.S.;Clever,H.L. "The surface tension and density of some hydrocarbon + alcohol mixtures at 303.15 K",J. Chem. Thermodyn., 6[10],949-955 (1974)
+#DOI:10.1016/0021-9614(74)90216-X
+
+
+#id .....:1987
+#TabNr   : 2389
+#Tmin    : 293.35
+#Tmax    : 334.25
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/62184
+293.35 0.02357
+314.85 0.02139
+334.25 0.01941
+#PRP-8918i.1938
+#Vogel,A.I. "Physical properties and chemical constitution. Part III. Cyclopentane, cyclohexane, cycloheptane, and some derivatives. The multiplanar structure of the methylcyclohexane ring",J. Chem. Soc., ,1323-1338 (1938)
+#DOI:10.1039/jr9380001323
+
+
+#id .....:2188
+#TabNr   : 1729
+#Tmin    : 288.15
+#Tmax    : 303.15
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/56039
+288.15 0.02443 4.9e-05
+293.15 0.02382 4.8e-05
+303.15 0.02272 4.5e-05
+#PRP-8016i.1931
+#Hennaut-Roland;Lek,M. "Methods and equipment used at the Bureau of Physico-Chemical Standards. IV: Surface tension of a series of organic substances",Bull. Soc. Chim. Belg., 40,177-188 (1931)
+#DOI:
+
+
+#id .....:2269
+#TabNr   : 232
+#Tmin    : 293.2
+#Tmax    : 337.7
+#Unidades: N/m
+#UTI     : DDB-PCP:2007-DEC/28091
+320 0.02091
+325 0.02039
+330 0.01987
+335 0.01935
+293.2 0.02378
+298.1 0.02324
+302.8 0.02276
+308.2 0.02216
+313.1 0.02164
+318 0.02111
+322.8 0.02062
+327.9 0.02007
+337.7 0.01912
+#PRP-3619i.1994
+#Fernandez,J.;Williamson,A.M.;McLure,I.A. "Orthobaric surface tension of (methylcyclohexane + tetradecafluoromethylcyclohexane) in the critical region at temperatures from 320 K to 335 K",J. Chem. Thermodyn., 26[8],897-911 (1994)
+#DOI:10.1006/jcht.1994.1107

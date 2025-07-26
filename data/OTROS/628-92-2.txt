@@ -1,0 +1,34 @@
+@Cm
+#[label]: WW97-38V2
+#[Ref]:
+#[BibTeX]: WW97
+#[date]:2024-12-9
+#[by]:rodrigo
+17.9    28.25
+20.0    28.02
+42.1    25.44
+62.0    23.27
+@Cm
+#[label]:Qualey (1953)
+#[Ref]:Quayle, O. R. (1953). The Parachors of Organic Compounds. An Interpretation and Catalogue. Chemical Reviews, 53(3), 439-589.
+#[BibTex]:
+#[date]:2024-12-13
+#[by]:rodrigo
+13.5 28.28
+@
+#[label]:DETHERM-Liessmann1995
+#[Ref]:Liessmann,G.;Schmidt,W.;Reiffarth,S., "Recommended Thermophysical Data.", Data compilation of the Saechsische Olefinwerke Boehlen Germany, 1, 1995
+#[BibTex]:
+#[date]:2025-04-29
+#[by]:rodrigo
+253.15 0.03182
+278.15 0.02917
+303.15 0.02656
+328.15 0.02398
+353.15 0.02145
+378.15 0.01895
+403.15 0.01650
+428.15 0.01410
+453.15 0.01176
+478.15 0.00948
+503.15 0.00728

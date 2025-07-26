@@ -1,0 +1,98 @@
+#[Nombre]:1,2,3,4-TETRAHYDRONAPHTHALENE
+#[CASN]:119-64-2
+#[Familia]:CYCLOBENZENES
+#[SubFamilia]:TETRALINS
+#[Formula]:C10H12
+#[SMILES]:C1CCCc2ccccc21
+#[Structure]:(C6H4)(C4H8)
+#[SYN]:delta(sup 5,7,9)-NAPHTHANTRIENE
+#[SYN]:NAPHTHALENE-1,2,3,4-TETRAHYDRIDE
+#[SYN]:TETRALIN
+#[SYN]:TETRALINE
+#[TC]:720;
+#[PC]:3.65e+06;
+#[VC]:0.408;
+#[ZC]:0.249;
+#[MP]:237.4;
+#[TPT]:237.38;
+#[TPP]:0.133231;
+#[NBP]:480.77;
+#[HFOR]:2.661e+07;
+#[GFOR]:1.671e+08;
+#[ENT]:369640;
+#[HSTD]:-2.858e+07;
+#[GSTD]:1.471e+08;
+#[SSTD]:251720;
+#[HFUS]:1.245e+07;
+#[HCOM]:-5.3575e+09;
+#[ACEN]:0.335255;
+#[RG]:4.162e-10;
+#[DM]:7.3e-31;
+#[VDWV]:0.08098;
+#[VDWA]:9.12e+08;
+#[RI]:1.53919;
+#[AIT]:657;
+#[PAR]:328.3;
+#[HSUB]:6.54e+07;
+#[LVOL]:0.136729;
+#[SOLP]:19560;
+#[DC]:2.771;
+#[MW]:132.202;
+#[FP]:344;
+#[FLTU]:383;
+#[FLVL]:0.84;
+#[FLVU]:5;
+#[FLTL]:344.15;
+#[RefID]:1351
+#[Ref]:Tetralin, API Monograph Series, Publication 705, American Petroleum Institute, Washington, D.C., October 1978
+#[Year]:October 1978
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+273.15 0.0355
+283.15 0.0346
+293.15 0.03364
+298.15 0.03316
+303.15 0.03269
+313.15 0.03173
+323.15 0.03078
+333.15 0.02983
+343.15 0.02887
+353.15 0.02792
+363.15 0.027
+373.15 0.026
+#[Ajuste]: 106
+#2
+#0.063942
+#1.2285
+#[Calidad]: 237.38 0.039117 720 0 0.3 373
+
+
+#[RefID]:39
+#[Ref]:Riddick, J.A., Bunger, W.B.Organic Solvents: Physical Properties and Methods of Purification, 3rd ed., Wiley Interscience,  New York, 1970
+#[Year]:1970
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+306.15 0.03244
+
+
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+293.15 0.03364
+313.15 0.03173
+333.15 0.02983
+358.15 0.02744

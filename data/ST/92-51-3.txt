@@ -1,0 +1,106 @@
+#[Nombre]:BICYCLOHEXYL
+#[CASN]:92-51-3
+#[Familia]:MULTIRING CYCLOALKANES
+#[SubFamilia]:
+#[Formula]:C12H22
+#[SMILES]:C1CCCCC1C2CCCCC2
+#[Structure]:(C6H11)(C6H11)
+#[SYN]:1,1-BICYCLOHEXYL
+#[SYN]:BICYCLOHEXANE
+#[SYN]:DICYCLOHEXANE
+#[SYN]:DICYCLOHEXYL
+#[MW]:166.303;
+#[TC]:727;
+#[PC]:2.56e+06;
+#[VC]:0.598;
+#[ZC]:0.253;
+#[MP]:276.78;
+#[TPT]:276.78;
+#[TPP]:2.28024;
+#[NBP]:512.19;
+#[HFOR]:-2.157e+08;
+#[GFOR]:9.88962e+07;
+#[ENT]:450000;
+#[HSTD]:-2.737e+08;
+#[GSTD]:7.579e+07;
+#[SSTD]:333000;
+#[HFUS]:;
+#[HCOM]:-7.053e+09;
+#[ACEN]:0.427556;
+#[RG]:4.917e-10;
+#[DM]:0;
+#[VDWV]:0.11586;
+#[VDWA]:1.464e+09;
+#[RI]:1.47768;
+#[AIT]:518.15;
+#[PAR]:449.2;
+#[HSUB]:7.8e+07;
+#[LVOL]:0.188376;
+#[SOLP]:17080;
+#[FLTL]:359;
+#[FLTU]:406.3;
+#[FLVL]:0.65;
+#[FLVU]:5.1;
+#[FP]:358.15;
+#[DC]:2.182;
+#[RefID]:33
+#[Ref]:Jasper, J.J.The Surface Tension of Pure Liquid Compounds, J. Phys. Chem. Ref. Data, 1, 4, 1972, 841-1009
+#[Year]:1972
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Author
+#[Error]: < 1%
+#[Acp]: A
+288.15 0.03321
+293.15 0.03274
+303.15 0.03179
+313.15 0.03084
+323.15 0.02988
+333.15 0.02893
+343.15 0.02798
+353.15 0.02703
+363.15 0.02608
+#[Ajuste]: 106
+#2
+#0.06281
+#1.2676
+#[Calidad]: 276.78 0.034216 727 0 2.1 298
+
+
+#[RefID]:39
+#[Ref]:Riddick, J.A., Bunger, W.B.Organic Solvents: Physical Properties and Methods of Purification, 3rd ed., Wiley Interscience,  New York, 1970
+#[Year]:1970
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: Cited
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+293.65 0.03268
+314.35 0.03056
+
+
+#[RefID]:2272
+#[Ref]:Ruby, W.R., Loveland, R.P.Determination of the Density of a Fine Powder, J. Phys. Chem., 50, 1946, 345
+#[Year]:1946
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+298.15 0.03151
+
+
+#[RefID]:2226
+#[Ref]:Vogel, A.I.Physical Properties and Chemical Constitution. Part XXIII. Miscellaneous Compounds.  Investigation of the So-called Co-ordinate or Dative Link in Esters of Oxy-acids and in Nitro-paraffins by Molecular Refractivity Determinations Atomic, Structural, and Group Parachors and Refractivities., J. Chem. Soc., 1948, 1833-1855
+#[Year]:1948
+#[DataType]: Experimental
+#[SType]: Unevaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 1%
+#[Acp]: A
+289.05 0.03324
+359.85 0.02644

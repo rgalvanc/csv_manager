@@ -1,0 +1,69 @@
+#[Nombre]:n-PROPYLCYCLOPENTANE
+#[CASN]:2040-96-2
+#[Familia]:ALKYLCYCLOPENTANES
+#[SubFamilia]:N-CYCLOPENTANES
+#[Formula]:C8H16
+#[SMILES]:C1CCCC1(CCC)
+#[Structure]:(C5H9)CH2CH2CH3
+#[MW]:112.213;
+#[TC]:596;
+#[PC]:3.02e+06;
+#[VC]:0.428;
+#[ZC]:0.261;
+#[MP]:155.81;
+#[TPT]:155.81;
+#[TPP]:4.58874e-05;
+#[NBP]:404.11;
+#[HFOR]:-1.481e+08;
+#[GFOR]:5.344e+07;
+#[ENT]:414500;
+#[HSTD]:-1.8907e+08;
+#[GSTD]:4.3385e+07;
+#[SSTD]:310830;
+#[HFUS]:1.003e+07;
+#[HCOM]:-4.89356e+09;
+#[ACEN]:0.326642;
+#[RG]:4.135e-10;
+#[DM]:0;
+#[VDWV]:0.08062;
+#[VDWA]:1.022e+09;
+#[RI]:1.42389;
+#[AIT]:542.15;
+#[PAR]:322.9;
+#[HSUB]:5.69e+07;
+#[LVOL]:0.145193;
+#[SOLP]:16340;
+#[FLVL]:0.95;
+#[FLTL]:289;
+#[FLVU]:6.4;
+#[FLTU]:325;
+#[FP]:290;
+#[DC]:2.054;
+#[RefID]:47
+#[Ref]:Selected Values of Properties of Hydrocarbons and Related Compounds, American Petroleum Institute Research Project 44, Thermodynamic Research Center, Texas A&M University, College Station, Texas, 1980, loose-leaf data sheets; 1980-extant
+#[Year]:1980
+#[DataType]: Smoothed
+#[SType]: Evaluated
+#[SDetail]: 
+#[ESource]: Staff
+#[Error]: < 3%
+#[Acp]: A
+253.15 0.0289
+263.15 0.0279
+273.15 0.02691
+283.15 0.02583
+293.15 0.02495
+298.15 0.02446
+303.15 0.02397
+313.15 0.02299
+323.15 0.02201
+333.15 0.02103
+343.15 0.0201
+353.15 0.0191
+363.15 0.0181
+373.15 0.0171
+#[Ajuste]: 106
+#2
+#0.056376
+#1.2061
+#[Calidad]: 155.81 0.039117 596 0 0.6 373
